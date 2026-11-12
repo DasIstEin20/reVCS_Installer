@@ -1,5 +1,7 @@
 {
   "version": "1.34.0-beta",
   "bootstrap_bytes": 7281438,
-  "components": 13
+  "components": 13,
+  "game_version": "0.55 Alpha Update 8.1",
+  "game_update_tag": "v0.55-update8.1"
 }

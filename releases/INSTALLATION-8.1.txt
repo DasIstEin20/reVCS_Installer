@@ -1,0 +1,13 @@
+reVCS 0.55 Alpha Update 8.1
+
+Requires an existing 0.55 Alpha Update 8 installation managed by Setup.
+
+In reVCS Setup 1.34, open Updates, select Check game updates, then
+Apply available game updates. Setup downloads and verifies this package,
+backs up replaced files, and preserves your game data, settings and saves.
+An ISO conversion is not needed for this update.
+
+This package updates both Windows x86 and x64 executables. Apply it through
+Setup's updater so the installation manifest and version record are merged.
+
+Fixed: Proton startup failure caused by trailing whitespace in NPC spawn data.

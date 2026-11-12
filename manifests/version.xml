@@ -48,7 +48,7 @@
       </update>
     </updates>
   </game>
-  <installer version="1.34.1-beta" file="reVCS-Setup-1.34.1.exe" bytes="5397504" sha256="22c04051b3a745033f13c4f37be3ff7e38df0538e1e61c48ff5c338ecfbd1896" changelog="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.34.1-beta/README_INSTALLER_1_34_1_EN.txt">
+  <installer version="1.34.1-beta" file="reVCS-Setup-1.34.1.exe" bytes="5408256" sha256="b042ae3ea4a7faebadc1e9c579eb6e787471c1819692563db2045ad5be32abb0" changelog="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.34.1-beta/README_INSTALLER_1_34_1_EN.txt">
     <source url="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.34.1-beta/reVCS-Setup-1.34.1.exe" />
   </installer>
 </reVCSFeed>

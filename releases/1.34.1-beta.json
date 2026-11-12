@@ -5,26 +5,26 @@
   "installer_version": "1.34.1-beta",
   "game_version": "0.55 Alpha Update 8.1",
   "base_game_version": "0.55 Alpha Update 8",
-  "source_revision": "27cd964d6925c4f53012f9eb0f3046fb378d394c",
+  "source_revision": "f79393e9a7d0e87d13d00bf0a980fa7473c59424",
   "component_count": 13,
   "feed": "manifests/version.xml",
   "assets": [
     {
       "name": "INSTALLATION-1.34.1.txt",
-      "bytes": 1139,
-      "sha256": "115da1c7f5ac59cc84d622361011a253c8da4bdb01e651b8c14bc264d4cb70ed",
+      "bytes": 1431,
+      "sha256": "98b85057d764a734c2830f73a61d7d08937643e3a01bc44915bb2a5b070a4fbd",
       "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.34.1-beta/INSTALLATION-1.34.1.txt"
     },
     {
       "name": "installer.cfg",
-      "bytes": 1227,
-      "sha256": "563262869cc8ec305491f860752189cfde690bdaf25aee4e35c8301b7069f358",
+      "bytes": 1308,
+      "sha256": "c2601bfa52edae10fa8bda5ef766f0006181536433e6f130897454b7a17f91dd",
       "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.34.1-beta/installer.cfg"
     },
     {
       "name": "README_INSTALLER_1_34_1_EN.txt",
-      "bytes": 788,
-      "sha256": "bc411e1c54e89ac7a987eb15630ee382d7d4fbcb1c0b6abb6ec1d4376dbec1d3",
+      "bytes": 759,
+      "sha256": "43060619f05cf72171e1dfc8205010dcda51b83fd2467cd0a368c3dd2b7abfe5",
       "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.34.1-beta/README_INSTALLER_1_34_1_EN.txt"
     },
     {
@@ -95,14 +95,14 @@
     },
     {
       "name": "reVCS-Setup-1.34.1-bootstrap.zip",
-      "bytes": 7283469,
-      "sha256": "48ee8a4f68d6e69b7dd1e71f7372f33f5ba9a385cfdd43427fc848ba2765cdb6",
+      "bytes": 7288387,
+      "sha256": "ef09687ed923feb7a24dbd890db341b2e0b31ff0c84e3a2b2b185b485ee69a83",
       "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.34.1-beta/reVCS-Setup-1.34.1-bootstrap.zip"
     },
     {
       "name": "reVCS-Setup-1.34.1.exe",
-      "bytes": 5397504,
-      "sha256": "22c04051b3a745033f13c4f37be3ff7e38df0538e1e61c48ff5c338ecfbd1896",
+      "bytes": 5408256,
+      "sha256": "b042ae3ea4a7faebadc1e9c579eb6e787471c1819692563db2045ad5be32abb0",
       "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.34.1-beta/reVCS-Setup-1.34.1.exe"
     },
     {
@@ -126,14 +126,21 @@
     {
       "name": "SHA256SUMS-1.34.1.txt",
       "bytes": 1818,
-      "sha256": "13d5698b9855a8c93a4faa6543a41d05cdd3e8c104e2a399cf92181c1f0bb5f4",
+      "sha256": "a96ea9e40c7a22c253c8db12e4c51c2451d48d504f66447e95727aa93a511e06",
       "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.34.1-beta/SHA256SUMS-1.34.1.txt"
     },
     {
       "name": "version.xml",
       "bytes": 5243,
-      "sha256": "f8d820b1a248a20807a465e4eaaa09002bde5e38326bb2d3ef1fb6c63a36db8c",
+      "sha256": "5823c0de446eac1a3c5f88837624013801ad35582baef189e2d6a35193e33ca9",
       "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.34.1-beta/version.xml"
     }
-  ]
+  ],
+  "previous_builds": [
+    {
+      "source_revision": "27cd964d6925c4f53012f9eb0f3046fb378d394c",
+      "exe_sha256": "22c04051b3a745033f13c4f37be3ff7e38df0538e1e61c48ff5c338ecfbd1896"
+    }
+  ],
+  "refreshed_build": true
 }

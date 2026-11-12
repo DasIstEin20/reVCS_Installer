@@ -22,7 +22,7 @@ Quick mode covers the essentials. Extended mode adds more control, including opt
 
 Online access is enabled by default. Advanced → **Keep update backups** saves your choice immediately; disabling it removes temporary rollback files after successful game updates. Existing backups are preserved.
 
-Downloads and updates come from GitHub. Custom mirrors and offline installation are supported. Automatic replacement of the installer is disabled by default.
+Downloads and updates come from GitHub. Custom mirrors and offline installation are supported. Setup checks for its own updates on every launch and automatically replaces its EXE after verification. Advanced provides persistent switches for startup checks and automatic installation. Download cache is cleaned after use. Earlier 1.34.1 builds need one manual EXE replacement to acquire these features.
 
 Use the [SHA256 checksums](releases/SHA256SUMS-1.34.1.txt) to check downloaded files. Setup is a beta and reVCS is an alpha project; please include your source-disc edition, Setup version and relevant logs when [reporting an issue](https://github.com/DasIstEin20/reVCS_Installer/issues).
 

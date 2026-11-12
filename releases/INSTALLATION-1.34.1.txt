@@ -1,18 +1,22 @@
-reVCS Setup 1.34.1 beta
+reVCS Setup 1.34.1 beta (refreshed build)
 
 Extract the bootstrap ZIP into a writable folder and run reVCS-Setup-1.34.1.exe.
-Keep installer.cfg, version.xml and the tools folder beside the EXE.
-Online access is enabled by default. Setup downloads missing BIN components.
-For offline use, download all 13 BINs from this release and put them beside Setup.
-Use your own VCS PS2 ISO or extracted disc folder and an empty destination.
+Keep tools, installer.cfg and version.xml beside Setup. Online access is enabled.
+Setup checks for its own updates on every launch, verifies each download, replaces
+its EXE and restarts. Disable startup checks or automatic installation in Advanced.
+Welcome also provides Check Setup updates. Same-version refreshed builds are
+recognized by SHA256. The previous Setup is retained for rollback if startup fails.
 
-Existing installation: close Setup, back up its EXE and replace it with the new
-EXE (you may keep the installed name reVCS Setup.exe). Keep your installer.cfg
-and tools folder. Choose the correct installed folder on Welcome if needed.
-No game reinstall or ISO reconversion is required. Existing offline choices stay.
+Existing users: close Setup, replace its EXE with this refreshed 1.34.1 EXE and
+keep installer.cfg and tools. Old 1.34.1 builds require this one-time replacement;
+their earlier numeric-only checker cannot identify a same-version refreshed build.
+No game reinstall or ISO reconversion is required. Your game settings are preserved.
 
-Apply game Update 8.1 from Updates > Check game updates > Apply available game
-updates. Use Extended mode for Updates and Advanced > Keep update backups.
-The backup choice is saved immediately and applies to future game updates and
-runtime repairs. Turning it off removes temporary rollback files after success.
-Previous backups are preserved. Game data, settings and saves remain in place.
+Game update actions appear after choosing or installing a game. Apply game 8.1
+through Updates. Advanced > Keep update backups saves either checkbox state.
+Only changed files are staged; turning retained backups off removes temporary
+rollback files after success. Download cache is cleaned after use and at startup.
+Local package folders and unrecognized files are not removed by cache cleanup.
+
+Offline installation: download the same 13 BIN components from this release,
+place them beside Setup and version.xml, then disable online access.

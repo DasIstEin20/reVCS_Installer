@@ -1,11 +1,9 @@
 # Setup 1.34.1 beta
 
-Fixed: Installed managers retain their own EU/US destination; release notes fit their text and include Continue.
+Refreshed **Setup 1.34.1** build (same version and release).
 
-Added: Download percentage, transfer speed and short update status; a persistent Advanced toggle for retained game-update backups.
+Added: Automatic startup checks with an Advanced opt-out; verified EXE replacement, restart and rollback.
+Fixed: Same-version build detection, game-update actions without an installed game, and Setup release notes.
+Changed: Used download cache and completed updater staging are cleaned automatically.
 
-Changed: Updates stage changed files only, with rollback for interrupted operations. Full-game copying is removed.
-
-Online access is enabled by default; existing preferences are preserved. The base game and conversion are unchanged. Game Update 8.1 remains available separately through Updates.
-
-Extract the bootstrap, keep its tools folder and run Setup. Existing users can close Setup and replace its EXE while keeping installer.cfg. No ISO reconversion is required.
+Earlier 1.34.1 fixes remain included. Game/converter components are unchanged. Existing old 1.34.1 builds need one manual EXE replacement to acquire same-version detection. Keep installer.cfg and tools; no ISO reconversion is needed.

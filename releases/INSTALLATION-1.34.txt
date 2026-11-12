@@ -1,28 +1,21 @@
 reVCS Setup 1.34 beta - installation and release files
 For reVCS Alpha 0.55 Update 8, Windows 10 / 11 (64-bit)
 
-REVIEW STATUS
-This release is a private draft. The owner's fresh EU_PL and US installation
-tests are pending. Earlier Setup 1.33 full EU installation and EU/US/PL resource
-conversion checks are retained as baseline evidence. They do not replace those
-new owner tests. Publication and repository visibility await owner approval.
-
-QUICK START AFTER PUBLICATION
+QUICK START
 1. Download reVCS-Setup-1.34-bootstrap.zip from release v1.34.0-beta.
 2. Extract the ZIP into a writable folder. Keep its tools folder beside Setup.
 3. Run reVCS-Setup-1.34.exe and select your own PS2 ISO or extracted disc folder.
 4. Choose a new or empty destination. Setup obtains and checks missing components.
 
-OFFLINE INSTALLATION AND CURRENT PRIVATE REVIEW
+OFFLINE INSTALLATION
 Use the complete local kit: Setup, installer.cfg, version.xml, tools and all
 13 reVCS-*-1.34.0.bin files. Keep them together or select the package folder in
-Setup. Switch online access off before installing. Public GitHub release URLs
-and the default raw feed will become available only after publication.
+Setup. Switch online access off before installing and select your local PS2 ISO
+or extracted disc folder.
 
 INTEGRITY
-SHA256SUMS-1.34.txt lists the 19 distribution files other than the checksum file
-itself. The committed 1.34.0-beta.json catalog pins all 20 assets, including the
-checksum file, by size and SHA256. version.xml pins the EXE and 13 BIN components.
+Compare downloaded files with SHA256SUMS-1.34.txt. Setup also checks component
+sizes and SHA256 hashes automatically before using them.
 For a downloaded file, Windows PowerShell can show its SHA256 with:
   Get-FileHash -LiteralPath '.\reVCS-Setup-1.34-bootstrap.zip' -Algorithm SHA256
 
@@ -35,10 +28,10 @@ The editable installer feed is:
 https://raw.githubusercontent.com/DasIstEin20/reVCS_Installer/main/manifests/version.xml
 Default retired project Archive.org channels migrate to that address. Custom
 mirrors and offline preferences are preserved. Installer self-replacement is
-disabled by default. Publishing the installer does not require GitHub Pages.
+disabled by default. Download a new Setup manually when you want to upgrade it.
 
-Setup 1.34 changes the interface and distribution. Its game/converter payload
-matches the qualified 1.33 baseline apart from installer version metadata.
+Setup 1.34 updates the interface and downloads. The included game version is
+reVCS Alpha 0.55 Update 8. Both Setup and the game are still in development.
 Optional PCSX2 texture packs remain user-supplied. No PS2 disc image is included.
 
 Unofficial fan project, not affiliated with Rockstar Games or Take-Two.

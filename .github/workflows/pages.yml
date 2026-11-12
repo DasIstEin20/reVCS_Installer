@@ -13,6 +13,8 @@ concurrency:
   cancel-in-progress: false
 jobs:
   deploy:
+    # Private staging waits for the owner's publication decision.
+    if: ${{ !github.event.repository.private }}
     runs-on: ubuntu-latest
     environment:
       name: github-pages

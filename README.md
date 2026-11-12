@@ -8,6 +8,8 @@ Download the bootstrap ZIP, extract it into a writable folder and run Setup. Win
 
 The editable update channel is [`manifests/version.xml`](manifests/version.xml). Artifacts are versioned release assets with sizes and SHA256 checksums. Old default Archive.org channels migrate automatically; custom mirrors remain available. Installer self-replacement is disabled by default.
 
+The initial 1.34 release is staged as a draft pending owner review. Pages deployment waits while this repository is private. After approval, make the distribution repository public, publish the draft release, select **GitHub Actions** in **Settings → Pages**, and run **Deploy reVCS Pages**. Public downloads and the default raw update feed require that publication step.
+
 Quick and Extended modes, save backups, launch options and optional user-supplied PCSX2 texture packs remain available. Setup 1.34 retains the qualified 1.33 game build and conversion recipes; it adds no gameplay update.
 
 This distribution repository contains the website, catalogs and release instructions. The `site/` directory is deployed by the GitHub Pages workflow. Game disc images and full original game data are not included. Project-specific additions and third-party tools retain their notices in the installation kit.

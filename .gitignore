@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+local-qa/
+*.bin
+*.exe
+*.zip
+!site/assets/*.png

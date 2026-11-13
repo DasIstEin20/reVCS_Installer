@@ -1,0 +1,50 @@
+{
+  "schema": "revcs-managed-game-update/v1",
+  "tag": "v0.55-update8.2",
+  "release_id": 444789497,
+  "update_id": "Update8.2",
+  "from": "0.55 Alpha Update 8.1",
+  "to": "0.55 Alpha Update 8.2",
+  "installer_version": "1.34.1-beta",
+  "source_revision": "67c3bfd983768faa4b70c9e3af8e04457818da71",
+  "qualified_gameplay_commit": "db0392f893b6c43504d898ed4dd6a59022afebc2",
+  "feed": "manifests/version.xml",
+  "source_code_in_update": false,
+  "assets": [
+    {
+      "name": "CHANGELOG_UPDATE_8_2_EN.txt",
+      "bytes": 300,
+      "sha256": "42f65cd6d2c9740b4e8cbd6bc3620b261afb33f58724bca152f5fc069f8d8b2b",
+      "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update8.2/CHANGELOG_UPDATE_8_2_EN.txt"
+    },
+    {
+      "name": "README_UPDATE_8_2_EN.txt",
+      "bytes": 717,
+      "sha256": "ea465dbc9fd07ad8a51af0dfad92bc9edc5b96f6307426599b5e2e05de799c83",
+      "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update8.2/README_UPDATE_8_2_EN.txt"
+    },
+    {
+      "name": "reVCS-Update-8.2.zip",
+      "bytes": 34866710,
+      "sha256": "3cc8864f1799dee18a8ae525fa4171d009e6475f1c3a658d1ebdc8eaed960522",
+      "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update8.2/reVCS-Update-8.2.zip"
+    },
+    {
+      "name": "SHA256SUMS-8.2.txt",
+      "bytes": 350,
+      "sha256": "fd7dd1e87582b1f23e13a160e2aedecb4dd7d4d3e00d130593600224e1bfa5f2",
+      "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update8.2/SHA256SUMS-8.2.txt"
+    },
+    {
+      "name": "version.xml",
+      "bytes": 5731,
+      "sha256": "902be2c1e44b5848381360da6d35ac2bf939fd05ae9293ccd9a9d3424612acb0",
+      "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update8.2/version.xml"
+    }
+  ],
+  "verification": {
+    "runtime": "Existing targeted x64 gameplay observations reused; release source differs only in version metadata.",
+    "installer": "Shipped Setup1.34.1 parser; representative EU/US managed transactions.",
+    "x86": "Compiled; no repeated x86 runtime tests."
+  }
+}

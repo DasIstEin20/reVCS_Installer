@@ -1,0 +1,14 @@
+reVCS 0.55 Alpha Update 8.2
+
+Install through reVCS Setup 1.34.1 or newer:
+Updates -> Check game updates -> Apply available game updates.
+Setup applies the required 8.1 -> 8.2 chain automatically from Update 8.
+No ISO conversion is required. Settings, saves, optional content and your
+original EU/US game files are preserved. The saved backup preference applies.
+
+This runtime package updates both Windows x64 and x86. It includes the
+required shared animations and boat flotation data. Use Setup to retain
+the complete installed manifest and advance the local version record.
+
+F1 replays recent gameplay; F1 or Esc returns to the live game.
+Debug input replay remains deferred. Further driving evaluation is ongoing.

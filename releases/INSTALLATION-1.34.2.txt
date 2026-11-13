@@ -1,0 +1,22 @@
+reVCS Setup 1.34.2 beta
+
+Extract the bootstrap ZIP into a writable folder. Keep the tools folder beside
+reVCS-Setup-1.34.2.exe and launch the EXE.
+
+Install from your own Vice City Stories PS2 ISO or extracted disc folder.
+After initial conversion, use Welcome -> Check Game Updates to select the
+declared Update8 ->8.1 ->8.2 chain. Review the notes, then Install Update.
+Existing managed installations can select their current game folder directly.
+
+Checks and downloads are manual. Check Setup Updates on Welcome offers a
+verified installer replacement after confirmation. Online access is enabled;
+BitTorrent is disabled by default. Advanced retains optional source settings
+and the persistent Keep update backups preference.
+
+Quick and Extended both show Changelog. Extended -> Advanced provides
+Emergency: Identify Existing Installation for missing/damaged source identity.
+It reads existing files, requires confirmation and backs up localversion.xml.
+It does not convert assets or infer an unknown game-update baseline.
+
+For offline installation, put all13 listed BIN components beside Setup and
+version.xml, then disable online access. Saves and user settings are retained.

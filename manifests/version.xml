@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <reVCSFeed schema="2" channel="alpha" id="revcs-bullet-update8">
-  <game version="0.55 Alpha Update 8.1" layout="pc-v2-rvarch">
+  <game version="0.55 Alpha Update 8.2" layout="pc-v2-rvarch">
     <packages>
       <package id="animations" version="1.34.0" file="reVCS-animations-1.34.0.bin" bytes="1101281" sha256="eda84ebb09778c8359bfe78c3859d7af2e37400ed8e2fa67dfba19f2648428a7">
         <source url="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.34.1-beta/reVCS-animations-1.34.0.bin" />
@@ -45,6 +45,9 @@
     <updates>
       <update id="Update8.1" version="8.1.0" file="reVCS-Update-8.1.zip" bytes="6449736" sha256="9fd76532ec60c02e3f200fc60b9ab47278bcf9d01b3f82efe57bc4e1847fa604" changelog="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update8.1/CHANGELOG_UPDATE_8_1_EN.txt" from="0.55 Alpha Update 8" to="0.55 Alpha Update 8.1">
         <source url="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update8.1/reVCS-Update-8.1.zip" />
+      </update>
+      <update id="Update8.2" version="8.2.0" file="reVCS-Update-8.2.zip" bytes="34866710" sha256="3cc8864f1799dee18a8ae525fa4171d009e6475f1c3a658d1ebdc8eaed960522" changelog="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update8.2/CHANGELOG_UPDATE_8_2_EN.txt" from="0.55 Alpha Update 8.1" to="0.55 Alpha Update 8.2">
+        <source url="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update8.2/reVCS-Update-8.2.zip" />
       </update>
     </updates>
   </game>

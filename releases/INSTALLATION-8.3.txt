@@ -1,0 +1,16 @@
+reVCS 0.55 Alpha Update 8.3
+
+Install through reVCS Setup 1.34.2 or newer:
+Updates -> Check game updates -> Apply available game updates.
+Setup applies the required Update8 -> 8.1 -> 8.2 -> 8.3 chain automatically.
+No ISO conversion is required. Regional EU/US files, optional content, saves
+and settings are retained. This package updates both Windows x64 and x86.
+
+World lighting now responds to time of day and weather. Keep or adjust your
+brightness setting as preferred. The Display menu includes Extended Vehicle LOD.
+Forklift defaults: Num9 raises, Num6 lowers; hints follow configured bindings.
+Character texture ZIPs go in skins/ beside the executable.
+See ReadMe/CHARACTER_SKINS.md for the pack format and current limitations.
+
+Validation reuses completed targeted x64 development checks. x86 was compiled;
+further gameplay testing remains with users. Debug input replay stays deferred.

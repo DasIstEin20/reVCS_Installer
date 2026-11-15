@@ -1,0 +1,16 @@
+reVCS 0.55 Alpha Update 8.4
+
+One cumulative package supports existing Update 8, 8.1, 8.2 and 8.3.
+Close the game. In Setup 1.34.3 choose the installed game folder, then
+Check Game Updates -> Install Update. No intermediate ZIPs or ISO conversion
+are needed. Both Windows x86 and x64 executables are included.
+
+Use Setup to merge the installed inventory and advance localversion.xml.
+The updater retains original EU/US scripts and text, saves, settings, optional
+textures and custom additions. It uses the existing Keep update backups choice.
+Source archives remain separate; an old source ZIP may stay as an extra file.
+
+Setup 1.34.3 defaults Play reVCS to x86. Launch Options selects x86 or x64.
+New installations use Windows Direct3D 9. DXVK is an explicit optional backend
+and requires Vulkan support. Existing custom renderer DLLs are preserved by
+the game update.

@@ -1,0 +1,18 @@
+reVCS Setup 1.34.3 beta
+
+Fixed: disabled DXVK now selects Windows Direct3D 9 instead of retaining the
+bundled x64 Vulkan wrapper. The isolated x64 DLL comes from the current
+Windows installation; Microsoft system DLLs are not distributed in this kit.
+Added: persistent x86/x64 default for Play reVCS in Launch Options.
+Changed: x86 is the default; explicit x86/x64 launch actions remain available.
+Changed: new shortcuts launch Setup --play and follow that saved preference.
+Updated: official reVCS logo and the Android launcher icon for Setup.
+
+Extended Install offers Windows D3D9, bundled x64 DXVK or a latest DXVK
+download with architecture selection. DXVK requires Vulkan. Quick Install
+uses Windows D3D9 unless a different backend was explicitly selected.
+
+Game update 8.4 supports Update 8, 8.1, 8.2 and 8.3 directly. The unchanged
+ISO converter installs baseline Update 8; then Check Game Updates offers 8.4.
+Online access is enabled; updates require manual confirmation. Existing
+preferences, optional DLLs, custom additions, settings and saves are retained.

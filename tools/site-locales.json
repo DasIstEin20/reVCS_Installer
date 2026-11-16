@@ -1,0 +1,998 @@
+{
+  "reVCS — GTA Vice City Stories Native PC Port": {
+    "pl": "reVCS — GTA Vice City Stories: natywny port na PC",
+    "de": "reVCS — GTA Vice City Stories: nativer PC-Port",
+    "fr": "reVCS — GTA Vice City Stories : portage PC natif",
+    "es": "reVCS — GTA Vice City Stories: versión nativa para PC"
+  },
+  "Skip to content": {
+    "pl": "Przejdź do treści",
+    "de": "Zum Inhalt springen",
+    "fr": "Aller au contenu",
+    "es": "Saltar al contenido"
+  },
+  "Menu": {
+    "pl": "Menu",
+    "de": "Menü",
+    "fr": "Menu",
+    "es": "Menú"
+  },
+  "The project": {
+    "pl": "Projekt",
+    "de": "Das Projekt",
+    "fr": "Le projet",
+    "es": "El proyecto"
+  },
+  "Videos": {
+    "pl": "Filmy",
+    "de": "Videos",
+    "fr": "Vidéos",
+    "es": "Vídeos"
+  },
+  "Get started": {
+    "pl": "Jak zacząć",
+    "de": "Erste Schritte",
+    "fr": "Bien démarrer",
+    "es": "Primeros pasos"
+  },
+  "FAQ": {
+    "pl": "FAQ",
+    "de": "FAQ",
+    "fr": "FAQ",
+    "es": "Preguntas frecuentes"
+  },
+  "Get Setup": {
+    "pl": "Pobierz Setup",
+    "de": "Setup holen",
+    "fr": "Obtenir Setup",
+    "es": "Descargar Setup"
+  },
+  "FREE · UNOFFICIAL · EARLY ALPHA": {
+    "pl": "DARMOWY · NIEOFICJALNY · WCZESNA ALPHA",
+    "de": "KOSTENLOS · INOFFIZIELL · FRÜHE ALPHA",
+    "fr": "GRATUIT · NON OFFICIEL · ALPHA PRÉCOCE",
+    "es": "GRATUITO · NO OFICIAL · ALFA TEMPRANA"
+  },
+  "Same Vice City.": {
+    "pl": "To samo Vice City.",
+    "de": "Dasselbe Vice City.",
+    "fr": "Le même Vice City.",
+    "es": "El mismo Vice City."
+  },
+  "New possibilities.": {
+    "pl": "Nowe możliwości.",
+    "de": "Neue Möglichkeiten.",
+    "fr": "De nouvelles possibilités.",
+    "es": "Nuevas posibilidades."
+  },
+  "Grand Theft Auto: Vice City Stories — Native PC Port": {
+    "pl": "Grand Theft Auto: Vice City Stories — natywny port na PC",
+    "de": "Grand Theft Auto: Vice City Stories — nativer PC-Port",
+    "fr": "Grand Theft Auto: Vice City Stories — portage PC natif",
+    "es": "Grand Theft Auto: Vice City Stories — versión nativa para PC"
+  },
+  "Experience Vice City Stories on PC through reVCS, an independent native port built on reVC and librw. Bring your own PS2 game files, install through reVCS Setup, and follow the project’s ongoing development.": {
+    "pl": "Odkryj Vice City Stories na PC dzięki reVCS — niezależnemu, natywnemu portowi opartemu na reVC i librw. Przygotuj własne pliki gry z PS2, zainstaluj je przez reVCS Setup i śledź dalszy rozwój projektu.",
+    "de": "Erlebe Vice City Stories auf dem PC mit reVCS, einem unabhängigen nativen Port auf Basis von reVC und librw. Nutze deine eigenen PS2-Spieldateien, installiere sie mit reVCS Setup und verfolge die weitere Entwicklung.",
+    "fr": "Découvrez Vice City Stories sur PC avec reVCS, un portage natif indépendant fondé sur reVC et librw. Utilisez vos propres fichiers du jeu PS2, installez-les avec reVCS Setup et suivez les progrès du projet.",
+    "es": "Disfruta de Vice City Stories en PC con reVCS, una versión nativa independiente basada en reVC y librw. Aporta tus propios archivos del juego de PS2, instálalos con reVCS Setup y sigue el desarrollo del proyecto."
+  },
+  "Find your way back": {
+    "pl": "Wróć do Vice City",
+    "de": "Finde deinen Weg zurück",
+    "fr": "Retrouvez le chemin de Vice City",
+    "es": "Vuelve a Vice City"
+  },
+  "How it works": {
+    "pl": "Jak to działa",
+    "de": "So funktioniert es",
+    "fr": "Comment ça marche",
+    "es": "Cómo funciona"
+  },
+  "Windows 10 / 11 (64-bit) · Your own PS2 copy required": {
+    "pl": "Windows 10 / 11 (64-bit) · Wymagana własna kopia gry na PS2",
+    "de": "Windows 10 / 11 (64 Bit) · Eigene PS2-Kopie erforderlich",
+    "fr": "Windows 10 / 11 (64 bits) · Votre exemplaire PS2 est requis",
+    "es": "Windows 10 / 11 (64 bits) · Necesitas tu propia copia de PS2"
+  },
+  "WELCOME BACK TO": {
+    "pl": "WITAJ Z POWROTEM W",
+    "de": "WILLKOMMEN ZURÜCK IN",
+    "fr": "DE RETOUR À",
+    "es": "DE VUELTA EN"
+  },
+  "SUNSHINE. STORIES. SECOND CHANCES.": {
+    "pl": "SŁOŃCE. HISTORIE. DRUGIE SZANSE.",
+    "de": "SONNE. GESCHICHTEN. ZWEITE CHANCEN.",
+    "fr": "SOLEIL. HISTOIRES. NOUVELLES CHANCES.",
+    "es": "SOL. HISTORIAS. SEGUNDAS OPORTUNIDADES."
+  },
+  "PC PROJECT": {
+    "pl": "PROJEKT NA PC",
+    "de": "PC-PROJEKT",
+    "fr": "PROJET PC",
+    "es": "PROYECTO PARA PC"
+  },
+  "THERE’S MORE TO THE STORY": {
+    "pl": "TA HISTORIA MA CIĄG DALSZY",
+    "de": "DIE GESCHICHTE GEHT WEITER",
+    "fr": "L’HISTOIRE CONTINUE",
+    "es": "LA HISTORIA CONTINÚA"
+  },
+  "THE CURRENT CHAPTER": {
+    "pl": "OBECNY ROZDZIAŁ",
+    "de": "DAS AKTUELLE KAPITEL",
+    "fr": "LE CHAPITRE ACTUEL",
+    "es": "EL CAPÍTULO ACTUAL"
+  },
+  "BULLET PHYSICS BUILD": {
+    "pl": "WERSJA Z BULLET PHYSICS",
+    "de": "VERSION MIT BULLET PHYSICS",
+    "fr": "VERSION AVEC BULLET PHYSICS",
+    "es": "VERSIÓN CON BULLET PHYSICS"
+  },
+  "01 / THE PROJECT": {
+    "pl": "01 / PROJEKT",
+    "de": "01 / DAS PROJEKT",
+    "fr": "01 / LE PROJET",
+    "es": "01 / EL PROYECTO"
+  },
+  "reconstructed for PC.": {
+    "pl": "odtworzone na PC.",
+    "de": "für den PC rekonstruiert.",
+    "fr": "reconstruit pour PC.",
+    "es": "reconstruido para PC."
+  },
+  "The streets you remember. A native Windows project.": {
+    "pl": "Znajome ulice. Natywny projekt na Windows.",
+    "de": "Vertraute Straßen. Ein natives Windows-Projekt.",
+    "fr": "Les rues de vos souvenirs. Un projet Windows natif.",
+    "es": "Las calles que recuerdas. Un proyecto nativo para Windows."
+  },
+  "reVCS brings Grand Theft Auto: Vice City Stories to Windows using reVC and": {
+    "pl": "reVCS przenosi Grand Theft Auto: Vice City Stories na Windows, korzystając z reVC i",
+    "de": "reVCS bringt Grand Theft Auto: Vice City Stories mithilfe von reVC und",
+    "fr": "reVCS porte Grand Theft Auto: Vice City Stories sur Windows avec reVC et",
+    "es": "reVCS lleva Grand Theft Auto: Vice City Stories a Windows con reVC y"
+  },
+  ". It reconstructs VCS-specific gameplay systems and runs the original PS2 scripts through a dedicated SCM virtual machine.": {
+    "pl": ". Projekt odtwarza systemy rozgrywki charakterystyczne dla VCS i uruchamia oryginalne skrypty PS2 we własnej maszynie wirtualnej SCM.",
+    "de": " auf Windows. Das Projekt rekonstruiert VCS-spezifische Spielsysteme und führt die ursprünglichen PS2-Skripte in einer eigenen SCM-VM aus.",
+    "fr": ". Le projet reconstruit les systèmes de jeu propres à VCS et exécute les scripts PS2 d’origine dans une machine virtuelle SCM dédiée.",
+    "es": ". El proyecto reconstruye los sistemas de juego propios de VCS y ejecuta los scripts originales de PS2 en una máquina virtual SCM específica."
+  },
+  "The current build uses": {
+    "pl": "Obecna wersja korzysta z",
+    "de": "Die aktuelle Version nutzt",
+    "fr": "La version actuelle utilise",
+    "es": "La versión actual utiliza"
+  },
+  "and includes native x86 and x64 executables. The project remains in early alpha: gameplay, rendering, physics, compatibility and performance continue to evolve with each update.": {
+    "pl": "i zawiera natywne pliki wykonywalne x86 i x64. Projekt nadal jest we wczesnej fazie alpha: rozgrywka, grafika, fizyka, zgodność i wydajność rozwijają się wraz z kolejnymi aktualizacjami.",
+    "de": "und enthält native x86- und x64-Programme. Das Projekt befindet sich noch in einer frühen Alpha: Gameplay, Grafik, Physik, Kompatibilität und Leistung entwickeln sich mit jedem Update weiter.",
+    "fr": "et comprend des exécutables natifs x86 et x64. Le projet reste en alpha précoce : gameplay, rendu, physique, compatibilité et performances évoluent à chaque mise à jour.",
+    "es": "e incluye ejecutables nativos x86 y x64. El proyecto sigue en una fase alfa temprana: la jugabilidad, los gráficos, la física, la compatibilidad y el rendimiento evolucionan con cada actualización."
+  },
+  "Setup releases & project updates": {
+    "pl": "Wydania Setup i aktualności projektu",
+    "de": "Setup-Versionen & Projektneuigkeiten",
+    "fr": "Versions de Setup et actualités du projet",
+    "es": "Versiones de Setup y novedades del proyecto"
+  },
+  "Native PC project": {
+    "pl": "Natywny projekt na PC",
+    "de": "Natives PC-Projekt",
+    "fr": "Un projet PC natif",
+    "es": "Un proyecto nativo para PC"
+  },
+  "Built on reVC / librw, with Windows x86 and x64 game executables.": {
+    "pl": "Oparty na reVC / librw, z plikami wykonywalnymi gry dla Windows x86 i x64.",
+    "de": "Auf Basis von reVC / librw, mit x86- und x64-Spielprogrammen für Windows.",
+    "fr": "Fondé sur reVC / librw, avec des exécutables Windows x86 et x64.",
+    "es": "Basado en reVC / librw, con ejecutables del juego para Windows x86 y x64."
+  },
+  "Your game, converted": {
+    "pl": "Twoja gra po konwersji",
+    "de": "Dein Spiel, konvertiert",
+    "fr": "Votre jeu, converti",
+    "es": "Tu juego, convertido"
+  },
+  "Your own PS2 files supply the original game data. No disc image is included.": {
+    "pl": "Oryginalne dane pochodzą z Twoich plików gry na PS2. Obraz płyty nie jest dołączony.",
+    "de": "Die Originaldaten stammen aus deinen eigenen PS2-Dateien. Ein Disc-Abbild ist nicht enthalten.",
+    "fr": "Vos fichiers PS2 fournissent les données originales du jeu. Aucune image disque n’est incluse.",
+    "es": "Los datos originales proceden de tus propios archivos de PS2. No se incluye ninguna imagen del disco."
+  },
+  "Still taking shape": {
+    "pl": "Wciąż w rozwoju",
+    "de": "Noch in Entwicklung",
+    "fr": "Toujours en chantier",
+    "es": "Todavía en desarrollo"
+  },
+  "This is an alpha. Expect rough edges, share useful reports and help shape the next update.": {
+    "pl": "To wersja alpha. Spodziewaj się niedociągnięć, przesyłaj przydatne zgłoszenia i pomóż kształtować kolejne aktualizacje.",
+    "de": "Dies ist eine Alpha. Rechne mit Ecken und Kanten, melde Probleme und hilf, das nächste Update mitzugestalten.",
+    "fr": "C’est une alpha. Des défauts subsistent : vos retours utiles contribuent aux prochaines mises à jour.",
+    "es": "Es una alfa. Aún hay aspectos por pulir: envía informes útiles y ayuda a dar forma a las próximas actualizaciones."
+  },
+  "02 / DEVELOPMENT SHOWCASES": {
+    "pl": "02 / FILMY Z ROZWOJU",
+    "de": "02 / ENTWICKLUNGSVIDEOS",
+    "fr": "02 / VIDÉOS DE DÉVELOPPEMENT",
+    "es": "02 / VÍDEOS DE DESARROLLO"
+  },
+  "See reVCS": {
+    "pl": "Zobacz reVCS",
+    "de": "Sieh reVCS",
+    "fr": "Découvrez reVCS",
+    "es": "Mira reVCS"
+  },
+  "in Action": {
+    "pl": "w akcji",
+    "de": "in Aktion",
+    "fr": "en action",
+    "es": "en acción"
+  },
+  "Vice City Stories. Running natively on PC.": {
+    "pl": "Vice City Stories. Natywnie na PC.",
+    "de": "Vice City Stories. Nativ auf dem PC.",
+    "fr": "Vice City Stories. En natif sur PC.",
+    "es": "Vice City Stories. De forma nativa en PC."
+  },
+  "Explore gameplay footage, development showcases, and the ongoing progress of reVCS — from its early public demonstrations to the latest improvements.": {
+    "pl": "Zobacz rozgrywkę, prezentacje kolejnych wersji i postępy reVCS — od pierwszych publicznych pokazów po najnowsze usprawnienia.",
+    "de": "Entdecke Gameplay, Entwicklungsvideos und die Fortschritte von reVCS — von den ersten öffentlichen Vorführungen bis zu den jüngsten Verbesserungen.",
+    "fr": "Explorez les séquences de jeu, les démonstrations et les progrès de reVCS, des premières présentations publiques aux dernières améliorations.",
+    "es": "Descubre la jugabilidad, las demostraciones de desarrollo y los avances de reVCS, desde las primeras presentaciones públicas hasta las mejoras más recientes."
+  },
+  "Watch video": {
+    "pl": "Obejrzyj film",
+    "de": "Video ansehen",
+    "fr": "Voir la vidéo",
+    "es": "Ver vídeo"
+  },
+  "FEATURED SHOWCASE": {
+    "pl": "WYRÓŻNIONY FILM",
+    "de": "IM FOKUS",
+    "fr": "À LA UNE",
+    "es": "VÍDEO DESTACADO"
+  },
+  "Watch on YouTube": {
+    "pl": "Obejrzyj na YouTube",
+    "de": "Auf YouTube ansehen",
+    "fr": "Regarder sur YouTube",
+    "es": "Ver en YouTube"
+  },
+  "All videos are hosted on YouTube. If embedded playback is unavailable, use “Watch on YouTube”.": {
+    "pl": "Wszystkie filmy są dostępne na YouTube. Jeśli odtwarzacz na stronie nie działa, wybierz „Obejrzyj na YouTube”.",
+    "de": "Alle Videos werden auf YouTube bereitgestellt. Falls die Wiedergabe hier nicht verfügbar ist, wähle „Auf YouTube ansehen“.",
+    "fr": "Toutes les vidéos sont hébergées sur YouTube. Si la lecture intégrée est indisponible, choisissez « Regarder sur YouTube ».",
+    "es": "Todos los vídeos están alojados en YouTube. Si la reproducción integrada no está disponible, elige «Ver en YouTube»."
+  },
+  "LESS SETUP. MORE VICE CITY.": {
+    "pl": "MNIEJ INSTALOWANIA. WIĘCEJ VICE CITY.",
+    "de": "WENIGER EINRICHTEN. MEHR VICE CITY.",
+    "fr": "MOINS DE PRÉPARATIFS. PLUS DE VICE CITY.",
+    "es": "MENOS PREPARATIVOS. MÁS VICE CITY."
+  },
+  "Meet your": {
+    "pl": "Poznaj swoją",
+    "de": "Dein Weg",
+    "fr": "Votre chemin",
+    "es": "Tu camino"
+  },
+  "way back.": {
+    "pl": "drogę powrotną.",
+    "de": "zurück.",
+    "fr": "du retour.",
+    "es": "de vuelta."
+  },
+  "One place to install, manage updates, look after your saves and launch the game.": {
+    "pl": "Jedno miejsce do instalacji, aktualizacji, tworzenia kopii zapisów i uruchamiania gry.",
+    "de": "Ein Ort zum Installieren, Aktualisieren, Sichern deiner Spielstände und Starten des Spiels.",
+    "fr": "Un seul outil pour installer, gérer les mises à jour, sauvegarder vos parties et lancer le jeu.",
+    "es": "Un solo lugar para instalar, gestionar actualizaciones, cuidar tus partidas guardadas e iniciar el juego."
+  },
+  "Quick mode for the essentials": {
+    "pl": "Tryb Quick — najważniejsze funkcje",
+    "de": "Quick-Modus für das Wesentliche",
+    "fr": "Mode Quick pour l’essentiel",
+    "es": "Modo Quick para lo esencial"
+  },
+  "Extended mode for more control": {
+    "pl": "Tryb Extended — więcej kontroli",
+    "de": "Extended-Modus für mehr Kontrolle",
+    "fr": "Mode Extended pour plus de contrôle",
+    "es": "Modo Extended para mayor control"
+  },
+  "Local packages and offline installation": {
+    "pl": "Pakiety lokalne i instalacja offline",
+    "de": "Lokale Pakete und Offline-Installation",
+    "fr": "Paquets locaux et installation hors ligne",
+    "es": "Paquetes locales e instalación sin conexión"
+  },
+  "Optional PCSX2 texture-pack import": {
+    "pl": "Opcjonalny import paczek tekstur PCSX2",
+    "de": "Optionaler Import von PCSX2-Texturpaketen",
+    "fr": "Import facultatif de packs de textures PCSX2",
+    "es": "Importación opcional de paquetes de texturas PCSX2"
+  },
+  "Get Setup 1.34.3 beta": {
+    "pl": "Pobierz Setup 1.34.3 beta",
+    "de": "Setup 1.34.3 Beta holen",
+    "fr": "Obtenir Setup 1.34.3 bêta",
+    "es": "Descargar Setup 1.34.3 beta"
+  },
+  "THE ACTUAL WINDOWS APP": {
+    "pl": "TAK WYGLĄDA APLIKACJA NA WINDOWS",
+    "de": "DIE TATSÄCHLICHE WINDOWS-APP",
+    "fr": "L’APPLICATION WINDOWS",
+    "es": "LA APLICACIÓN REAL PARA WINDOWS"
+  },
+  "Original Installer 1.1 character artwork. A refreshed Vice City-inspired interface.": {
+    "pl": "Oryginalna ilustracja postaci z Installer 1.1. Odświeżony interfejs w klimacie Vice City.",
+    "de": "Originales Charakterbild aus Installer 1.1. Eine überarbeitete Oberfläche im Stil von Vice City.",
+    "fr": "Illustration originale d’Installer 1.1. Une interface revisitée dans l’esprit de Vice City.",
+    "es": "Ilustración original de Installer 1.1. Una interfaz renovada con el estilo de Vice City."
+  },
+  "03 / FROM YOUR DISC TO YOUR DESKTOP": {
+    "pl": "03 / Z PŁYTY NA PULPIT",
+    "de": "03 / VON DER DISC AUF DEN DESKTOP",
+    "fr": "03 / DU DISQUE AU BUREAU",
+    "es": "03 / DEL DISCO AL ESCRITORIO"
+  },
+  "Three stops.": {
+    "pl": "Trzy kroki.",
+    "de": "Drei Schritte.",
+    "fr": "Trois étapes.",
+    "es": "Tres pasos."
+  },
+  "Then you’re home.": {
+    "pl": "I jesteś w domu.",
+    "de": "Dann bist du zu Hause.",
+    "fr": "Vous voilà de retour.",
+    "es": "Y estarás en casa."
+  },
+  "Bring your PS2 copy.": {
+    "pl": "Przygotuj swoją kopię na PS2.",
+    "de": "Halte deine PS2-Kopie bereit.",
+    "fr": "Préparez votre exemplaire PS2.",
+    "es": "Prepara tu copia de PS2."
+  },
+  "Have your own Vice City Stories PS2 ISO or extracted disc folder ready. Keep the extracted folder structure intact.": {
+    "pl": "Przygotuj własny obraz ISO Vice City Stories na PS2 lub katalog z zawartością płyty. Zachowaj oryginalną strukturę katalogów.",
+    "de": "Halte deine eigene Vice City Stories-PS2-ISO oder den entpackten Disc-Ordner bereit. Behalte die Ordnerstruktur bei.",
+    "fr": "Préparez votre propre ISO PS2 de Vice City Stories ou le dossier extrait du disque. Conservez sa structure intacte.",
+    "es": "Prepara tu propia ISO de Vice City Stories para PS2 o la carpeta extraída del disco. Mantén intacta la estructura de carpetas."
+  },
+  "Let Setup do the work.": {
+    "pl": "Resztą zajmie się Setup.",
+    "de": "Überlass Setup die Arbeit.",
+    "fr": "Laissez Setup s’en charger.",
+    "es": "Deja que Setup se encargue."
+  },
+  "Extract the bootstrap ZIP, run Setup and choose your source and an empty destination. Missing converter components download from GitHub.": {
+    "pl": "Rozpakuj archiwum bootstrap ZIP, uruchom Setup i wybierz źródło oraz pusty katalog docelowy. Brakujące komponenty konwertera zostaną pobrane z GitHuba.",
+    "de": "Entpacke die Bootstrap-ZIP, starte Setup und wähle die Quelle sowie einen leeren Zielordner. Fehlende Konverter-Komponenten werden von GitHub geladen.",
+    "fr": "Extrayez l’archive ZIP de démarrage, lancez Setup et choisissez votre source ainsi qu’un dossier de destination vide. Les composants de conversion manquants sont téléchargés depuis GitHub.",
+    "es": "Extrae el ZIP de arranque, ejecuta Setup y elige el origen y una carpeta de destino vacía. Los componentes del conversor que falten se descargarán de GitHub."
+  },
+  "Make it your city.": {
+    "pl": "Urządź się w Vice City.",
+    "de": "Mach die Stadt zu deiner.",
+    "fr": "Faites-en votre ville.",
+    "es": "Haz tuya la ciudad."
+  },
+  "Conversion installs baseline Update 8. Choose Check Game Updates to install cumulative 8.4, then launch reVCS and choose your in-game resolution. You can import your own compatible PCSX2 replacement pack in Extended mode.": {
+    "pl": "Konwersja instaluje bazową wersję Update 8. Wybierz Check Game Updates, aby zainstalować zbiorczą aktualizację 8.4, następnie uruchom reVCS i ustaw rozdzielczość w grze. W trybie Extended możesz zaimportować własną, zgodną paczkę tekstur PCSX2.",
+    "de": "Die Konvertierung installiert zunächst Update 8. Wähle Check Game Updates, um das kumulative Update 8.4 zu installieren. Starte danach reVCS und stelle die Auflösung im Spiel ein. Im Extended-Modus kannst du ein eigenes kompatibles PCSX2-Texturpaket importieren.",
+    "fr": "La conversion installe la version de base Update 8. Choisissez Check Game Updates pour installer la mise à jour cumulative 8.4, puis lancez reVCS et réglez la résolution dans le jeu. Le mode Extended permet d’importer votre propre pack PCSX2 compatible.",
+    "es": "La conversión instala la versión base Update 8. Elige Check Game Updates para instalar la actualización acumulativa 8.4; después inicia reVCS y ajusta la resolución en el juego. En el modo Extended puedes importar tu propio paquete de texturas PCSX2 compatible."
+  },
+  "Source files are read locally and stay unchanged. Conversion compatibility is checked per resource; a different language file does not automatically reject the whole disc.": {
+    "pl": "Pliki źródłowe są odczytywane lokalnie i pozostają niezmienione. Zgodność konwersji jest sprawdzana osobno dla każdego zasobu; inny plik językowy nie oznacza automatycznego odrzucenia całej płyty.",
+    "de": "Quelldateien werden lokal gelesen und bleiben unverändert. Die Konvertierung prüft einzelne Ressourcen; eine abweichende Sprachdatei führt nicht automatisch zur Ablehnung der gesamten Disc.",
+    "fr": "Les fichiers source sont lus localement et restent inchangés. La compatibilité est vérifiée ressource par ressource ; un fichier de langue différent ne fait pas automatiquement rejeter tout le disque.",
+    "es": "Los archivos de origen se leen localmente y no se modifican. La compatibilidad se comprueba por recurso; un archivo de idioma distinto no provoca el rechazo automático de todo el disco."
+  },
+  "04 / YOUR TICKET BACK": {
+    "pl": "04 / TWÓJ BILET POWROTNY",
+    "de": "04 / DEIN TICKET ZURÜCK",
+    "fr": "04 / VOTRE BILLET RETOUR",
+    "es": "04 / TU BILLETE DE VUELTA"
+  },
+  "The city": {
+    "pl": "Miasto",
+    "de": "Die Stadt",
+    "fr": "La ville",
+    "es": "La ciudad"
+  },
+  "is waiting.": {
+    "pl": "czeka.",
+    "de": "wartet.",
+    "fr": "vous attend.",
+    "es": "te espera."
+  },
+  "Get the small bootstrap kit first.": {
+    "pl": "Najpierw pobierz mały pakiet startowy.",
+    "de": "Lade zuerst das kleine Bootstrap-Paket.",
+    "fr": "Téléchargez d’abord le petit kit de démarrage.",
+    "es": "Descarga primero el pequeño kit de arranque."
+  },
+  "Setup fetches the converter components when you need them.": {
+    "pl": "Setup pobiera komponenty konwertera wtedy, gdy są potrzebne.",
+    "de": "Setup lädt die Konverter-Komponenten bei Bedarf.",
+    "fr": "Setup télécharge les composants de conversion au besoin.",
+    "es": "Setup descarga los componentes del conversor cuando hacen falta."
+  },
+  "reVCS is completely free.": {
+    "pl": "reVCS jest całkowicie darmowe.",
+    "de": "reVCS ist vollständig kostenlos.",
+    "fr": "reVCS est entièrement gratuit.",
+    "es": "reVCS es totalmente gratuito."
+  },
+  "reVCS is a free, unofficial fan project. If someone charged you for the game or its installer, that was not an official reVCS distribution.": {
+    "pl": "reVCS to darmowy, nieoficjalny projekt fanowski. Jeśli ktoś pobrał od Ciebie opłatę za grę lub jej instalator, nie była to oficjalna dystrybucja reVCS.",
+    "de": "reVCS ist ein kostenloses, inoffizielles Fanprojekt. Wenn jemand Geld für das Spiel oder seinen Installer verlangt hat, war das keine offizielle reVCS-Distribution.",
+    "fr": "reVCS est un projet de fans gratuit et non officiel. Si quelqu’un vous a fait payer le jeu ou son installateur, il ne s’agissait pas d’une distribution officielle de reVCS.",
+    "es": "reVCS es un proyecto de fans gratuito y no oficial. Si alguien te cobró por el juego o su instalador, no era una distribución oficial de reVCS."
+  },
+  "You must provide your own PS2 game files.": {
+    "pl": "Musisz dostarczyć własne pliki gry na PS2.",
+    "de": "Du musst deine eigenen PS2-Spieldateien bereitstellen.",
+    "fr": "Vous devez fournir vos propres fichiers du jeu PS2.",
+    "es": "Debes aportar tus propios archivos del juego de PS2."
+  },
+  "Windows 10 / 11 · 64-bit installer": {
+    "pl": "Windows 10 / 11 · Instalator 64-bitowy",
+    "de": "Windows 10 / 11 · 64-Bit-Installer",
+    "fr": "Windows 10 / 11 · Installateur 64 bits",
+    "es": "Windows 10 / 11 · Instalador de 64 bits"
+  },
+  "Download bootstrap ZIP": {
+    "pl": "Pobierz bootstrap ZIP",
+    "de": "Bootstrap-ZIP herunterladen",
+    "fr": "Télécharger le ZIP de démarrage",
+    "es": "Descargar ZIP de arranque"
+  },
+  "Includes Setup, its configuration and download tools.": {
+    "pl": "Zawiera Setup, jego konfigurację i narzędzia pobierania.",
+    "de": "Enthält Setup, seine Konfiguration und Download-Werkzeuge.",
+    "fr": "Contient Setup, sa configuration et les outils de téléchargement.",
+    "es": "Incluye Setup, su configuración y las herramientas de descarga."
+  },
+  "All files & offline packages": {
+    "pl": "Wszystkie pliki i pakiety offline",
+    "de": "Alle Dateien & Offline-Pakete",
+    "fr": "Tous les fichiers et paquets hors ligne",
+    "es": "Todos los archivos y paquetes sin conexión"
+  },
+  "Download the 13 BIN components for a complete local kit.": {
+    "pl": "Pobierz 13 komponentów BIN, aby skompletować pakiet lokalny.",
+    "de": "Lade die 13 BIN-Komponenten für ein vollständiges lokales Paket.",
+    "fr": "Téléchargez les 13 composants BIN pour un kit local complet.",
+    "es": "Descarga los 13 componentes BIN para completar el kit local."
+  },
+  "Checksums": {
+    "pl": "Sumy kontrolne",
+    "de": "Prüfsummen",
+    "fr": "Sommes de contrôle",
+    "es": "Sumas de comprobación"
+  },
+  "SHA256 values for the published artifacts.": {
+    "pl": "Wartości SHA256 opublikowanych plików.",
+    "de": "SHA256-Werte der veröffentlichten Dateien.",
+    "fr": "Valeurs SHA256 des fichiers publiés.",
+    "es": "Valores SHA256 de los archivos publicados."
+  },
+  "What changed in Update 8.4?": {
+    "pl": "Co zmieniło się w Update 8.4?",
+    "de": "Was ist neu in Update 8.4?",
+    "fr": "Quoi de neuf dans Update 8.4 ?",
+    "es": "¿Qué cambió en Update 8.4?"
+  },
+  "One cumulative package for Update 8, 8.1, 8.2 or 8.3. Fixes fire-truck controls, helicopter passengers, stunt-camera recovery and intersection lights. Includes earlier runtime fixes and EU/US save compatibility. The world colour stage is withdrawn pending PS2 comparison.": {
+    "pl": "Jeden zbiorczy pakiet dla Update 8, 8.1, 8.2 lub 8.3. Poprawia sterowanie wozem strażackim, pasażerów śmigłowca, przywracanie kamery po skoku i sygnalizację skrzyżowań. Zawiera wcześniejsze poprawki działania gry i zgodność zapisów EU/US. Etap kolorystyki świata wycofano do czasu porównania z PS2.",
+    "de": "Ein kumulatives Paket für Update 8, 8.1, 8.2 oder 8.3. Korrigiert Feuerwehr-Steuerung, Helikopter-Passagiere, die Rückkehr aus der Stuntkamera und Kreuzungsampeln. Enthält frühere Laufzeitkorrekturen und EU/US-Spielstandkompatibilität. Die Weltfarbstufe wurde bis zum PS2-Vergleich zurückgezogen.",
+    "fr": "Un paquet cumulatif pour Update 8, 8.1, 8.2 ou 8.3. Corrige les commandes du camion de pompiers, les passagers d’hélicoptère, le retour de la caméra de cascade et les feux aux intersections. Inclut les correctifs antérieurs et la compatibilité des sauvegardes EU/US. L’étape de coloration du monde est retirée dans l’attente d’une comparaison avec la PS2.",
+    "es": "Un paquete acumulativo para Update 8, 8.1, 8.2 u 8.3. Corrige los controles del camión de bomberos, los pasajeros de helicóptero, la recuperación de la cámara de saltos y los semáforos. Incluye correcciones anteriores y compatibilidad de partidas EU/US. La etapa de color del mundo se ha retirado hasta compararla con PS2."
+  },
+  "Release notes": {
+    "pl": "Informacje o wydaniu",
+    "de": "Versionshinweise",
+    "fr": "Notes de version",
+    "es": "Notas de la versión"
+  },
+  "What changed in Update 8.2?": {
+    "pl": "Co zmieniło się w Update 8.2?",
+    "de": "Was ist neu in Update 8.2?",
+    "fr": "Quoi de neuf dans Update 8.2 ?",
+    "es": "¿Qué cambió en Update 8.2?"
+  },
+  "Added F1 replay; improved ramp collisions, JetSki boarding and handling, scripted flight, and model cleanup. Install it from Setup’s Updates page.": {
+    "pl": "Dodano powtórki F1; poprawiono kolizje ramp, wsiadanie na JetSki i jego prowadzenie, lot skryptowy oraz usuwanie modeli. Zainstaluj aktualizację na stronie Updates w Setup.",
+    "de": "F1-Wiederholungen hinzugefügt; Rampenkollisionen, JetSki-Einstieg und -Steuerung, geskriptete Flüge und Modellbereinigung verbessert. Installation über die Updates-Seite in Setup.",
+    "fr": "Ajout des ralentis F1 ; amélioration des collisions sur les rampes, de l’accès au JetSki et de sa conduite, des vols scriptés et du nettoyage des modèles. Installation depuis la page Updates de Setup.",
+    "es": "Añade repeticiones con F1; mejora las colisiones de rampas, el acceso y manejo de JetSki, los vuelos mediante scripts y la limpieza de modelos. Instálala desde la página Updates de Setup."
+  },
+  "What changed in Update 8.1?": {
+    "pl": "Co zmieniło się w Update 8.1?",
+    "de": "Was ist neu in Update 8.1?",
+    "fr": "Quoi de neuf dans Update 8.1 ?",
+    "es": "¿Qué cambió en Update 8.1?"
+  },
+  "Fixed a Proton startup failure caused by trailing whitespace in NPC spawn data. In Setup, choose Updates → Check game updates → Apply available game updates.": {
+    "pl": "Naprawiono problem uruchamiania pod Protonem spowodowany końcowymi białymi znakami w danych pojawiania się NPC. W Setup wybierz Updates → Check game updates → Apply available game updates.",
+    "de": "Behebt einen Proton-Startfehler durch Leerzeichen am Ende von NPC-Spawn-Daten. Wähle in Setup: Updates → Check game updates → Apply available game updates.",
+    "fr": "Corrige un échec de démarrage sous Proton causé par des espaces en fin de ligne dans les données d’apparition des PNJ. Dans Setup : Updates → Check game updates → Apply available game updates.",
+    "es": "Corrige un fallo de inicio con Proton causado por espacios al final de los datos de aparición de NPC. En Setup: Updates → Check game updates → Apply available game updates."
+  },
+  "What changed in Setup 1.34.3?": {
+    "pl": "Co zmieniło się w Setup 1.34.3?",
+    "de": "Was ist neu in Setup 1.34.3?",
+    "fr": "Quoi de neuf dans Setup 1.34.3 ?",
+    "es": "¿Qué cambió en Setup 1.34.3?"
+  },
+  "Windows Direct3D 9 is the default; DXVK is an explicit Vulkan option. Play reVCS defaults to x86, with a saved x86/x64 choice in Launch Options. Includes the new official logo and new redesigned icon. Manual update confirmation, existing preferences and backup choices are retained.": {
+    "pl": "Domyślny jest Windows Direct3D 9; DXVK to opcjonalny wariant Vulkan. Play reVCS domyślnie uruchamia x86, a wybór x86/x64 jest zapisywany w Launch Options. Dodano nowe oficjalne logo i przeprojektowaną ikonę. Zachowano ręczne potwierdzanie aktualizacji, dotychczasowe ustawienia i wybór kopii zapasowych.",
+    "de": "Windows Direct3D 9 ist Standard; DXVK ist eine ausdrücklich wählbare Vulkan-Option. Play reVCS startet standardmäßig x86 und speichert die x86/x64-Wahl in Launch Options. Enthält das neue offizielle Logo und ein überarbeitetes Symbol. Manuelle Update-Bestätigung, Einstellungen und Backup-Auswahl bleiben erhalten.",
+    "fr": "Windows Direct3D 9 est le choix par défaut ; DXVK est une option Vulkan explicite. Play reVCS lance x86 par défaut et mémorise le choix x86/x64 dans Launch Options. Nouveau logo officiel et nouvelle icône. La confirmation manuelle des mises à jour, les préférences et les choix de sauvegarde sont conservés.",
+    "es": "Windows Direct3D 9 es la opción predeterminada; DXVK es una opción Vulkan explícita. Play reVCS usa x86 por defecto y guarda la elección x86/x64 en Launch Options. Incluye el nuevo logotipo oficial y un icono rediseñado. Conserva la confirmación manual de actualizaciones, las preferencias y las opciones de copia de seguridad."
+  },
+  "BEFORE YOU HIT THE STREETS": {
+    "pl": "ZANIM WYJEDZIESZ NA ULICE",
+    "de": "BEVOR ES AUF DIE STRASSE GEHT",
+    "fr": "AVANT DE PRENDRE LA ROUTE",
+    "es": "ANTES DE SALIR A LA CALLE"
+  },
+  "A few things": {
+    "pl": "Kilka rzeczy,",
+    "de": "Ein paar Dinge,",
+    "fr": "Quelques points",
+    "es": "Algunas cosas"
+  },
+  "to know.": {
+    "pl": "które warto wiedzieć.",
+    "de": "die du wissen solltest.",
+    "fr": "à connaître.",
+    "es": "que debes saber."
+  },
+  "Is reVCS free?": {
+    "pl": "Czy reVCS jest darmowe?",
+    "de": "Ist reVCS kostenlos?",
+    "fr": "reVCS est-il gratuit ?",
+    "es": "¿reVCS es gratuito?"
+  },
+  "Yes. reVCS and its installer are distributed for free. You must supply your own copy of Grand Theft Auto: Vice City Stories for PS2.": {
+    "pl": "Tak. reVCS i jego instalator są udostępniane za darmo. Musisz posiadać własną kopię Grand Theft Auto: Vice City Stories na PS2.",
+    "de": "Ja. reVCS und sein Installer werden kostenlos bereitgestellt. Du musst eine eigene Kopie von Grand Theft Auto: Vice City Stories für PS2 mitbringen.",
+    "fr": "Oui. reVCS et son installateur sont distribués gratuitement. Vous devez fournir votre propre exemplaire de Grand Theft Auto: Vice City Stories sur PS2.",
+    "es": "Sí. reVCS y su instalador se distribuyen gratis. Debes aportar tu propia copia de Grand Theft Auto: Vice City Stories para PS2."
+  },
+  "Is reVCS an emulator?": {
+    "pl": "Czy reVCS jest emulatorem?",
+    "de": "Ist reVCS ein Emulator?",
+    "fr": "reVCS est-il un émulateur ?",
+    "es": "¿reVCS es un emulador?"
+  },
+  "No. reVCS is a native PC project built on reVC and librw. It reconstructs game systems and uses original PS2 game data provided by the user.": {
+    "pl": "Nie. reVCS to natywny projekt na PC oparty na reVC i librw. Odtwarza systemy gry i korzysta z oryginalnych danych PS2 dostarczonych przez użytkownika.",
+    "de": "Nein. reVCS ist ein natives PC-Projekt auf Basis von reVC und librw. Es rekonstruiert Spielsysteme und nutzt vom Nutzer bereitgestellte originale PS2-Spieldaten.",
+    "fr": "Non. reVCS est un projet PC natif fondé sur reVC et librw. Il reconstruit les systèmes du jeu et utilise les données PS2 originales fournies par l’utilisateur.",
+    "es": "No. reVCS es un proyecto nativo para PC basado en reVC y librw. Reconstruye los sistemas del juego y utiliza los datos originales de PS2 aportados por el usuario."
+  },
+  "Do I need the original game?": {
+    "pl": "Czy potrzebuję oryginalnej gry?",
+    "de": "Brauche ich das Originalspiel?",
+    "fr": "Faut-il le jeu original ?",
+    "es": "¿Necesito el juego original?"
+  },
+  "Yes. Supply your own Vice City Stories PS2 ISO or extracted disc folder. Setup converts those files locally. Neither this website nor the bootstrap kit provides a PS2 disc image.": {
+    "pl": "Tak. Przygotuj własny obraz ISO Vice City Stories na PS2 lub katalog z zawartością płyty. Setup konwertuje te pliki lokalnie. Ani ta strona, ani pakiet startowy nie zawierają obrazu płyty PS2.",
+    "de": "Ja. Nutze deine eigene Vice City Stories-PS2-ISO oder den entpackten Disc-Ordner. Setup konvertiert diese Dateien lokal. Weder die Website noch das Bootstrap-Paket liefern ein PS2-Disc-Abbild.",
+    "fr": "Oui. Fournissez votre propre ISO PS2 de Vice City Stories ou le dossier extrait du disque. Setup convertit ces fichiers localement. Ni ce site ni le kit de démarrage ne fournissent d’image disque PS2.",
+    "es": "Sí. Aporta tu propia ISO de Vice City Stories para PS2 o la carpeta extraída del disco. Setup convierte esos archivos localmente. Ni esta web ni el kit de arranque proporcionan una imagen del disco de PS2."
+  },
+  "Which PS2 versions can I use?": {
+    "pl": "Z których wersji PS2 mogę korzystać?",
+    "de": "Welche PS2-Versionen kann ich nutzen?",
+    "fr": "Quelles versions PS2 sont utilisables ?",
+    "es": "¿Qué versiones de PS2 puedo usar?"
+  },
+  "The conversion work includes EU, US and Polish-modified source testing. A full EU installation was qualified for Setup 1.33; US and Polish sources passed resource-conversion checks. Other discs are checked by their resources rather than a fixed whole-ISO hash list. This does not guarantee every modified disc will convert.": {
+    "pl": "Testy konwersji obejmują źródła EU, US i zmodyfikowane polskie wydanie. Pełną instalację EU zweryfikowano z Setup 1.33; źródła US i polskie przeszły testy konwersji zasobów. Inne płyty są sprawdzane według zasobów, a nie stałej listy sum całych obrazów ISO. Nie gwarantuje to konwersji każdej zmodyfikowanej płyty.",
+    "de": "Getestet wurden EU-, US- und polnisch modifizierte Quelldaten. Eine vollständige EU-Installation wurde mit Setup 1.33 geprüft; US- und polnische Daten bestanden Ressourcen-Konvertierungstests. Andere Discs werden anhand ihrer Ressourcen statt einer festen ISO-Prüfsummenliste geprüft. Das garantiert nicht die Konvertierung jeder modifizierten Disc.",
+    "fr": "Les tests de conversion couvrent les sources EU, US et une version modifiée en polonais. Une installation EU complète a été validée avec Setup 1.33 ; les sources US et polonaises ont passé les contrôles de conversion des ressources. Les autres disques sont vérifiés par ressource plutôt que par une liste fixe d’empreintes ISO. La conversion de tous les disques modifiés n’est pas garantie.",
+    "es": "Las pruebas de conversión incluyen fuentes EU, US y una versión modificada en polaco. Se validó una instalación EU completa con Setup 1.33; las fuentes US y polacas superaron las pruebas de conversión de recursos. Los demás discos se comprueban por sus recursos, no con una lista fija de hashes de ISO completas. Esto no garantiza la conversión de todos los discos modificados."
+  },
+  "Can I install without an internet connection?": {
+    "pl": "Czy mogę zainstalować grę bez internetu?",
+    "de": "Kann ich ohne Internet installieren?",
+    "fr": "Peut-on installer sans connexion Internet ?",
+    "es": "¿Puedo instalar sin conexión a Internet?"
+  },
+  "Yes. Download all 13 BIN components, the bootstrap ZIP and version.xml from the same release. Extract the bootstrap and place the BINs beside Setup. Switch to offline mode and choose your local PS2 source.": {
+    "pl": "Tak. Pobierz wszystkie 13 komponentów BIN, bootstrap ZIP i version.xml z tego samego wydania. Rozpakuj bootstrap i umieść pliki BIN obok Setup. Włącz tryb offline i wybierz lokalne źródło PS2.",
+    "de": "Ja. Lade alle 13 BIN-Komponenten, die Bootstrap-ZIP und version.xml aus derselben Version. Entpacke die ZIP und lege die BIN-Dateien neben Setup ab. Aktiviere den Offline-Modus und wähle deine lokale PS2-Quelle.",
+    "fr": "Oui. Téléchargez les 13 composants BIN, le ZIP de démarrage et version.xml de la même version. Extrayez le ZIP et placez les BIN à côté de Setup. Passez en mode hors ligne et choisissez votre source PS2 locale.",
+    "es": "Sí. Descarga los 13 componentes BIN, el ZIP de arranque y version.xml de la misma versión. Extrae el ZIP y coloca los BIN junto a Setup. Activa el modo sin conexión y elige el origen local de PS2."
+  },
+  "How do game and Setup updates work?": {
+    "pl": "Jak działają aktualizacje gry i Setup?",
+    "de": "Wie funktionieren Spiel- und Setup-Updates?",
+    "fr": "Comment mettre à jour le jeu et Setup ?",
+    "es": "¿Cómo se actualizan el juego y Setup?"
+  },
+  "Update checks are manual. For the game, choose Welcome → Check Game Updates → Install Update. For the installer, choose Check Setup Updates on Welcome, then confirm the download and verified EXE replacement. Online access is enabled by default; offline packages are also available.": {
+    "pl": "Aktualizacje sprawdzasz ręcznie. Dla gry wybierz Welcome → Check Game Updates → Install Update. Dla instalatora wybierz Check Setup Updates na stronie Welcome, a następnie potwierdź pobranie i zweryfikowaną podmianę EXE. Dostęp online jest domyślnie włączony; dostępne są również pakiety offline.",
+    "de": "Updates werden manuell geprüft. Für das Spiel: Welcome → Check Game Updates → Install Update. Für den Installer: Check Setup Updates auf Welcome, dann Download und geprüften EXE-Austausch bestätigen. Online-Zugriff ist standardmäßig aktiv; Offline-Pakete sind ebenfalls verfügbar.",
+    "fr": "Les mises à jour se vérifient manuellement. Pour le jeu : Welcome → Check Game Updates → Install Update. Pour l’installateur : Check Setup Updates sur Welcome, puis confirmez le téléchargement et le remplacement vérifié de l’EXE. L’accès en ligne est activé par défaut ; des paquets hors ligne sont aussi disponibles.",
+    "es": "Las actualizaciones se comprueban manualmente. Para el juego: Welcome → Check Game Updates → Install Update. Para el instalador: Check Setup Updates en Welcome y confirma la descarga y sustitución verificada del EXE. El acceso en línea está activado por defecto; también hay paquetes sin conexión."
+  },
+  "Are texture packs included?": {
+    "pl": "Czy paczki tekstur są dołączone?",
+    "de": "Sind Texturpakete enthalten?",
+    "fr": "Les packs de textures sont-ils inclus ?",
+    "es": "¿Se incluyen paquetes de texturas?"
+  },
+  "No. Optional PCSX2 replacement textures are user-supplied. Choose your compatible ZIP or 7z pack in Extended mode.": {
+    "pl": "Nie. Opcjonalne tekstury zastępcze PCSX2 dostarcza użytkownik. W trybie Extended wybierz własną, zgodną paczkę ZIP lub 7z.",
+    "de": "Nein. Optionale PCSX2-Ersatztexturen stellt der Nutzer selbst bereit. Wähle dein kompatibles ZIP- oder 7z-Paket im Extended-Modus.",
+    "fr": "Non. Les textures de remplacement PCSX2 sont facultatives et fournies par l’utilisateur. Choisissez votre pack ZIP ou 7z compatible en mode Extended.",
+    "es": "No. Las texturas de reemplazo de PCSX2 son opcionales y las aporta el usuario. Elige tu paquete ZIP o 7z compatible en el modo Extended."
+  },
+  "Is this the finished game?": {
+    "pl": "Czy to ukończona gra?",
+    "de": "Ist das Spiel fertig?",
+    "fr": "Le jeu est-il terminé ?",
+    "es": "¿Es el juego terminado?"
+  },
+  "No. reVCS is an actively developed alpha fan project. There are known limitations and ongoing community tests. Setup 1.34.3 improves the installer and updater; game Update 8.4 is available separately.": {
+    "pl": "Nie. reVCS to aktywnie rozwijany projekt fanowski w fazie alpha. Istnieją znane ograniczenia, a społeczność nadal prowadzi testy. Setup 1.34.3 usprawnia instalator i aktualizator; Update 8.4 dla gry jest dostępne oddzielnie.",
+    "de": "Nein. reVCS ist ein aktiv entwickeltes Alpha-Fanprojekt mit bekannten Einschränkungen und laufenden Community-Tests. Setup 1.34.3 verbessert Installer und Updater; Spiel-Update 8.4 ist separat verfügbar.",
+    "fr": "Non. reVCS est un projet de fans en alpha, activement développé. Il reste des limites connues et des tests communautaires en cours. Setup 1.34.3 améliore l’installateur et la mise à jour ; Update 8.4 pour le jeu est disponible séparément.",
+    "es": "No. reVCS es un proyecto de fans en alfa y en desarrollo activo. Hay limitaciones conocidas y pruebas de la comunidad en curso. Setup 1.34.3 mejora el instalador y el actualizador; Update 8.4 para el juego está disponible por separado."
+  },
+  "What should I include in a bug report?": {
+    "pl": "Co podać w zgłoszeniu błędu?",
+    "de": "Was gehört in einen Fehlerbericht?",
+    "fr": "Que faut-il inclure dans un rapport de bug ?",
+    "es": "¿Qué incluyo en un informe de error?"
+  },
+  "Describe the steps, your game and Setup versions, source-disc edition and what you expected. Include the relevant log and a short recording if useful. Remove personal information before sharing logs.": {
+    "pl": "Opisz kroki, wersje gry i Setup, wydanie płyty źródłowej oraz oczekiwany rezultat. Dołącz odpowiedni log i krótkie nagranie, jeśli pomoże. Usuń dane osobowe przed udostępnieniem logów.",
+    "de": "Beschreibe die Schritte, Spiel- und Setup-Version, Disc-Ausgabe und das erwartete Ergebnis. Füge das relevante Log und bei Bedarf eine kurze Aufnahme hinzu. Entferne persönliche Daten aus den Logs.",
+    "fr": "Décrivez les étapes, les versions du jeu et de Setup, l’édition du disque source et le résultat attendu. Joignez le journal concerné et, si utile, une courte vidéo. Retirez les données personnelles des journaux avant de les partager.",
+    "es": "Describe los pasos, las versiones del juego y de Setup, la edición del disco de origen y el resultado esperado. Incluye el registro pertinente y una grabación breve si resulta útil. Elimina los datos personales antes de compartir registros."
+  },
+  "Open an installer issue": {
+    "pl": "Zgłoś problem z instalatorem",
+    "de": "Installer-Problem melden",
+    "fr": "Signaler un problème d’installation",
+    "es": "Informar de un problema del instalador"
+  },
+  "FROM THE COMMUNITY, FOR THE COMMUNITY": {
+    "pl": "OD SPOŁECZNOŚCI DLA SPOŁECZNOŚCI",
+    "de": "VON DER COMMUNITY, FÜR DIE COMMUNITY",
+    "fr": "PAR LA COMMUNAUTÉ, POUR LA COMMUNAUTÉ",
+    "es": "DE LA COMUNIDAD, PARA LA COMUNIDAD"
+  },
+  "A love letter to Vice City Stories.": {
+    "pl": "Z miłości do Vice City Stories.",
+    "de": "Eine Liebeserklärung an Vice City Stories.",
+    "fr": "Une lettre d’amour à Vice City Stories.",
+    "es": "Una carta de amor a Vice City Stories."
+  },
+  "reVCS is an independent fan project led by": {
+    "pl": "reVCS to niezależny projekt fanowski, który prowadzi",
+    "de": "reVCS ist ein unabhängiges Fanprojekt unter der Leitung von",
+    "fr": "reVCS est un projet de fans indépendant dirigé par",
+    "es": "reVCS es un proyecto de fans independiente dirigido por"
+  },
+  ". AI coding agents and an AI assistant in the browser contribute to research, implementation, tooling and testing, building on the community’s tools, knowledge and feedback.": {
+    "pl": ". Agenci programujący AI i asystent AI w przeglądarce wspierają badania, implementację, narzędzia i testy, korzystając z narzędzi, wiedzy i opinii społeczności.",
+    "de": ". KI-Coding-Agenten und ein KI-Assistent im Browser unterstützen Recherche, Implementierung, Werkzeuge und Tests und bauen dabei auf den Werkzeugen, dem Wissen und dem Feedback der Community auf.",
+    "fr": ". Des agents de programmation IA et un assistant IA dans le navigateur contribuent à la recherche, à l’implémentation, aux outils et aux tests, en s’appuyant sur les outils, les connaissances et les retours de la communauté.",
+    "es": ". Los agentes de programación con IA y un asistente de IA en el navegador contribuyen a la investigación, la implementación, las herramientas y las pruebas, apoyándose en las herramientas, el conocimiento y las opiniones de la comunidad."
+  },
+  "None of this would exist without the people who created Vice City Stories, or the community's years of hard work, patient reverse engineering and freely shared knowledge. With deep gratitude to:": {
+    "pl": "Nic z tego nie powstałoby bez twórców Vice City Stories ani wieloletniej pracy społeczności, cierpliwej inżynierii wstecznej i swobodnego dzielenia się wiedzą. Z głęboką wdzięcznością dla:",
+    "de": "Nichts davon wäre möglich ohne die Schöpfer von Vice City Stories und die jahrelange Arbeit, geduldige Reverse-Engineering-Forschung und frei geteiltes Wissen der Community. Mit großer Dankbarkeit an:",
+    "fr": "Rien de tout cela n’existerait sans les créateurs de Vice City Stories, ni sans les années de travail, la rétro-ingénierie patiente et les connaissances librement partagées par la communauté. Un immense merci à :",
+    "es": "Nada de esto existiría sin los creadores de Vice City Stories ni los años de trabajo, la paciente ingeniería inversa y el conocimiento compartido libremente por la comunidad. Con profundo agradecimiento a:"
+  },
+  "Rockstar Games, Rockstar Leeds and Rockstar North": {
+    "pl": "Rockstar Games, Rockstar Leeds i Rockstar North",
+    "de": "Rockstar Games, Rockstar Leeds und Rockstar North",
+    "fr": "Rockstar Games, Rockstar Leeds et Rockstar North",
+    "es": "Rockstar Games, Rockstar Leeds y Rockstar North"
+  },
+  "For creating Grand Theft Auto: Vice City Stories, the game we love and the inspiration for this community project.": {
+    "pl": "Za stworzenie Grand Theft Auto: Vice City Stories — gry, którą kochamy i która zainspirowała ten projekt.",
+    "de": "Für Grand Theft Auto: Vice City Stories, das Spiel, das wir lieben und das dieses Community-Projekt inspiriert hat.",
+    "fr": "Pour Grand Theft Auto: Vice City Stories, le jeu que nous aimons et qui a inspiré ce projet communautaire.",
+    "es": "Por crear Grand Theft Auto: Vice City Stories, el juego que nos encanta y que inspiró este proyecto comunitario."
+  },
+  "The re3 / reVC teams and contributors": {
+    "pl": "Zespoły i współtwórcy re3 / reVC",
+    "de": "Die re3-/reVC-Teams und Mitwirkenden",
+    "fr": "Les équipes et contributeurs de re3 / reVC",
+    "es": "Los equipos y colaboradores de re3 / reVC"
+  },
+  "For the reverse-engineered GTA foundations that made this work possible.": {
+    "pl": "Za odtworzone podstawy GTA, dzięki którym ta praca była możliwa.",
+    "de": "Für die durch Reverse Engineering geschaffenen GTA-Grundlagen, die diese Arbeit ermöglichten.",
+    "fr": "Pour les fondations GTA issues de la rétro-ingénierie qui ont rendu ce travail possible.",
+    "es": "Por las bases de GTA reconstruidas mediante ingeniería inversa que hicieron posible este trabajo."
+  },
+  "aap and the": {
+    "pl": "aap oraz",
+    "de": "aap und",
+    "fr": "aap et",
+    "es": "aap y"
+  },
+  "contributors": {
+    "pl": "— współtwórcy",
+    "de": "— Mitwirkende",
+    "fr": "— contributeurs",
+    "es": "— colaboradores"
+  },
+  "For rendering, understanding Stories formats and converting the original game data.": {
+    "pl": "Za renderowanie, poznanie formatów Stories i konwersję oryginalnych danych gry.",
+    "de": "Für Rendering, das Verständnis der Stories-Formate und die Konvertierung der Originaldaten.",
+    "fr": "Pour le rendu, la compréhension des formats Stories et la conversion des données originales.",
+    "es": "Por el renderizado, el estudio de los formatos de Stories y la conversión de los datos originales."
+  },
+  "The": {
+    "pl": "",
+    "de": "",
+    "fr": "",
+    "es": ""
+  },
+  "For reverse-engineered San Andreas systems and shared engine research.": {
+    "pl": "Za odtworzone systemy San Andreas i udostępnione badania silnika.",
+    "de": "Für rekonstruierte San-Andreas-Systeme und geteilte Engine-Forschung.",
+    "fr": "Pour les systèmes de San Andreas reconstruits et les recherches partagées sur le moteur.",
+    "es": "Por los sistemas de San Andreas reconstruidos y la investigación compartida sobre el motor."
+  },
+  "jessicanataliagta and the": {
+    "pl": "jessicanataliagta oraz",
+    "de": "jessicanataliagta und",
+    "fr": "jessicanataliagta et",
+    "es": "jessicanataliagta y"
+  },
+  "For PSP static recompilation and VCS research and reference work.": {
+    "pl": "Za statyczną rekompilację PSP oraz badania i materiały referencyjne VCS.",
+    "de": "Für statische PSP-Rekompilierung sowie VCS-Forschung und Referenzarbeit.",
+    "fr": "Pour la recompilation statique PSP et les recherches et références sur VCS.",
+    "es": "Por la recompilación estática de PSP y el trabajo de investigación y referencia de VCS."
+  },
+  "BlackLineInteractive and the": {
+    "pl": "BlackLineInteractive oraz",
+    "de": "BlackLineInteractive und",
+    "fr": "BlackLineInteractive et",
+    "es": "BlackLineInteractive y"
+  },
+  "For PS2 recompilation research and the shared Silent Hill Origins / GTA VCS reference project.": {
+    "pl": "Za badania nad rekompilacją PS2 i wspólny projekt referencyjny Silent Hill Origins / GTA VCS.",
+    "de": "Für PS2-Rekompilierungsforschung und das gemeinsame Referenzprojekt Silent Hill Origins / GTA VCS.",
+    "fr": "Pour les recherches sur la recompilation PS2 et le projet de référence partagé Silent Hill Origins / GTA VCS.",
+    "es": "Por la investigación sobre recompilación de PS2 y el proyecto de referencia compartido de Silent Hill Origins / GTA VCS."
+  },
+  "gothamor and the": {
+    "pl": "gothamor oraz",
+    "de": "gothamor und",
+    "fr": "gothamor et",
+    "es": "gothamor y"
+  },
+  "For the PS2 VCS recompilation and a valuable reference for original-game behavior.": {
+    "pl": "Za rekompilację VCS na PS2 i cenny punkt odniesienia dla zachowania oryginalnej gry.",
+    "de": "Für die PS2-VCS-Rekompilierung und eine wertvolle Referenz für das Verhalten des Originalspiels.",
+    "fr": "Pour la recompilation PS2 de VCS et une référence précieuse sur le comportement du jeu original.",
+    "es": "Por la recompilación de VCS para PS2 y una valiosa referencia del comportamiento del juego original."
+  },
+  "For shared work on physics and frame-rate-independent timing.": {
+    "pl": "Za wspólne prace nad fizyką i czasem niezależnym od liczby klatek.",
+    "de": "Für geteilte Arbeit an Physik und bildratenunabhängigem Timing.",
+    "fr": "Pour le travail partagé sur la physique et le timing indépendant du nombre d’images par seconde.",
+    "es": "Por el trabajo compartido en física y temporización independiente de la tasa de fotogramas."
+  },
+  "For the physics library used in this build.": {
+    "pl": "Za bibliotekę fizyki używaną w tej wersji.",
+    "de": "Für die in dieser Version verwendete Physikbibliothek.",
+    "fr": "Pour la bibliothèque physique utilisée dans cette version.",
+    "es": "Por la biblioteca de física utilizada en esta versión."
+  },
+  "community": {
+    "pl": "— społeczność",
+    "de": "— Community",
+    "fr": "— communauté",
+    "es": "— comunidad"
+  },
+  "For shared scripting documentation and research.": {
+    "pl": "Za udostępnioną dokumentację skryptów i badania.",
+    "de": "Für geteilte Skriptdokumentation und Forschung.",
+    "fr": "Pour la documentation et les recherches partagées sur les scripts.",
+    "es": "Por la documentación y la investigación compartidas sobre scripts."
+  },
+  "For PS2 research and texture tooling that support the wider community.": {
+    "pl": "Za badania PS2 i narzędzia tekstur wspierające całą społeczność.",
+    "de": "Für PS2-Forschung und Texturwerkzeuge, die der gesamten Community helfen.",
+    "fr": "Pour les recherches PS2 et les outils de textures au service de la communauté.",
+    "es": "Por la investigación sobre PS2 y las herramientas de texturas que ayudan a la comunidad."
+  },
+  "and": {
+    "pl": "i",
+    "de": "und",
+    "fr": "et",
+    "es": "y"
+  },
+  "For the audio and compression libraries behind the project.": {
+    "pl": "Za biblioteki dźwięku i kompresji wykorzystywane w projekcie.",
+    "de": "Für die Audio- und Kompressionsbibliotheken hinter dem Projekt.",
+    "fr": "Pour les bibliothèques audio et de compression utilisées par le projet.",
+    "es": "Por las bibliotecas de audio y compresión del proyecto."
+  },
+  "Modders, reverse engineers, texture-pack creators, testers and players": {
+    "pl": "Modderzy, badacze inżynierii wstecznej, twórcy paczek tekstur, testerzy i gracze",
+    "de": "Modder, Reverse Engineer, Texturpaket-Ersteller, Tester und Spieler",
+    "fr": "Moddeurs, spécialistes de la rétro-ingénierie, créateurs de textures, testeurs et joueurs",
+    "es": "Modders, investigadores de ingeniería inversa, creadores de texturas, testers y jugadores"
+  },
+  "For sharing discoveries, reporting bugs and keeping Vice City Stories alive.": {
+    "pl": "Za dzielenie się odkryciami, zgłaszanie błędów i podtrzymywanie życia Vice City Stories.",
+    "de": "Für geteilte Entdeckungen, Fehlerberichte und dafür, Vice City Stories am Leben zu halten.",
+    "fr": "Pour les découvertes partagées, les rapports de bugs et pour faire vivre Vice City Stories.",
+    "es": "Por compartir descubrimientos, informar de errores y mantener vivo Vice City Stories."
+  },
+  "“To the GTA modding and reverse-engineering community: without your hard work, the tools you build and the knowledge you share, reVCS would not be possible. Thank you, from the bottom of my heart.": {
+    "pl": "„Do społeczności modderskiej i badaczy inżynierii wstecznej GTA: bez Waszej ciężkiej pracy, tworzonych narzędzi i dzielenia się wiedzą reVCS nie byłoby możliwe. Dziękuję Wam z całego serca.",
+    "de": "„An die GTA-Modding- und Reverse-Engineering-Community: Ohne eure harte Arbeit, eure Werkzeuge und das Wissen, das ihr teilt, wäre reVCS nicht möglich. Danke von ganzem Herzen.",
+    "fr": "« À la communauté du modding et de la rétro-ingénierie GTA : sans votre travail, les outils que vous créez et les connaissances que vous partagez, reVCS ne serait pas possible. Merci du fond du cœur.",
+    "es": "«A la comunidad de modding e ingeniería inversa de GTA: sin vuestro esfuerzo, las herramientas que creáis y el conocimiento que compartís, reVCS no sería posible. Gracias de todo corazón."
+  },
+  "Made by fans.": {
+    "pl": "Stworzone przez fanów.",
+    "de": "Von Fans gemacht.",
+    "fr": "Créé par des fans.",
+    "es": "Creado por fans."
+  },
+  "For another trip around the block.": {
+    "pl": "Na kolejną rundę po mieście.",
+    "de": "Für eine weitere Runde um den Block.",
+    "fr": "Pour un nouveau tour du quartier.",
+    "es": "Para otra vuelta por el barrio."
+  },
+  "Credits": {
+    "pl": "Podziękowania",
+    "de": "Danksagung",
+    "fr": "Remerciements",
+    "es": "Agradecimientos"
+  },
+  "Native PC Port": {
+    "pl": "Natywny port na PC",
+    "de": "Nativer PC-Port",
+    "fr": "Portage PC natif",
+    "es": "Versión nativa para PC"
+  },
+  "PS2 ISO Converter": {
+    "pl": "Konwerter ISO PS2",
+    "de": "PS2-ISO-Konverter",
+    "fr": "Convertisseur ISO PS2",
+    "es": "Conversor de ISO de PS2"
+  },
+  "PCSX2 Textures": {
+    "pl": "Tekstury PCSX2",
+    "de": "PCSX2-Texturen",
+    "fr": "Textures PCSX2",
+    "es": "Texturas PCSX2"
+  },
+  "GTA Modding": {
+    "pl": "Modding GTA",
+    "de": "GTA-Modding",
+    "fr": "Modding GTA",
+    "es": "Modding de GTA"
+  },
+  "UNOFFICIAL FAN PROJECT. Grand Theft Auto, Vice City Stories and original game artwork belong to Rockstar Games and Take-Two Interactive. This project is not affiliated with, sponsored by or endorsed by them.": {
+    "pl": "NIEOFICJALNY PROJEKT FANOWSKI. Grand Theft Auto, Vice City Stories i oryginalne ilustracje z gry należą do Rockstar Games i Take-Two Interactive. Projekt nie jest z nimi powiązany, sponsorowany ani przez nie zatwierdzony.",
+    "de": "INOFFIZIELLES FANPROJEKT. Grand Theft Auto, Vice City Stories und originale Spielillustrationen gehören Rockstar Games und Take-Two Interactive. Dieses Projekt ist weder mit ihnen verbunden noch von ihnen gesponsert oder unterstützt.",
+    "fr": "PROJET DE FANS NON OFFICIEL. Grand Theft Auto, Vice City Stories et les illustrations originales appartiennent à Rockstar Games et Take-Two Interactive. Ce projet n’est ni affilié à ces sociétés, ni sponsorisé ou approuvé par elles.",
+    "es": "PROYECTO DE FANS NO OFICIAL. Grand Theft Auto, Vice City Stories y las ilustraciones originales pertenecen a Rockstar Games y Take-Two Interactive. Este proyecto no está afiliado a estas empresas, ni patrocinado ni respaldado por ellas."
+  },
+  "VICE CITY, ON YOUR PC.": {
+    "pl": "VICE CITY NA TWOIM PC.",
+    "de": "VICE CITY AUF DEINEM PC.",
+    "fr": "VICE CITY, SUR VOTRE PC.",
+    "es": "VICE CITY, EN TU PC."
+  },
+  "reVCS is a free, unofficial native PC port of GTA Vice City Stories, built on reVC and librw. Install it using your own PS2 game files with reVCS Setup.": {
+    "pl": "reVCS to darmowy, nieoficjalny natywny port GTA Vice City Stories na PC, oparty na reVC i librw. Zainstaluj go przez reVCS Setup, używając własnych plików gry na PS2.",
+    "de": "reVCS ist ein kostenloser, inoffizieller nativer PC-Port von GTA Vice City Stories auf Basis von reVC und librw. Nutze reVCS Setup mit deinen eigenen PS2-Spieldateien.",
+    "fr": "reVCS est un portage PC natif, gratuit et non officiel de GTA Vice City Stories, fondé sur reVC et librw. Installez-le avec vos fichiers PS2 via reVCS Setup.",
+    "es": "reVCS es una versión nativa para PC, gratuita y no oficial, de GTA Vice City Stories, basada en reVC y librw. Instálala con tus archivos de PS2 mediante reVCS Setup."
+  },
+  "reVCS — Vice City Stories project logo": {
+    "pl": "reVCS — logo projektu Vice City Stories",
+    "de": "reVCS — Logo des Vice City Stories-Projekts",
+    "fr": "reVCS — logo du projet Vice City Stories",
+    "es": "reVCS — logotipo del proyecto Vice City Stories"
+  },
+  "reVCS home": {
+    "pl": "reVCS — strona główna",
+    "de": "reVCS-Startseite",
+    "fr": "Accueil reVCS",
+    "es": "Inicio de reVCS"
+  },
+  "Main navigation": {
+    "pl": "Nawigacja główna",
+    "de": "Hauptnavigation",
+    "fr": "Navigation principale",
+    "es": "Navegación principal"
+  },
+  "Vice City artwork: a man in a pink shirt relaxes beneath the palms.": {
+    "pl": "Ilustracja Vice City: mężczyzna w różowej koszuli odpoczywa pod palmami.",
+    "de": "Vice-City-Illustration: Ein Mann im rosa Hemd entspannt unter Palmen.",
+    "fr": "Illustration de Vice City : un homme en chemise rose se détend sous les palmiers.",
+    "es": "Ilustración de Vice City: un hombre con camisa rosa descansa bajo las palmeras."
+  },
+  "reVCS Setup with Quick and Extended modes, installation controls and version information.": {
+    "pl": "reVCS Setup z trybami Quick i Extended, opcjami instalacji i informacjami o wersji.",
+    "de": "reVCS Setup mit Quick- und Extended-Modus, Installationssteuerung und Versionsinformationen.",
+    "fr": "reVCS Setup avec les modes Quick et Extended, les commandes d’installation et les informations de version.",
+    "es": "reVCS Setup con los modos Quick y Extended, controles de instalación e información de versión."
+  },
+  "Free distribution": {
+    "pl": "Darmowa dystrybucja",
+    "de": "Kostenlose Verteilung",
+    "fr": "Distribution gratuite",
+    "es": "Distribución gratuita"
+  },
+  "love": {
+    "pl": "miłość",
+    "de": "Liebe",
+    "fr": "amour",
+    "es": "amor"
+  },
+  "Back to top": {
+    "pl": "Wróć na górę",
+    "de": "Nach oben",
+    "fr": "Retour en haut",
+    "es": "Volver arriba"
+  },
+  "Project topics": {
+    "pl": "Tematy projektu",
+    "de": "Projektthemen",
+    "fr": "Thèmes du projet",
+    "es": "Temas del proyecto"
+  },
+  "Play video": {
+    "pl": "Odtwórz film",
+    "de": "Video abspielen",
+    "fr": "Lire la vidéo",
+    "es": "Reproducir vídeo"
+  },
+  "Website language": {
+    "pl": "Język strony",
+    "de": "Sprache der Website",
+    "fr": "Langue du site",
+    "es": "Idioma del sitio"
+  },
+  "Available languages": {
+    "pl": "Dostępne języki",
+    "de": "Verfügbare Sprachen",
+    "fr": "Langues disponibles",
+    "es": "Idiomas disponibles"
+  },
+  "reVCS video player": {
+    "pl": "Odtwarzacz filmów reVCS",
+    "de": "reVCS-Videoplayer",
+    "fr": "Lecteur vidéo reVCS",
+    "es": "Reproductor de vídeo de reVCS"
+  },
+  "Close video": {
+    "pl": "Zamknij film",
+    "de": "Video schließen",
+    "fr": "Fermer la vidéo",
+    "es": "Cerrar vídeo"
+  }
+}

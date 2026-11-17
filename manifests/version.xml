@@ -1,45 +1,45 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='utf8'?>
 <reVCSFeed schema="2" channel="alpha" id="revcs-bullet-update8">
-  <game version="0.55 Alpha Update 8.4" layout="pc-v2-rvarch">
+  <game version="0.55 Alpha Update 8.5" layout="pc-v2-rvarch">
     <packages>
-      <package id="animations" version="1.34.0" file="reVCS-animations-1.34.0.bin" bytes="1101281" sha256="eda84ebb09778c8359bfe78c3859d7af2e37400ed8e2fa67dfba19f2648428a7">
-        <source url="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.34.3-beta/reVCS-animations-1.34.0.bin" />
+      <package id="animations" version="1.35.0" file="reVCS-animations-1.35.0.bin" bytes="1314557" sha256="58f9b2ff331f705be4cbd55dbd3d23f629574c6f5c412ff9bddff4cff6ef4610">
+        <source url="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.0/reVCS-animations-1.35.0.bin" />
       </package>
-      <package id="audio" version="1.34.0" file="reVCS-audio-1.34.0.bin" bytes="8306018" sha256="1b14435d873f9345d65ac693d2bfd253090abe1ec9970d48369c8fe5341c16c6">
-        <source url="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.34.3-beta/reVCS-audio-1.34.0.bin" />
+      <package id="audio" version="1.35.0" file="reVCS-audio-1.35.0.bin" bytes="8306018" sha256="51d0d545d91b015a244c6054e126670915a9462ad756809d74aeb8805e147338">
+        <source url="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.0/reVCS-audio-1.35.0.bin" />
       </package>
-      <package id="core" version="1.34.3" file="reVCS-core-1.34.3.bin" bytes="17818398" sha256="3b7340114e07eba840b2ecfffe5e0ecaff170d177a9d8a08becbe3370170b41b">
-        <source url="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.34.3-beta/reVCS-core-1.34.3.bin" />
+      <package id="core" version="1.35.0" file="reVCS-core-1.35.0.bin" bytes="17820622" sha256="8f3ef990d457eb4f295944a82c5d938f4f0aac395363d499eb9a4e3482a56d60">
+        <source url="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.0/reVCS-core-1.35.0.bin" />
       </package>
-      <package id="interiors" version="1.34.0" file="reVCS-interiors-1.34.0.bin" bytes="55003" sha256="224b405374db9d0c9f7e2f6ab9e51ea93e35621f2e2ab193693b26cebc816e9d">
-        <source url="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.34.3-beta/reVCS-interiors-1.34.0.bin" />
+      <package id="interiors" version="1.35.0" file="reVCS-interiors-1.35.0.bin" bytes="55003" sha256="822058abd0b516700bd48b01c2074105988d51de2e2f788ce778ca7db936925a">
+        <source url="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.0/reVCS-interiors-1.35.0.bin" />
       </package>
-      <package id="maps" version="1.34.0" file="reVCS-maps-1.34.0.bin" bytes="11870397" sha256="45d7a48d4090a5fe936ed231bb6965b3d881c3b8a05a133e3f60e349aa2a863f">
-        <source url="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.34.3-beta/reVCS-maps-1.34.0.bin" />
+      <package id="maps" version="1.35.0" file="reVCS-maps-1.35.0.bin" bytes="11870998" sha256="baad2454d9b07494ddf0ef00ec40a1b901d8766955d941cd1397096a5553add8">
+        <source url="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.0/reVCS-maps-1.35.0.bin" />
       </package>
-      <package id="misc" version="1.34.0" file="reVCS-misc-1.34.0.bin" bytes="13345798" sha256="2ebd8bb914ee4b818cc7dd5e856d2a9447e7cea289eb1caec2acc27a4f718e32">
-        <source url="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.34.3-beta/reVCS-misc-1.34.0.bin" />
+      <package id="misc" version="1.35.0" file="reVCS-misc-1.35.0.bin" bytes="13354481" sha256="657914f248381e067009fd36511640d9f7b5467c58ee89ce57d30d68ef679518">
+        <source url="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.0/reVCS-misc-1.35.0.bin" />
       </package>
-      <package id="models" version="1.34.0" file="reVCS-models-1.34.0.bin" bytes="2040742" sha256="2f3917856bfc1392f7e4ad54be568369eaad9ceb821f22ad05369c7b5bbb56bf">
-        <source url="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.34.3-beta/reVCS-models-1.34.0.bin" />
+      <package id="models" version="1.35.0" file="reVCS-models-1.35.0.bin" bytes="2040742" sha256="1db589b36247d8a8cda5735f53827552d3f717138422c5dfbd29d00bcc7a2722">
+        <source url="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.0/reVCS-models-1.35.0.bin" />
       </package>
-      <package id="pickups" version="1.34.0" file="reVCS-pickups-1.34.0.bin" bytes="9187" sha256="474f4ab0f1edcd4f2889f6f38ef6808859011a91fec6923ef042835d868238d1">
-        <source url="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.34.3-beta/reVCS-pickups-1.34.0.bin" />
+      <package id="pickups" version="1.35.0" file="reVCS-pickups-1.35.0.bin" bytes="9187" sha256="8abf966696515924976cad6af21503f968b166f1e1f14df874d2c2fa3f592222">
+        <source url="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.0/reVCS-pickups-1.35.0.bin" />
       </package>
-      <package id="project" version="1.34.0" file="reVCS-project-1.34.0.bin" bytes="81150926" sha256="ed1fcee2746e45ee500649d64e2c97793adfe2dc9f12c2814ef17c06b25ad448">
-        <source url="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.34.3-beta/reVCS-project-1.34.0.bin" />
+      <package id="project" version="1.35.0" file="reVCS-project-1.35.0.bin" bytes="81150926" sha256="cfd804c3f587c8f4d6b49562d8d77248bc072b9a968ff65f775d939224b964ab">
+        <source url="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.0/reVCS-project-1.35.0.bin" />
       </package>
-      <package id="runtime" version="1.34.0" file="reVCS-runtime-1.34.0.bin" bytes="11497524" sha256="88a5aed7375153462b424a5548132c49deda723ff33fa83b4e9a2b66dd7c11d3">
-        <source url="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.34.3-beta/reVCS-runtime-1.34.0.bin" />
+      <package id="runtime" version="1.35.0" file="reVCS-runtime-1.35.0.bin" bytes="11897701" sha256="f0948a0aa7fe78d2dafc6ba2bfe6c26d92894922791342e4a0eb6d1942e0468f">
+        <source url="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.0/reVCS-runtime-1.35.0.bin" />
       </package>
-      <package id="textures" version="1.34.0" file="reVCS-textures-1.34.0.bin" bytes="9411468" sha256="0e6f891d0e9d2b04f4a90701c19a6ce8ceb7bce655013b033ef00c56eae9df72">
-        <source url="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.34.3-beta/reVCS-textures-1.34.0.bin" />
+      <package id="textures" version="1.35.0" file="reVCS-textures-1.35.0.bin" bytes="9411468" sha256="727a3b75e57291ccc6b8b20210ab9dc05c923caa5cf28ee0b6f80d46c1a94f5c">
+        <source url="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.0/reVCS-textures-1.35.0.bin" />
       </package>
-      <package id="tools" version="1.34.3" file="reVCS-tools-1.34.3.bin" bytes="18934756" sha256="88ad8a8183c52a74ccfbdb7f76ea721a23f7f5d93656c95e71c5a2e9c42f913f">
-        <source url="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.34.3-beta/reVCS-tools-1.34.3.bin" />
+      <package id="tools" version="1.35.0" file="reVCS-tools-1.35.0.bin" bytes="19202765" sha256="1b100335cf4c85887395f55199b6aa96b5771dea6c17a50936b31d6898177e19">
+        <source url="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.0/reVCS-tools-1.35.0.bin" />
       </package>
-      <package id="vehicles" version="1.34.0" file="reVCS-vehicles-1.34.0.bin" bytes="745" sha256="fa75408dc02a1424a2a04b7df9bb1fff59c8a80ffcc635a77b42f5f98b39d5cd">
-        <source url="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.34.3-beta/reVCS-vehicles-1.34.0.bin" />
+      <package id="vehicles" version="1.35.0" file="reVCS-vehicles-1.35.0.bin" bytes="5127" sha256="3dc4e17c53d06b311922167ef5c8457d5220e46123a207f4ba06bbecaa913aa1">
+        <source url="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.0/reVCS-vehicles-1.35.0.bin" />
       </package>
     </packages>
     <updates>
@@ -55,9 +55,12 @@
       <update id="Update8.4" version="8.4.0" file="reVCS-Update-8.4.zip" bytes="34987350" sha256="b0f3bacf7a7c4f03eadd183e2e4e55bcddc4cd814ade56e8b4013eac9c3c423a" changelog="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update8.4/CHANGELOG_UPDATE_8_4_EN.txt" from="0.55 Alpha Update 8;0.55 Alpha Update 8.1;0.55 Alpha Update 8.2;0.55 Alpha Update 8.3" to="0.55 Alpha Update 8.4">
         <source url="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update8.4/reVCS-Update-8.4.zip" />
       </update>
+      <update id="Update8.5" version="8.5.0" file="reVCS-Update-8.5.zip" bytes="35199427" sha256="0d24ae54d2915c0c96dd016ca550680f7bce7cbb4a755804c547d61f087b4909" changelog="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update8.5/CHANGELOG_UPDATE_8_5_EN.txt" from="0.55 Alpha Update 8;0.55 Alpha Update 8.1;0.55 Alpha Update 8.2;0.55 Alpha Update 8.3;0.55 Alpha Update 8.4" to="0.55 Alpha Update 8.5">
+        <source url="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update8.5/reVCS-Update-8.5.zip" />
+      </update>
     </updates>
   </game>
-  <installer version="1.34.3-beta" file="reVCS-Setup-1.34.3.exe" bytes="6135296" sha256="e8c2f90a5f58c60e9f227b534b0211861e6bc4711e8ef148416b3c6ff1c96050" changelog="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.34.3-beta/README_INSTALLER_1_34_3_EN.txt">
-    <source url="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.34.3-beta/reVCS-Setup-1.34.3.exe" />
+  <installer version="1.35.0" file="reVCS-Manager-1.35.0.exe" bytes="6327808" sha256="1f1786cd851c740b736fc819f61e0c72fdf06f88ebec4dd5899b2927fc56f54d" changelog="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.0/README_MANAGER_1_35_0_EN.txt">
+    <source url="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.0/reVCS-Manager-1.35.0.exe" />
   </installer>
 </reVCSFeed>

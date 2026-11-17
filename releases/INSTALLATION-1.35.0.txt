@@ -1,0 +1,26 @@
+reVCS Manager 1.35.0
+
+Install, update and launch reVCS using your original PS2 game data.
+The language selector is always visible in the title bar beside Quick/Extended.
+This is the production Manager release; the former Setup name migrates safely.
+
+Highlights
+- PCSX2 Texture Pack Manager: multiple packs, per-image selection, priorities,
+  incremental reintegration, verified original restoration and full mip chains.
+- Quick/Extended interface; six core interface languages.
+- Interactive saves, region labels and game-preference editing.
+- Post-install DXVK selection/removal and native Direct3D 9 restoration.
+- Local ZIP updates, confirmed startup offers, download details and bounded cache.
+- Compressed rollback backups, manifest recovery and optional-content preservation.
+
+Download the Manager EXE and all 13 adjacent BIN files for offline installation,
+or use the small bootstrap ZIP with online access. Existing preferences remain.
+An original supported PS2 disc image is needed for a new installation. Existing
+installations can manage texture packs and install cumulative Update 8.5.
+Play reVCS defaults to x86 for new preferences; choose x64 in Launch Options
+for the current extended rendering and streaming features.
+Apply existing texture selections again to upgrade older imports to offline
+mip chains. Texture-pack changes are applied while the game is closed.
+
+The project is free. No PS2 ISO or third-party replacement pack is included.
+Technical logs and some extended explanatory text retain English fallback.

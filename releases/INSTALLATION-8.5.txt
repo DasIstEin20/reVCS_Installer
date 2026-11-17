@@ -1,0 +1,20 @@
+reVCS 0.55 Alpha Update 8.5 - cumulative runtime update
+
+Updates Alpha Update 8, 8.1, 8.2, 8.3 or 8.4 directly, including EU/US installs.
+Use reVCS Manager 1.35.0: Check Game Updates, review the notes, then apply.
+Manager 1.35.0 is recommended for PCSX2 multi-pack preservation and mip upgrades.
+
+For manual extraction, close the game and extract beside reVCS64.exe. Do not
+replace your installation manifest with the delta manifest inside the ZIP;
+use Manager to retain complete installation metadata and update registration.
+Saves, settings, MAIN.SCM, regional language files and user texture sources
+are not part of this update. Both Windows executables are included.
+
+Run START_DEMO64.cmd or choose x64 in Launch Options for the current extended
+features. Options > reVCS Extras contains metrics and the extended settings.
+Set a custom waypoint on the pause map for road GPS. The pack overview is
+read-only; its counts describe selected images, not live GPU texture residency.
+Existing imported textures can be upgraded to full offline mip chains by
+applying unchanged selections in Manager. Source files remain retained.
+
+No ISO reconversion is required. The game and Manager are free.

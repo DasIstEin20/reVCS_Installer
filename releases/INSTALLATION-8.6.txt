@@ -1,0 +1,25 @@
+reVCS Alpha Update 8.6 - FULL CUMULATIVE UPDATE
+
+Supported: a game installed by the first public Setup 1.34.0 (Alpha Update 8,
+also called 8.0), or Alpha Updates 8.1, 8.2, 8.3, 8.4 and 8.5. No intermediate
+updates or ISO reconversion are required. This is an update, not a complete game.
+
+1. Update Manager to 1.35.1 first. Close the old Manager and replace its EXE
+   with the supplied reVCS Manager.exe if it has no local-ZIP update action.
+2. Close reVCS. In Manager choose 'Choose local ZIP update', then select
+   reVCS-Update-8.6-Full.zip and confirm. Keep existing component BINs/cache;
+   Manager may acquire matching 1.35.0 worker components if they are absent.
+3. Start x64 for Direct3D 11, or choose x86/Direct3D 9 for older computers.
+
+Use Manager rather than extracting the runtime manifest over your installation.
+It merges update metadata while preserving the actual EU/US script, languages,
+saves, settings and managed texture selections. Do not replace localversion.xml
+or your installed PORTABLE_MANIFEST.json by hand. Missing/corrupt installation
+metadata still requires Manager's recovery action; no unknown version is guessed.
+
+The supplied radio atlas and instrumental menu WAV are included unchanged.
+Optional D3D11 radiosity is experimental and starts disabled. The newest UI
+changes remain for manual playtesting; package checks do not claim a full
+campaign, every renderer/resolution combination or extended x86 validation.
+
+Matching source is retained separately and is not bundled in this update.

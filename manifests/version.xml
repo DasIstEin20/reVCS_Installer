@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='utf8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <reVCSFeed schema="2" channel="alpha" id="revcs-bullet-update8">
-  <game version="0.55 Alpha Update 8.5" layout="pc-v2-rvarch">
+  <game version="0.55 Alpha Update 8.6" layout="pc-v2-rvarch">
     <packages>
       <package id="animations" version="1.35.0" file="reVCS-animations-1.35.0.bin" bytes="1314557" sha256="58f9b2ff331f705be4cbd55dbd3d23f629574c6f5c412ff9bddff4cff6ef4610">
         <source url="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.0/reVCS-animations-1.35.0.bin" />
@@ -58,9 +58,12 @@
       <update id="Update8.5" version="8.5.0" file="reVCS-Update-8.5.zip" bytes="35199427" sha256="0d24ae54d2915c0c96dd016ca550680f7bce7cbb4a755804c547d61f087b4909" changelog="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update8.5/CHANGELOG_UPDATE_8_5_EN.txt" from="0.55 Alpha Update 8;0.55 Alpha Update 8.1;0.55 Alpha Update 8.2;0.55 Alpha Update 8.3;0.55 Alpha Update 8.4" to="0.55 Alpha Update 8.5">
         <source url="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update8.5/reVCS-Update-8.5.zip" />
       </update>
+      <update id="Update8.6" version="8.6.0" file="reVCS-Update-8.6-Full.zip" bytes="43633796" sha256="1e11fa0c30d37de1f346b008439b58b45fc1882ab82ac249355887860f91969e" changelog="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update8.6/CHANGELOG_UPDATE_8_6_EN.txt" from="0.55 Alpha Update 8;0.55 Alpha Update 8.0;0.55 Alpha Update 8.1;0.55 Alpha Update 8.2;0.55 Alpha Update 8.3;0.55 Alpha Update 8.4;0.55 Alpha Update 8.5" to="0.55 Alpha Update 8.6">
+        <source url="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update8.6/reVCS-Update-8.6-Full.zip" />
+      </update>
     </updates>
   </game>
-  <installer version="1.35.0" file="reVCS-Manager-1.35.0.exe" bytes="6327808" sha256="1f1786cd851c740b736fc819f61e0c72fdf06f88ebec4dd5899b2927fc56f54d" changelog="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.0/README_MANAGER_1_35_0_EN.txt">
-    <source url="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.0/reVCS-Manager-1.35.0.exe" />
+  <installer version="1.35.1" file="reVCS-Manager-1.35.1.exe" bytes="8847360" sha256="848b8248d87586701e51c48d8848dbc30227450d8ff8bb931526c7132e12c7f8" changelog="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.1/CHANGELOG_MANAGER_1_35_1_EN.txt">
+    <source url="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.1/reVCS-Manager-1.35.1.exe" />
   </installer>
 </reVCSFeed>

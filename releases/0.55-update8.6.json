@@ -1,0 +1,50 @@
+{
+  "schema": "revcs-paired-release/v1",
+  "tag": "v0.55-update8.6",
+  "release_id": 449839659,
+  "source_revision": "3e5021270533c484479ad10631957eabb82ee642",
+  "feed": "manifests/version.xml",
+  "assets": [
+    {
+      "name": "CHANGELOG_UPDATE_8_6_EN.txt",
+      "bytes": 2069,
+      "sha256": "3b1447d2c5d393d798f32382e2365df390e72786ffe30ac79014e2ec7e5fa8d8",
+      "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update8.6/CHANGELOG_UPDATE_8_6_EN.txt"
+    },
+    {
+      "name": "README_UPDATE_8_6_EN.txt",
+      "bytes": 1550,
+      "sha256": "ef5ba5ccc756fec648953edc670b25ce2de77f8919819eb2306486cd363b6ec5",
+      "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update8.6/README_UPDATE_8_6_EN.txt"
+    },
+    {
+      "name": "reVCS-Update-8.6-Full.zip",
+      "bytes": 43633796,
+      "sha256": "1e11fa0c30d37de1f346b008439b58b45fc1882ab82ac249355887860f91969e",
+      "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update8.6/reVCS-Update-8.6-Full.zip"
+    },
+    {
+      "name": "SHA256SUMS-8.6.txt",
+      "bytes": 359,
+      "sha256": "941171943d6a9d3f9de1ad4d1ba2b4c7f7c75935897d60229b9e400eac4ca4fb",
+      "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update8.6/SHA256SUMS-8.6.txt"
+    },
+    {
+      "name": "version.xml",
+      "bytes": 7898,
+      "sha256": "841ce03bcaeec3223b92b908c0b43ff9c1fffef3df14a3e375d49b528c1f5287",
+      "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update8.6/version.xml"
+    }
+  ],
+  "paired_release": "v1.35.1",
+  "source_code_in_update": false,
+  "from_versions": [
+    "0.55 Alpha Update 8",
+    "0.55 Alpha Update 8.0",
+    "0.55 Alpha Update 8.1",
+    "0.55 Alpha Update 8.2",
+    "0.55 Alpha Update 8.3",
+    "0.55 Alpha Update 8.4",
+    "0.55 Alpha Update 8.5"
+  ]
+}

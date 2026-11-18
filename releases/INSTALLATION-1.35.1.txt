@@ -1,0 +1,16 @@
+reVCS Manager 1.35.1 - client update
+
+Existing Manager: use 'Choose local ZIP update', select this ZIP and confirm.
+Very old Setup without that action: close Setup, extract reVCS Manager.exe into
+its existing folder and start it. Keep installer.cfg, component BINs and cache.
+
+This client uses the existing 1.35.0 installation components. Missing matching
+components may be downloaded or supplied beside Manager. The small client update ZIP is not a complete
+offline kit. For offline conversion, download the bootstrap and all 13 BINs
+from this release. Also keep the separate cumulative game ZIP for Update 8.6. Fresh conversions using the existing public components
+can install cumulative Update 8.6 afterwards using the separate local game ZIP.
+
+Preferences, saves and texture selections remain. The executable still uses the
+compatible product identity required by old Setup self-updaters. All supplied
+interface glyphs and the unobstructed Welcome portrait are retained.
+

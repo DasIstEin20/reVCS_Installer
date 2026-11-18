@@ -6,7 +6,7 @@ Install **reVCS Alpha 0.55** on Windows using your own Vice City Stories PS2 ISO
 
 [Download Manager 1.35.11](https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.11/reVCS-Manager-1.35.11-bootstrap.zip) · [All downloads](https://github.com/DasIstEin20/reVCS_Installer/releases/tag/v1.35.11) · [Website](https://dasistein20.github.io/reVCS_Installer/)
 
-**Manager 1.35.11** fixes installer backend/DXVK selection and removes running-game process gates from updates. Fresh conversion installs Update 8.6 directly. [Changelog](releases/CHANGELOG-1.35.11.md)
+**Manager 1.35.11** fixes installer backend selection and legacy UTF-8 metadata, removes running-game update blocks and adds local error diagnostics. Fresh conversion installs Update 8.6 directly. [Changelog](releases/CHANGELOG-1.35.11.md)
 
 **Update 8.6** is cumulative for **8 / 8.0 through 8.5**, including the first public installer. Adds native menus, pause blur, radio glyphs, mission GPS, D3D11 and cargo corrections. [Changelog](releases/CHANGELOG-8.6.md) · [Update release](https://github.com/DasIstEin20/reVCS_Installer/releases/tag/v0.55-update8.6)
 

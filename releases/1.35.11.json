@@ -2,43 +2,43 @@
   "schema": "revcs-manager-release/v1",
   "tag": "v1.35.11",
   "release_id": 449911151,
-  "source_revision": "a3b1818517527b4702b8130b7be74a735a71cfd0",
+  "source_revision": "09e869ffe66ea7165e27b3d709c59302aeecccf6",
   "feed": "manifests/version.xml",
   "assets": [
     {
       "name": "CHANGELOG_MANAGER_1_35_11_EN.txt",
-      "bytes": 1209,
-      "sha256": "2a4f2ac89bc5ce23b0e7da0e6a9f1f484a37b78d2627bbad35099a7b531c469b",
+      "bytes": 1476,
+      "sha256": "6a6fdb110473eebefc9aa274636c51aadc1099ad1a7a76f0a767fad1ceddfd92",
       "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.11/CHANGELOG_MANAGER_1_35_11_EN.txt"
     },
     {
       "name": "README_MANAGER_1_35_11_EN.txt",
-      "bytes": 1209,
-      "sha256": "2b34da3c9cdaa76dbb017f8fedc6681dfebe7fa408db8bbcb44df658ef666bfb",
+      "bytes": 1444,
+      "sha256": "d7667eb6fd527003a7540f03b3de56180b78b904e78036d52fd8c6d9ae9ec59e",
       "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.11/README_MANAGER_1_35_11_EN.txt"
     },
     {
       "name": "SHA256SUMS-1.35.11.txt",
       "bytes": 1768,
-      "sha256": "c8b76bac58c38b01dae8150c8b5cb5ea0b730d63413df047dbcb6d069d4fe70d",
+      "sha256": "e312c0bdd5c195117393dca2536dd33fa28eaf98eb43400373066d0001ab4be5",
       "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.11/SHA256SUMS-1.35.11.txt"
     },
     {
       "name": "reVCS-Manager-1.35.11-Update.zip",
-      "bytes": 8251925,
-      "sha256": "f63ef9f78b0e0be503c49cc3642b16014f37c9eaea125f8bd64a5a51ad87d5a2",
+      "bytes": 8254428,
+      "sha256": "b9db40046c5b48ddfbe18baca64a8adcc0a859204f7bdd86c7d2b45a2d546cdc",
       "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.11/reVCS-Manager-1.35.11-Update.zip"
     },
     {
       "name": "reVCS-Manager-1.35.11-bootstrap.zip",
-      "bytes": 10710317,
-      "sha256": "cf20bebf716435b9001e70931b72ffa618484b0c2f797d74dc3fa772eb1a3ebd",
+      "bytes": 10712820,
+      "sha256": "ca1e4d6ce1432a84e11a6a2f0591ed3ba3c9a2a6d70b516228c6001869beb00b",
       "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.11/reVCS-Manager-1.35.11-bootstrap.zip"
     },
     {
       "name": "reVCS-Manager-1.35.11.exe",
-      "bytes": 8852992,
-      "sha256": "ab3e0154f506bc505816175719201a26d740dc833d434c5d6f4dc470cc80a850",
+      "bytes": 8857600,
+      "sha256": "e789f6e25996507ee84798f33d7989ce93f727aee48b4fd6c3fc2f96dd68fd4c",
       "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.11/reVCS-Manager-1.35.11.exe"
     },
     {
@@ -109,8 +109,8 @@
     },
     {
       "name": "reVCS-tools-1.35.11.bin",
-      "bytes": 19084439,
-      "sha256": "9c15c78bcbb05c895f215a49b2703eea6ea71da42a40342f38532838f3956d70",
+      "bytes": 19084426,
+      "sha256": "9f19c1a9f5f8474e927eb7a7c1e56de15853d837af149a1e4efa9a2983947149",
       "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.11/reVCS-tools-1.35.11.bin"
     },
     {
@@ -121,11 +121,12 @@
     },
     {
       "name": "version.xml",
-      "bytes": 7938,
-      "sha256": "2cc0ec2b701ce1edaee1300bcbdcb52aab5470f91b4659fe55ef0cb6debe9999",
+      "bytes": 8588,
+      "sha256": "8e3b71556af0223d5276998be152398262c55fe6af10de97f31cb06c920faac1",
       "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.11/version.xml"
     }
   ],
-  "game_release_unchanged": "v0.55-update8.6",
-  "source_code_in_update": false
+  "game_release_unchanged": "v0.55-update8.7",
+  "source_code_in_update": false,
+  "converter_baseline": "8.6"
 }

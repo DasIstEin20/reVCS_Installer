@@ -1,8 +1,12 @@
 reVCS Manager 1.35.11
 
 - Remove running-game process checks from online/local game updates and runtime
-  repair, as requested. This avoids false update blocks reported on Linux/Wine;
-  OS file-access errors still trigger the existing atomic-update rollback.
+  repair and maintenance/recovery actions, as requested. OS file-access errors
+  still trigger the existing atomic-update rollback.
+- Read historical installation metadata declaring the UTF-8 alias "utf8"
+  without changing its version, source identity or saved update history.
+- Add local update diagnostics with EXE/worker identities, action history and
+  full error details; open the logs from Extended > Advanced.
 - Fix "Invalid DXVK option" when a newer Manager is used beside an older
   installer manifest. Matching converter components are selected and verified
   together; missing components can be downloaded automatically.

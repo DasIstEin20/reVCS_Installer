@@ -35,7 +35,7 @@
       <package id="textures" version="1.35.0" file="reVCS-textures-1.35.0.bin" bytes="9411468" sha256="727a3b75e57291ccc6b8b20210ab9dc05c923caa5cf28ee0b6f80d46c1a94f5c">
         <source url="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.11/reVCS-textures-1.35.0.bin" />
       </package>
-      <package id="tools" version="1.35.11" file="reVCS-tools-1.35.11.bin" bytes="19084439" sha256="9c15c78bcbb05c895f215a49b2703eea6ea71da42a40342f38532838f3956d70">
+      <package id="tools" version="1.35.11" file="reVCS-tools-1.35.11.bin" bytes="19084426" sha256="9f19c1a9f5f8474e927eb7a7c1e56de15853d837af149a1e4efa9a2983947149">
         <source url="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.11/reVCS-tools-1.35.11.bin" />
       </package>
       <package id="vehicles" version="1.35.0" file="reVCS-vehicles-1.35.0.bin" bytes="5127" sha256="3dc4e17c53d06b311922167ef5c8457d5220e46123a207f4ba06bbecaa913aa1">
@@ -66,7 +66,7 @@
       </update>
     </updates>
   </game>
-  <installer version="1.35.11" file="reVCS-Manager-1.35.11.exe" bytes="8852992" sha256="ab3e0154f506bc505816175719201a26d740dc833d434c5d6f4dc470cc80a850" changelog="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.11/CHANGELOG_MANAGER_1_35_11_EN.txt">
+  <installer version="1.35.11" file="reVCS-Manager-1.35.11.exe" bytes="8857600" sha256="e789f6e25996507ee84798f33d7989ce93f727aee48b4fd6c3fc2f96dd68fd4c" changelog="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.11/CHANGELOG_MANAGER_1_35_11_EN.txt">
     <source url="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.11/reVCS-Manager-1.35.11.exe" />
   </installer>
 </reVCSFeed>

@@ -12,7 +12,10 @@ An old version.xml may stay in your folder: Manager uses its matching converter
 catalog and accepts only matching component mirrors from that XML. Online mode
 downloads missing matching BINs; offline mode needs the exact listed BINs.
 Existing games are not reconverted by a Manager update. Use the separate
-cumulative game Update 8.6 for installations at Alpha Update 8 / 8.0 through 8.5.
+cumulative game Update 8.7 for installations at Alpha Update 8 / 8.0 through 8.6.
 Existing saves, game settings and ongoing installations are left unchanged.
 Game updates no longer depend on running-game process detection. File-access
 errors from the operating system retain the existing rollback behavior.
+For diagnostics, use Extended > Advanced > Open update diagnostics. The current
+EXE hash, action, selected components and full errors are written locally.
+Legacy metadata with an "utf8" declaration can be read without resetting it.

@@ -1,0 +1,18 @@
+reVCS Manager 1.35.11 - installation backend hotfix
+
+Update Manager with the small Update ZIP, or download the standalone EXE.
+The bootstrap ZIP includes Manager, version.xml and the download helper.
+For a completely offline fresh installation, put all 13 BINs from this release
+beside the bootstrap files. A PS2 game ISO/extracted disc folder is still
+required: the converter builds the original game data from your own copy.
+Fresh conversion now produces Alpha Update 8.6 with native x64 Direct3D 11
+and an x86 Direct3D 9 fallback. Optional DXVK/Vulkan applies to x86 only.
+
+An old version.xml may stay in your folder: Manager uses its matching converter
+catalog and accepts only matching component mirrors from that XML. Online mode
+downloads missing matching BINs; offline mode needs the exact listed BINs.
+Existing games are not reconverted by a Manager update. Use the separate
+cumulative game Update 8.6 for installations at Alpha Update 8 / 8.0 through 8.5.
+Existing saves, game settings and ongoing installations are left unchanged.
+Game updates no longer depend on running-game process detection. File-access
+errors from the operating system retain the existing rollback behavior.

@@ -1,0 +1,101 @@
+{
+  "schema": "revcs-paired-release/v1",
+  "tag": "v0.55-update8.8",
+  "release_id": 451736151,
+  "source_revision": "d4fdfd7a58dc6f63a201f3709a26e74e48b9cdb3",
+  "compiled_parent": "678a1a51a1c83fb989db2348e7f3f34e898499f8",
+  "feed": "manifests/version.xml",
+  "paired_release": "v1.35.12",
+  "assets": [
+    {
+      "name": "CHANGELOG_UPDATE_8_8_EN.txt",
+      "bytes": 2426,
+      "sha256": "6e9c322c908bbbc7bd42b0d02c0e299421ca91444f234a30bc4169d62e6a5421",
+      "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update8.8/CHANGELOG_UPDATE_8_8_EN.txt"
+    },
+    {
+      "name": "README_UPDATE_8_8_EN.txt",
+      "bytes": 1819,
+      "sha256": "fae80780462e0bebddedf32d6e1b4a6c6c43ed00dbf73473ec360b6971404566",
+      "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update8.8/README_UPDATE_8_8_EN.txt"
+    },
+    {
+      "name": "reVCS-8.8-Renderer-CopyPaste.zip",
+      "bytes": 25410311,
+      "sha256": "e18feb071dc5e5d6696383bc34989e770111e3af11e74c632967770891ed1895",
+      "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update8.8/reVCS-8.8-Renderer-CopyPaste.zip"
+    },
+    {
+      "name": "reVCS-Update-8.8-Full.zip",
+      "bytes": 797175455,
+      "sha256": "8be1cf9cce6b02f351a552a02a838dba18d826366e5cf8ce312e8337f9ce061c",
+      "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update8.8/reVCS-Update-8.8-Full.zip"
+    },
+    {
+      "name": "SHA256SUMS-8.8.txt",
+      "bytes": 459,
+      "sha256": "363d6e3161c36eb75a88fdbab53eefc01fbe4c4c43cfbfa740de7f5d2a4bef3b",
+      "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update8.8/SHA256SUMS-8.8.txt"
+    },
+    {
+      "name": "version.xml",
+      "bytes": 9272,
+      "sha256": "73383a266058893950aae0ac87231c354c74fe226e89022888cb148f0a8c47e4",
+      "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update8.8/version.xml"
+    }
+  ],
+  "from_versions": [
+    "0.55 Alpha Update 8",
+    "0.55 Alpha Update 8.0",
+    "0.55 Alpha Update 8.1",
+    "0.55 Alpha Update 8.2",
+    "0.55 Alpha Update 8.3",
+    "0.55 Alpha Update 8.4",
+    "0.55 Alpha Update 8.5",
+    "0.55 Alpha Update 8.6",
+    "0.55 Alpha Update 8.7"
+  ],
+  "source_code_in_update": false,
+  "backends": [
+    {
+      "architecture": "x64",
+      "backend": "d3d11",
+      "path": "F:\\reVCS\\temp\\revcs-codex\\Release88-Manager13512-20261119\\build\\x64-d3d11\\reVCS64.exe",
+      "bytes": 8861696,
+      "sha256": "207ddd6cc5ef82c87cbca2bb61d987f94b95331c4f9d07f2e2d44345538a1256",
+      "compiled_parent_commit": "678a1a51a1c83fb989db2348e7f3f34e898499f8",
+      "version": "0.55 Alpha Update 8.8",
+      "runtime_executed": false
+    },
+    {
+      "architecture": "x64",
+      "backend": "d3d9",
+      "path": "F:\\reVCS\\temp\\revcs-codex\\Release88-Manager13512-20261119\\build\\x64-d3d9\\reVCS64.exe",
+      "bytes": 8865280,
+      "sha256": "73c772425d87afc94344136308017e3de65b030e4c26c26f7d3caefff6852b6e",
+      "compiled_parent_commit": "678a1a51a1c83fb989db2348e7f3f34e898499f8",
+      "version": "0.55 Alpha Update 8.8",
+      "runtime_executed": false
+    },
+    {
+      "architecture": "x86",
+      "backend": "d3d9",
+      "path": "F:\\reVCS\\temp\\revcs-codex\\Release88-Manager13512-20261119\\build\\x86-d3d9\\reVCS.exe",
+      "bytes": 7486464,
+      "sha256": "69d588c8abb08466d7a3ab7455914582155ca718e6df2f9b0381db352ca4edde",
+      "compiled_parent_commit": "678a1a51a1c83fb989db2348e7f3f34e898499f8",
+      "version": "0.55 Alpha Update 8.8",
+      "runtime_executed": false
+    },
+    {
+      "architecture": "x86",
+      "backend": "d3d11",
+      "path": "F:\\reVCS\\temp\\revcs-codex\\Release88-Manager13512-20261119\\build\\x86-d3d11\\reVCS.exe",
+      "bytes": 7481344,
+      "sha256": "143789ac8dd9f7ab5aea136b0ac7983bb2dffa67e92491606cde08c37f1590d8",
+      "compiled_parent_commit": "678a1a51a1c83fb989db2348e7f3f34e898499f8",
+      "version": "0.55 Alpha Update 8.8",
+      "runtime_executed": false
+    }
+  ]
+}

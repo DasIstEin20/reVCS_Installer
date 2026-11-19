@@ -1,0 +1,23 @@
+reVCS Manager 1.35.12
+
+Existing Manager: choose the small Update ZIP in Choose local ZIP update, or
+replace the closed Manager with the standalone EXE. Keep installer.cfg, saves,
+existing BIN files and caches. Local ZIP self-update replaces the executable;
+matching worker components are then obtained beside Manager or downloaded
+in online mode. The separate CopyPaste ZIP includes the new tools/runtime BINs
+for manual offline replacement of Manager and its update/repair workers.
+
+For a fresh installation, use the bootstrap ZIP. It includes Manager, the feed
+and the download helper. Online mode downloads missing matching components.
+For a fully offline conversion, put all 13 BINs listed in version.xml beside
+the bootstrap files. You still need your own supported PS2 ISO or extracted
+disc folder. The converter produces Alpha Update 8.8 directly, with native
+DX11 x64 and DX9 x86 defaults. Other explicit renderers are included.
+
+Existing games need the separate cumulative reVCS Update 8.8 ZIP. Updating
+Manager alone does not reconvert a game. Existing native saves and settings
+remain.
+Texture Pack Apply upgrades cached imports from retained PNG/DDS sources.
+An old BC3-only import must be reimported from the original pack to recover detail.
+
+Prepared locally for changelog review. No release, live feed or site was changed.

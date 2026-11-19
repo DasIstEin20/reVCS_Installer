@@ -10,6 +10,8 @@ Install **reVCS Alpha 0.55** on Windows using your own Vice City Stories PS2 ISO
 
 **Update 8.8** is cumulative for **8 / 8.0 through 8.7**, including the first public installer. Improves Bullet driving, boats, garages, combat poses, menu controls, fonts and anti-aliasing. Includes x86/x64 builds of DX9/DX11. [Changelog](releases/CHANGELOG-8.8.md) · [Update release](https://github.com/DasIstEin20/reVCS_Installer/releases/tag/v0.55-update8.8)
 
+Update Manager to **1.35.12 first**, then apply the cumulative ZIP through Manager. Keep your own PS2 ISO available when new resources need conversion. This update uses verified asset deltas and is not a standalone game.
+
 Requires **Windows 10 or 11, 64-bit**, and your own PS2 game files.
 
 1. Download and extract the bootstrap ZIP into a writable folder.

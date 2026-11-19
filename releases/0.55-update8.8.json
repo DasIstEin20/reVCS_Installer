@@ -1,8 +1,8 @@
 {
   "schema": "revcs-paired-release/v1",
   "tag": "v0.55-update8.8",
-  "release_id": 451736151,
-  "source_revision": "d4fdfd7a58dc6f63a201f3709a26e74e48b9cdb3",
+  "release_id": 451806134,
+  "source_revision": "4ec88eb1f54f50cd9d63ee331abb50a4e3787bcf",
   "compiled_parent": "678a1a51a1c83fb989db2348e7f3f34e898499f8",
   "feed": "manifests/version.xml",
   "paired_release": "v1.35.12",
@@ -15,8 +15,8 @@
     },
     {
       "name": "README_UPDATE_8_8_EN.txt",
-      "bytes": 1819,
-      "sha256": "fae80780462e0bebddedf32d6e1b4a6c6c43ed00dbf73473ec360b6971404566",
+      "bytes": 1145,
+      "sha256": "4d7fbd26675e382e5dd27381e25762dd09cea9b810f8d48024cb918e98e9faab",
       "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update8.8/README_UPDATE_8_8_EN.txt"
     },
     {
@@ -27,20 +27,20 @@
     },
     {
       "name": "reVCS-Update-8.8-Full.zip",
-      "bytes": 797175455,
-      "sha256": "8be1cf9cce6b02f351a552a02a838dba18d826366e5cf8ce312e8337f9ce061c",
+      "bytes": 59317117,
+      "sha256": "af63a74653c9aed773a3fcdeeb858db4bf3739ee7448af39528d87dfaf99096a",
       "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update8.8/reVCS-Update-8.8-Full.zip"
     },
     {
       "name": "SHA256SUMS-8.8.txt",
       "bytes": 459,
-      "sha256": "363d6e3161c36eb75a88fdbab53eefc01fbe4c4c43cfbfa740de7f5d2a4bef3b",
+      "sha256": "77935885c1dc4464b5993c622b47c970c9825c8a53f0f63bd4f2e1840091f1da",
       "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update8.8/SHA256SUMS-8.8.txt"
     },
     {
       "name": "version.xml",
-      "bytes": 9272,
-      "sha256": "73383a266058893950aae0ac87231c354c74fe226e89022888cb148f0a8c47e4",
+      "bytes": 9271,
+      "sha256": "d3473bf7ee21784079d101cefdc105d4f2947092033f5556ece1b1f3d3fef4d0",
       "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update8.8/version.xml"
     }
   ],
@@ -97,5 +97,7 @@
       "version": "0.55 Alpha Update 8.8",
       "runtime_executed": false
     }
-  ]
+  ],
+  "minimum_manager": "1.35.12",
+  "original_assets": "Verified base-dependent deltas; missing resources generated from own PS2 source."
 }

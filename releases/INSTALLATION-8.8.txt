@@ -1,30 +1,18 @@
-reVCS 0.55 Alpha Update 8.8 - cumulative runtime update
+reVCS Update 8.8 - source-dependent cumulative update
 
-Apply with reVCS Manager > Updates > Choose local ZIP update. This is an
-update for an already converted installation, not an ISO converter. It covers
-the first public Alpha Update 8 / 8.0 installer through Update 8.7 directly.
-An installation whose metadata reports version zero must first be recognized
-as the original Update8 layout by Manager's existing legacy migration.
+Update Manager to 1.35.12 before applying this ZIP through Choose local ZIP update.
+Supports the first public Alpha Update 8 / 8.0 installation through 8.7.
+This ZIP cannot be extracted as a complete manual asset overlay. Executables and
+dependencies are complete; original game media is supplied as verified deltas.
+Manager applies the geometry changes to your installed archives while retaining
+their other resources, including optional HD dictionaries.
 
-The normal reVCS64.exe uses DX11; reVCS.exe uses DX9. Explicit alternatives:
-PLAY_DX11_X64.cmd, PLAY_DX9_X64.cmd, PLAY_DX11_X86.cmd, PLAY_DX9_X86.cmd.
-Keep the renderers folder beside these launchers. Compatibility folders use
-native Direct3D without a DXVK proxy. Microsoft runtime installers are included
-in redist; run the required redistributable manually if a dependency is missing.
+New original resources absent from your installation are generated locally from
+your own PS2 ISO/extracted disc. Manager asks for that source when required and
+acquires its matching core/tools components. Never supply a downloaded ready game.
+No original MAIN.SCM, user saves/settings, stock RVARCH, TXD or RVSA is bundled.
+The separately user-approved project artwork, glyphs and supplied menu loop are
+declared additions; this content audit is not a legal license certification.
 
-Manager applies the update transactionally and preserves optional texture packs.
-For a manual copy/paste overlay, close the game, extract this ZIP into the game
-folder and allow runtime files to be replaced. Existing optional HD packs may
-need to be reapplied in Manager after a manual overlay. Keep localversion.xml,
-saves, settings and any separate source archive; none are bundled or replaced.
-
-The corrected stock world archive is included so that old installations can
-receive the map correction regardless of their intermediate update history.
-It contains no optional HD packs. The converter BINs use source-based deltas
-instead of bundling this complete stock archive.
-
-Validation: existing scoped x64 DX11 gameplay evidence is reused. All four
-variants have been rebuilt and package/overlay integrity checked. No new x86
-execution, full mission replay or complete campaign test is claimed.
-
-Prepared locally for changelog review. Nothing has been published.
+The renderer-only copy/paste ZIP remains usable for executable replacement.
+Source code and full test installations are distributed/stored separately.

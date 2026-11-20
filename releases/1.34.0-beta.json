@@ -128,5 +128,7 @@
       "sha256": "bfd94e18eb20600492b4ba234f2950c2a9cca029a3f2e8a00e71a70a57424d68",
       "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.34.0-beta/version.xml"
     }
-  ]
+  ],
+  "retired": true,
+  "superseded_by": "v1.35.13"
 }

@@ -88,5 +88,7 @@
       "bytes": 7339520,
       "sha256": "bde26ccc92df86ff9f13e811feeb5de9e4b2df8323d32015dc191212c91f75cf"
     }
-  ]
+  ],
+  "retired": true,
+  "superseded_by": "v0.55-update8.9"
 }

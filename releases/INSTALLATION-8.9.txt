@@ -1,0 +1,21 @@
+reVCS Update 8.9
+
+Update Manager to1.35.13 first, then choose reVCS-Update-8.9-Full.zip in
+Choose local ZIP update. This cumulative update supports installations from
+the first public Update8/8.0 installer through8.8. Close the game before applying.
+Your saves, settings and original MAIN.SCM are retained.
+
+The Full ZIP updates an existing game. It contains runtime binaries and
+source-dependent resource changes. If resources are missing, Manager asks for
+your own supported PS2 ISO/extracted disc and converts them locally. It does
+not require downloading older update releases. For a new installation use
+Manager1.35.13 and its13 matching BIN components with your own PS2 source.
+
+The renderer-only CopyPaste ZIP provides executable/runtime replacement for
+an existing converted game. It does not apply the complete asset changes.
+
+Crash logs stay in a circular RAM buffer during responsive play. Reports go
+to CrashReports under the selected game save folder after an incident.
+Crash dumps are attempted only after a crash, not during hangs. A normal
+exit removes the current session ZIP; reports from earlier crashes remain.
+Use -nocrashlogs to disable this feature. Reports are never uploaded automatically.

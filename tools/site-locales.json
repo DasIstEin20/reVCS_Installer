@@ -994,5 +994,41 @@
     "de": "Video schließen",
     "fr": "Fermer la vidéo",
     "es": "Cerrar vídeo"
+  },
+  "What changed in Update 8.9?": {
+    "pl": "Co nowego w Update 8.9?",
+    "de": "Was ist neu in Update 8.9?",
+    "fr": "Quoi de neuf dans l’Update 8.9 ?",
+    "es": "¿Qué cambió en el Update 8.9?"
+  },
+  "Fewer repeated business attacks, EMPIRETRUCE, restored prostitute car interactions and local crash/hang reports. Supports the first public 8/8.0 installer through 8.8. Update Manager first.": {
+    "pl": "Mniej powtarzających się ataków na biznesy, kod EMPIRETRUCE, poprawione zabieranie prostytutek do auta i lokalne raporty awarii oraz zawieszeń. Aktualizacja od pierwszego installera 8/8.0 do 8.8. Najpierw zaktualizuj Managera.",
+    "de": "Weniger wiederholte Geschäftsangriffe, EMPIRETRUCE, korrigierte Interaktionen mit Prostituierten im Auto und lokale Absturzberichte. Unterstützt den ersten öffentlichen Installer 8/8.0 bis 8.8. Zuerst den Manager aktualisieren.",
+    "fr": "Moins d’attaques répétées contre les commerces, EMPIRETRUCE, interactions corrigées avec les prostituées en voiture et rapports locaux de plantage. Compatible avec le premier installateur public 8/8.0 jusqu’à 8.8. Mettez d’abord le Manager à jour.",
+    "es": "Menos ataques repetidos a negocios, EMPIRETRUCE, interacciones corregidas con prostitutas en el coche e informes locales de fallos. Compatible desde el primer instalador público 8/8.0 hasta 8.8. Actualiza primero el Manager."
+  },
+  "What changed in Manager 1.35.13?": {
+    "pl": "Co nowego w Managerze 1.35.13?",
+    "de": "Was ist neu in Manager 1.35.13?",
+    "fr": "Quoi de neuf dans le Manager 1.35.13 ?",
+    "es": "¿Qué cambió en el Manager 1.35.13?"
+  },
+  "Direct original texture-pack import, exact-image deduplication, explicit variant selection, gang aggression/provocation editing and crash-report launch options. Fresh installation includes Update 8.9.": {
+    "pl": "Import oryginalnych paczek tekstur, łączenie identycznych obrazów, wybór wariantów, edycja agresji i prowokacji gangów oraz opcje raportowania awarii. Świeża instalacja zawiera Update 8.9.",
+    "de": "Direkter Import ursprünglicher Texturpakete, Erkennung identischer Bilder, Variantenwahl, Bearbeitung von Gang-Aggression und Provokation sowie Optionen für Absturzberichte. Neue Installationen enthalten Update 8.9.",
+    "fr": "Import direct des packs de textures originaux, détection des images identiques, choix des variantes, modification de l’agressivité et de la provocation des gangs et options de rapports de plantage. Une nouvelle installation inclut l’Update 8.9.",
+    "es": "Importación directa de paquetes de texturas originales, detección de imágenes idénticas, selección de variantes, edición de agresividad y provocación de bandas y opciones de informes de fallos. Una instalación nueva incluye el Update 8.9."
+  },
+  "Complete offline installer ZIP": {
+    "pl": "Pełny installer offline ZIP",
+    "de": "Vollständiger Offline-Installer als ZIP",
+    "fr": "Installateur hors ligne complet en ZIP",
+    "es": "Instalador completo sin conexión en ZIP"
+  },
+  "Manager and all 13 matching components. Bring your own PS2 ISO.": {
+    "pl": "Manager i wszystkie 13 zgodnych komponentów. Potrzebujesz własnego ISO PS2.",
+    "de": "Manager und alle 13 passenden Komponenten. Eigenes PS2-ISO erforderlich.",
+    "fr": "Manager et ses 13 composants correspondants. Votre propre ISO PS2 est nécessaire.",
+    "es": "Manager y los 13 componentes correspondientes. Necesitas tu propia ISO de PS2."
   }
 }

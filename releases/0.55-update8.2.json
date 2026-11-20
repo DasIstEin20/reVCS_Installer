@@ -46,5 +46,7 @@
     "runtime": "Existing targeted x64 gameplay observations reused; release source differs only in version metadata.",
     "installer": "Shipped Setup1.34.1 parser; representative EU/US managed transactions.",
     "x86": "Compiled; no repeated x86 runtime tests."
-  }
+  },
+  "retired": true,
+  "superseded_by": "v0.55-update8.9"
 }

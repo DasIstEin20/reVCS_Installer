@@ -1,8 +1,9 @@
 {
-  "version": "1.35.12",
-  "bootstrap_bytes": 10720753,
+  "version": "1.35.13",
+  "bootstrap_bytes": 11302999,
   "components": 13,
-  "game_version": "0.55 Alpha Update 8.8",
-  "game_update_tag": "v0.55-update8.8",
-  "converter_base_game_version": "0.55 Alpha Update 8.8"
+  "game_version": "0.55 Alpha Update 8.9",
+  "game_update_tag": "v0.55-update8.9",
+  "converter_base_game_version": "0.55 Alpha Update 8.9",
+  "full_offline_file": "reVCS-Manager-1.35.13-Full.zip"
 }

@@ -1,0 +1,23 @@
+reVCS Manager 1.35.13
+
+Existing Manager: apply the Update ZIP through Choose local ZIP update or replace
+the closed Manager EXE. The CopyPaste ZIP includes the three components needed for
+offline update and repair; the Full ZIP includes all 13 conversion components. Preserve your installer.cfg, game saves and settings.
+
+New installation: extract the bootstrap ZIP and run Manager. Online mode downloads
+missing matching BINs. For a completely offline installation place all 13 BIN
+components listed in version.xml beside Manager, or use the Full ZIP. Select your
+own supported PS2 ISO or extracted PS2 disc. This installs reVCS Update 8.9 from
+scratch and does not need an older installer or an existing reVCS installation.
+
+Existing game: update Manager first, then apply reVCS-Update-8.9-Full.zip. Updates
+support the first public 8/8.0 installation through 8.8. Have your own PS2 source
+available when missing resources need local conversion.
+
+Texture Packs accepts the original texture archive; no prepared replacement ZIP
+is needed. Distinct variants stay disabled until you choose one. Re-add the same
+original archive to rescan while retaining existing selections and pack order.
+
+Local crash and hang reports are enabled by default. Normal logging stays in a
+bounded RAM ring. Crash dumps are attempted only after a crash; ordinary closing
+removes the current session report. Use Launch Options or -nocrashlogs to opt out.

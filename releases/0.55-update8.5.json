@@ -44,5 +44,7 @@
     "0.55 Alpha Update 8.2",
     "0.55 Alpha Update 8.3",
     "0.55 Alpha Update 8.4"
-  ]
+  ],
+  "retired": true,
+  "superseded_by": "v0.55-update8.9"
 }

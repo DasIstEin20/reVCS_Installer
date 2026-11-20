@@ -39,5 +39,7 @@
       "sha256": "632f01079ab191f3d43c851c1a81f8284a5e679f5eaafce9745c40bf34d10642",
       "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update8.1/version.xml"
     }
-  ]
+  ],
+  "retired": true,
+  "superseded_by": "v0.55-update8.9"
 }

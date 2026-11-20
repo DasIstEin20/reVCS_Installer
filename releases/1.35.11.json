@@ -128,5 +128,7 @@
   ],
   "game_release_unchanged": "v0.55-update8.7",
   "source_code_in_update": false,
-  "converter_baseline": "8.6"
+  "converter_baseline": "8.6",
+  "retired": true,
+  "superseded_by": "v1.35.13"
 }

@@ -1,0 +1,85 @@
+{
+  "schema": "revcs-paired-release/v1",
+  "tag": "v0.55-update8.9",
+  "release_id": 452159173,
+  "source_revision": "828d08db621bb2b9eb8b07c46a122ed1c5062d81",
+  "compiled_parent": "c1815382d3b4073a67fb716b1eadff3c2aae33da",
+  "feed": "manifests/version.xml",
+  "paired_release": "v1.35.13",
+  "assets": [
+    {
+      "name": "CHANGELOG_UPDATE_8_9_EN.txt",
+      "bytes": 704,
+      "sha256": "cc348fba2abfcdfdc70942cef66ac568a5d4073e0af51b78d42141ff5dea14ad",
+      "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update8.9/CHANGELOG_UPDATE_8_9_EN.txt"
+    },
+    {
+      "name": "README_UPDATE_8_9_EN.txt",
+      "bytes": 1215,
+      "sha256": "ef5e4c5343f82003b291fe7ee541fd3bf14cf1d7a288778966382cc506fdd0cd",
+      "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update8.9/README_UPDATE_8_9_EN.txt"
+    },
+    {
+      "name": "reVCS-8.9-Renderer-CopyPaste.zip",
+      "bytes": 25558288,
+      "sha256": "4b0df081c149cc6ca4eb433e0a5de905a3a4aa95cb4104e849b6500d42d5535e",
+      "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update8.9/reVCS-8.9-Renderer-CopyPaste.zip"
+    },
+    {
+      "name": "reVCS-Update-8.9-Full.zip",
+      "bytes": 59464532,
+      "sha256": "b2039810293d4bf69f43e384707c808ef140b927cc1ed406b5e9d2c1a050f3bf",
+      "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update8.9/reVCS-Update-8.9-Full.zip"
+    },
+    {
+      "name": "SHA256SUMS-8.9.txt",
+      "bytes": 380,
+      "sha256": "bcf016b59f4f672b32e80d41c186e56fa409d0c409bbdf66976099fa659d4878",
+      "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update8.9/SHA256SUMS-8.9.txt"
+    }
+  ],
+  "from_versions": [
+    "0.55 Alpha Update 8",
+    "0.55 Alpha Update 8.0",
+    "0.55 Alpha Update 8.1",
+    "0.55 Alpha Update 8.2",
+    "0.55 Alpha Update 8.3",
+    "0.55 Alpha Update 8.4",
+    "0.55 Alpha Update 8.5",
+    "0.55 Alpha Update 8.6",
+    "0.55 Alpha Update 8.7",
+    "0.55 Alpha Update 8.8"
+  ],
+  "minimum_manager": "1.35.13",
+  "backends": [
+    {
+      "architecture": "x64",
+      "backend": "d3d11",
+      "bytes": 8912896,
+      "sha256": "70db43c55330cd4a5f9c030fcec9e5cd91007b6c05eccd86308e59d973c10c3c",
+      "version": "0.55 Alpha Update 8.9"
+    },
+    {
+      "architecture": "x64",
+      "backend": "d3d9",
+      "bytes": 8916480,
+      "sha256": "733d2b386de034419398b23dc64905dd226afc0183618a7d42ba207d8e38b23f",
+      "version": "0.55 Alpha Update 8.9"
+    },
+    {
+      "architecture": "x86",
+      "backend": "d3d9",
+      "bytes": 7533056,
+      "sha256": "682353766ccd50a575b21030540151e8a28e298f9258804528b7b8cb81681a47",
+      "version": "0.55 Alpha Update 8.9"
+    },
+    {
+      "architecture": "x86",
+      "backend": "d3d11",
+      "bytes": 7527424,
+      "sha256": "ef9f91be51b1c534624d5a479679dbab1cc6ecf928f22b5975a150e90fac8971",
+      "version": "0.55 Alpha Update 8.9"
+    }
+  ],
+  "source_code_in_update": false
+}

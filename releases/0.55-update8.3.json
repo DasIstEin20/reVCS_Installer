@@ -46,5 +46,7 @@
     "runtime": "Completed targeted x64 development checks reused; release differs only in version metadata.",
     "installer": "Shipped Setup1.34.2 parser; EU/US/optional managed transactions.",
     "x86": "Compiled; no duplicated x86 runtime tests."
-  }
+  },
+  "retired": true,
+  "superseded_by": "v0.55-update8.9"
 }

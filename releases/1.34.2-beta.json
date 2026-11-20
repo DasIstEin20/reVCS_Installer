@@ -142,5 +142,7 @@
       "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.34.2-beta/version.xml"
     }
   ],
-  "verification": "Real x64 WPF UI and self-update; all BIN entries and bootstrap SHA256 checked. Reuses qualified unchanged conversion modules. No repeated ISO conversions, DPI matrix or x86 runtime tests."
+  "verification": "Real x64 WPF UI and self-update; all BIN entries and bootstrap SHA256 checked. Reuses qualified unchanged conversion modules. No repeated ISO conversions, DPI matrix or x86 runtime tests.",
+  "retired": true,
+  "superseded_by": "v1.35.13"
 }

@@ -121,5 +121,7 @@
     }
   ],
   "paired_release": "v0.55-update8.5",
-  "source_code_in_update": false
+  "source_code_in_update": false,
+  "retired": true,
+  "superseded_by": "v1.35.13"
 }

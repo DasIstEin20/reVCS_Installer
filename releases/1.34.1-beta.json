@@ -142,5 +142,7 @@
       "exe_sha256": "22c04051b3a745033f13c4f37be3ff7e38df0538e1e61c48ff5c338ecfbd1896"
     }
   ],
-  "refreshed_build": true
+  "refreshed_build": true,
+  "retired": true,
+  "superseded_by": "v1.35.13"
 }

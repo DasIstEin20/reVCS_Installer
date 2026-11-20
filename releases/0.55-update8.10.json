@@ -1,0 +1,90 @@
+{
+  "schema": "revcs-paired-release/v1",
+  "tag": "v0.55-update8.10",
+  "release_id": 453130347,
+  "source_revision": "8342b226032b3919b095a4f2b94d6683f64f75a6",
+  "compiled_parent": "338ba09",
+  "feed": "manifests/version.xml",
+  "paired_release": "v1.35.13-r2",
+  "assets": [
+    {
+      "name": "CHANGELOG_UPDATE_8_10_EN.txt",
+      "bytes": 1290,
+      "sha256": "adda5145c42a6e7b4224641336f0fe0cadd9bddf29ea4b0916d1f6cf8a738e6b",
+      "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update8.10/CHANGELOG_UPDATE_8_10_EN.txt"
+    },
+    {
+      "name": "README_UPDATE_8_10_EN.txt",
+      "bytes": 1465,
+      "sha256": "2c5c247e405e644ed74f313f0408e5c27f16a4dbdfc2aef822a618987b17ce0e",
+      "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update8.10/README_UPDATE_8_10_EN.txt"
+    },
+    {
+      "name": "reVCS-8.10-Renderer-CopyPaste.zip",
+      "bytes": 36244625,
+      "sha256": "4c875e0f878e5da8c1f15c3f59bdc5f9bcf71c1183ed68db5a5cf22c66fa13e1",
+      "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update8.10/reVCS-8.10-Renderer-CopyPaste.zip"
+    },
+    {
+      "name": "reVCS-Update-8.10-Full.zip",
+      "bytes": 68505478,
+      "sha256": "2b16babf2c1c509fd792593da076725941b08b5ad7426a1dff64b7d053d92219",
+      "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update8.10/reVCS-Update-8.10-Full.zip"
+    },
+    {
+      "name": "SHA256SUMS-8.10.txt",
+      "bytes": 384,
+      "sha256": "7fedf7ae93ab3bbc12844918b025190189dfeedeb5f48e04d23e6fa65792d3fd",
+      "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update8.10/SHA256SUMS-8.10.txt"
+    }
+  ],
+  "from_versions": [
+    "0.55 Alpha Update 8",
+    "0.55 Alpha Update 8.0",
+    "0.55 Alpha Update 8.1",
+    "0.55 Alpha Update 8.2",
+    "0.55 Alpha Update 8.3",
+    "0.55 Alpha Update 8.4",
+    "0.55 Alpha Update 8.5",
+    "0.55 Alpha Update 8.6",
+    "0.55 Alpha Update 8.7",
+    "0.55 Alpha Update 8.8",
+    "0.55 Alpha Update 8.9"
+  ],
+  "minimum_manager": "1.35.13",
+  "backends": [
+    {
+      "architecture": "x64",
+      "backend": "d3d11",
+      "version": "0.55 Alpha Update 8.10",
+      "bytes": 9050112,
+      "sha256": "10fb4bf859b09ce772d50f1344592415e18b76d347e06fc3f77c56ea89b62e27"
+    },
+    {
+      "architecture": "x64",
+      "backend": "d3d9",
+      "version": "0.55 Alpha Update 8.10",
+      "bytes": 9054208,
+      "sha256": "da959065cee232d6d43ce55c1cd9f66bdcf08c0167c9078032536c278d5bf8d6"
+    },
+    {
+      "architecture": "x86",
+      "backend": "d3d9",
+      "version": "0.55 Alpha Update 8.10",
+      "bytes": 7665152,
+      "sha256": "aa11670b03832078a8e3ef794fa9762a4c2e9c8f85a2dd9b0d63b58cdcf7b6f0"
+    },
+    {
+      "architecture": "x86",
+      "backend": "d3d11",
+      "version": "0.55 Alpha Update 8.10",
+      "bytes": 7660032,
+      "sha256": "7f221ac056a13b1f7d10192db80c7336849f8c3fb661bb611fd9fd879f290bee"
+    }
+  ],
+  "source_code_in_update": false,
+  "known_open": [
+    "Exchange truck contact",
+    "Faham newer business save"
+  ]
+}

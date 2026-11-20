@@ -1030,5 +1030,35 @@
     "de": "Manager und alle 13 passenden Komponenten. Eigenes PS2-ISO erforderlich.",
     "fr": "Manager et ses 13 composants correspondants. Votre propre ISO PS2 est nécessaire.",
     "es": "Manager y los 13 componentes correspondientes. Necesitas tu propia ISO de PS2."
+  },
+  "What changed in Update 8.10?": {
+    "pl": "Co nowego w Update 8.10?",
+    "de": "Was ist neu in Update 8.10?",
+    "fr": "Quoi de neuf dans l’Update 8.10 ?",
+    "es": "¿Qué cambió en el Update 8.10?"
+  },
+  "Direct original texture-pack import, exact-image deduplication, explicit variant selection, gang aggression/provocation editing and crash-report launch options. Fresh installation includes Update 8.10.": {
+    "pl": "Import oryginalnych paczek tekstur, łączenie identycznych obrazów, wybór wariantów, edycja agresji i prowokacji gangów oraz opcje raportowania awarii. Świeża instalacja zawiera Update 8.10.",
+    "de": "Direkter Import ursprünglicher Texturpakete, Erkennung identischer Bilder, Variantenwahl, Bearbeitung von Gang-Aggression und Provokation sowie Optionen für Absturzberichte. Neue Installationen enthalten Update 8.10.",
+    "fr": "Import direct des packs de textures originaux, détection des images identiques, choix des variantes, modification de l’agressivité et de la provocation des gangs et options de rapports de plantage. Une nouvelle installation inclut l’Update 8.10.",
+    "es": "Importación directa de paquetes de texturas originales, detección de imágenes idénticas, selección de variantes, edición de agresividad y provocación de bandas y opciones de informes de fallos. Una instalación nueva incluye el Update 8.10."
+  },
+  "Fixes the road-driver crash, audio settings, Ferris cabins, sniper sound, garage collisions and smoke/fire timing. Includes all four renderers. Truck contact in The Exchange remains under investigation. Update Manager first.": {
+    "pl": "Poprawki awarii kierowców, zapisu głośności, kabin diabelskiego młyna, dźwięku snajperki, kolizji garaży i czasu efektów dymu oraz ognia. Wszystkie cztery renderery. Kontakt ciężarówki z autem w The Exchange nadal badamy. Najpierw zaktualizuj Managera.",
+    "de": "Behebt den Fahrerabsturz, Audioeinstellungen, Riesenradkabinen, Scharfschützenton, Garagenkollisionen und das Timing von Rauch und Feuer. Alle vier Renderer enthalten. Der LKW-Kontakt in The Exchange wird weiter untersucht. Zuerst den Manager aktualisieren.",
+    "fr": "Corrige le plantage des conducteurs, les réglages audio, les cabines de la grande roue, le son du fusil de précision, les collisions des garages et le rythme de la fumée et du feu. Les quatre moteurs de rendu sont inclus. Le contact du camion dans The Exchange reste à l’étude. Mettez d’abord le Manager à jour.",
+    "es": "Corrige el fallo de los conductores, los ajustes de audio, las cabinas de la noria, el sonido del rifle de francotirador, las colisiones de garajes y los tiempos del humo y el fuego. Incluye los cuatro renderizadores. El contacto del camión en The Exchange sigue en investigación. Actualiza primero el Manager."
+  },
+  "What changed in Manager 1.35.13 (r2)?": {
+    "pl": "Co nowego w Managerze 1.35.13 (r2)?",
+    "de": "Was ist neu in Manager 1.35.13 (r2)?",
+    "fr": "Quoi de neuf dans le Manager 1.35.13 (r2) ?",
+    "es": "¿Qué cambió en el Manager 1.35.13 (r2)?"
+  },
+  "Corrected same-version update checks, large HUD texture imports and the restored woman portrait. Product version stays 1.35.13; fresh conversion includes Update 8.10.": {
+    "pl": "Poprawione wykrywanie aktualizacji tej samej wersji, import dużych tekstur HUD i przywrócony portret kobiety. Wersja pozostaje 1.35.13; nowa instalacja zawiera Update 8.10.",
+    "de": "Korrigierte Updates derselben Version, Import großer HUD-Texturen und das wiederhergestellte Frauenporträt. Die Produktversion bleibt 1.35.13; neue Installationen enthalten Update 8.10.",
+    "fr": "Corrige les mises à jour de même version, l’import des grandes textures du HUD et restaure le portrait féminin. La version reste 1.35.13 ; une nouvelle installation inclut l’Update 8.10.",
+    "es": "Corrige las actualizaciones de la misma versión, la importación de texturas grandes del HUD y restaura el retrato femenino. La versión sigue siendo 1.35.13; una instalación nueva incluye el Update 8.10."
   }
 }

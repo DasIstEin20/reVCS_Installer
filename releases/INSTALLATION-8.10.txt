@@ -1,0 +1,25 @@
+reVCS Update 8.10
+
+Install the corrected Manager 1.35.13 package (release tag v1.35.13-r2) first.
+The Manager's displayed version stays1.35.13. Its assembly/file versions and
+update offers are corrected; the matching tools component is required.
+Choose reVCS-Update-8.10-Full.zip in Choose local ZIP update.
+This cumulative package supports the first public Update8/8.0 through8.9.
+Settings, saves, texture selections and the installation's original MAIN.SCM
+remain under their existing preservation/transaction owners.
+
+The Full ZIP updates an existing converted game. Original resources are
+source-bound deltas or reconstructed locally from your own PS2 source when
+missing. It contains no source-code archive or complete stock game media.
+For a new installation use the corrected Manager's matching Full/bootstrap kit
+and your own supported PS2 ISO/extracted disc.
+
+Renderer-CopyPaste is a manual runtime/artwork overlay for an existing game.
+It does not apply the cumulative resource deltas. Use the Full ZIP through
+Manager for the original skid texture and earlier cumulative asset changes.
+Close both applications before manually copying executable files.
+
+The Exchange truck's remaining contact/pushing behavior is still open. This
+release repairs the evidenced road-index crash, not every AI driving defect.
+No user-controlled running game or historical ordinary demo was replaced as
+part of building or publishing these packages.

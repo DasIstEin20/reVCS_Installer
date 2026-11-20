@@ -1,0 +1,19 @@
+reVCS Manager1.35.13 - corrected r2 package
+
+Existing users: apply the Update ZIP through Choose local ZIP update, or replace
+the closed Manager EXE manually. The product version stays1.35.13. The CopyPaste
+ZIP also includes matching core/tools/runtime components for offline use.
+Preserve installer.cfg, game settings, saves and optional texture selections.
+
+New installation: extract bootstrap and run Manager with your own PS2 ISO or
+extracted disc. Online mode downloads the matching13 components. For a complete
+offline conversion use Full ZIP, or put all13 listed BINs beside Manager.
+These kits contain converters/recipes and permitted runtime dependencies; they
+reconstruct stock game resources locally instead of bundling a ready game.
+
+Update Manager from this corrected package before applying reVCS8.10 Full ZIP.
+Existing private corrected1.35.13 builds intentionally suppress equal-version
+online offers; use an explicitly chosen local package for this same-version repair.
+Different texture image variants need an explicit selection. Unsupported source
+identities and incompatible baselines remain visible instead of being guessed.
+Prior1.35.13 and game8.9 archives remain available at their original URLs.

@@ -1,0 +1,1 @@
+Added support for installing and updating Turkish game localization.

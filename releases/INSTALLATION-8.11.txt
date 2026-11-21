@@ -1,0 +1,15 @@
+reVCS Update 8.11
+
+Update Manager to1.35.14 before applying reVCS-Update-8.11-Full.zip.
+Use Choose local ZIP update, or the online game update offer.
+This cumulative update accepts public Update8/8.0 through8.10.
+Original text/fonts are reconstructed from verified installed bases. Keep your
+own supported PS2 source available for earlier cumulative source recipes.
+The updater preserves original MAIN.SCM, other languages, the primary-language
+choice, saves and optional textures. Turkish appears in Options > Language.
+
+All x86/x64 DX9/DX11 variants are included. Root executables default to DX11.
+The Full ZIP must be applied through Manager; it contains source-bound deltas
+and is not a manual file-copy overlay. Source code is distributed separately.
+Prior focused x64 gameplay/UI evidence is reused; release version metadata is
+the only native code difference. Full missions/physical-pad checks remain manual.

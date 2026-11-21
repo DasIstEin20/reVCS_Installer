@@ -1,0 +1,214 @@
+{
+  "schema": "revcs-paired-release/v1",
+  "tag": "v1.35.14",
+  "release_id": 453547595,
+  "source_revision": "b42c9364bcd984ed1e075796d408d235a72f2965",
+  "feed": "manifests/version.xml",
+  "paired_release": "v0.55-update8.11",
+  "source_code_in_update": false,
+  "assets": [
+    {
+      "name": "CHANGELOG_MANAGER_1_35_14_EN.txt",
+      "bytes": 68,
+      "sha256": "eab9eaca984abd2fab3c004c86979062faf0f176feb7ea7f43ec6ae7a6aa1386",
+      "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.14/CHANGELOG_MANAGER_1_35_14_EN.txt"
+    },
+    {
+      "name": "README_MANAGER_1_35_14_EN.txt",
+      "bytes": 886,
+      "sha256": "a078685dd676d657b386e9a1b14f47ff4d176e4742caa760f4e8dbd399cbeaf4",
+      "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.14/README_MANAGER_1_35_14_EN.txt"
+    },
+    {
+      "name": "reVCS-core-1.35.14.bin",
+      "bytes": 18878318,
+      "sha256": "6da7bfcb42c734f978656cc89e9383ebbea91d5d5b8f86b43d47f6cb760b6851",
+      "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.14/reVCS-core-1.35.14.bin"
+    },
+    {
+      "name": "reVCS-Manager-1.35.14-bootstrap.zip",
+      "bytes": 14151163,
+      "sha256": "ea284eeb0b784474d435c6e00473de1ca8252db1dd01f5d4bcac2c313fba1a00",
+      "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.14/reVCS-Manager-1.35.14-bootstrap.zip"
+    },
+    {
+      "name": "reVCS-Manager-1.35.14-CopyPaste.zip",
+      "bytes": 50157066,
+      "sha256": "9bcc4949fe5fef4f563a532bef41c88f8f85449a5e1c2b7874b7c4e58f90d51b",
+      "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.14/reVCS-Manager-1.35.14-CopyPaste.zip"
+    },
+    {
+      "name": "reVCS-Manager-1.35.14-Full.zip",
+      "bytes": 324724890,
+      "sha256": "5c44219629d9f1ad127bd574d0a30c80c3b91db72f371a7ffc12ff9f0e38acae",
+      "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.14/reVCS-Manager-1.35.14-Full.zip"
+    },
+    {
+      "name": "reVCS-Manager-1.35.14-Update.zip",
+      "bytes": 11692771,
+      "sha256": "910b08e11ddaa7ff5b08236a5f3973df19ae5b11093a53ff79571b760f3b500f",
+      "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.14/reVCS-Manager-1.35.14-Update.zip"
+    },
+    {
+      "name": "reVCS-Manager-1.35.14.exe",
+      "bytes": 12477952,
+      "sha256": "2ad18dd0d5b73f7eb85221552dd7182a310cd9d25774c918d08d81053bc7e287",
+      "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.14/reVCS-Manager-1.35.14.exe"
+    },
+    {
+      "name": "reVCS-tools-1.35.14.bin",
+      "bytes": 19585735,
+      "sha256": "8ea19c4f35085ba6cf2a16871466e0f67cf1176bef783286356683234fa80f7e",
+      "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.14/reVCS-tools-1.35.14.bin"
+    },
+    {
+      "name": "SHA256SUMS-1.35.14.txt",
+      "bytes": 954,
+      "sha256": "3971445fcc7debab199fe9a3878b986ea0379a0fbfb9045188c004eb7155fd78",
+      "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.14/SHA256SUMS-1.35.14.txt"
+    },
+    {
+      "name": "version.xml",
+      "bytes": 5624,
+      "sha256": "adeafc17780a5a921fde5b52f71d9b1a6871aa0cadbbaf41c32cfc99ecf1a416",
+      "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.14/version.xml"
+    }
+  ],
+  "version": "1.35.14",
+  "converter_baseline": "0.55 Alpha Update 8.10",
+  "game_update_in_full": "reVCS-Update-8.11-Full.zip",
+  "components": [
+    {
+      "id": "animations",
+      "version": "1.35.13",
+      "file": "reVCS-animations-1.35.13.bin",
+      "bytes": 1325206,
+      "sha256": "fba50ac52f2375a418abbdfc84e2b7f3287ce4c82a5d84c92aca2b008933824e",
+      "sources": [
+        "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.13-r2/reVCS-animations-1.35.13.bin"
+      ]
+    },
+    {
+      "id": "audio",
+      "version": "1.35.13",
+      "file": "reVCS-audio-1.35.13.bin",
+      "bytes": 10433801,
+      "sha256": "90e49b2e17ef3f03a5244b51c3eb88e07453952315a0761bbc1d7614714cef64",
+      "sources": [
+        "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.13-r2/reVCS-audio-1.35.13.bin"
+      ]
+    },
+    {
+      "id": "core",
+      "version": "1.35.14",
+      "file": "reVCS-core-1.35.14.bin",
+      "bytes": 18878318,
+      "sha256": "6da7bfcb42c734f978656cc89e9383ebbea91d5d5b8f86b43d47f6cb760b6851",
+      "sources": [
+        "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.14/reVCS-core-1.35.14.bin"
+      ]
+    },
+    {
+      "id": "interiors",
+      "version": "1.35.13",
+      "file": "reVCS-interiors-1.35.13.bin",
+      "bytes": 55004,
+      "sha256": "44d39531dffb2ee85da902d57b8404013bdedf1342f3a4e0ec398394950194aa",
+      "sources": [
+        "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.13-r2/reVCS-interiors-1.35.13.bin"
+      ]
+    },
+    {
+      "id": "maps",
+      "version": "1.35.13",
+      "file": "reVCS-maps-1.35.13.bin",
+      "bytes": 12576834,
+      "sha256": "413bb71ce5cb932ecb8735ceabd27b8edea959dfb98501542788864e5fccb6a2",
+      "sources": [
+        "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.13-r2/reVCS-maps-1.35.13.bin"
+      ]
+    },
+    {
+      "id": "misc",
+      "version": "1.35.13",
+      "file": "reVCS-misc-1.35.13.bin",
+      "bytes": 13884413,
+      "sha256": "45a8d3d8f6b46c6af0d94ed03cad86ff3d8551cef005014fc35412716d7388fe",
+      "sources": [
+        "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.13-r2/reVCS-misc-1.35.13.bin"
+      ]
+    },
+    {
+      "id": "models",
+      "version": "1.35.13",
+      "file": "reVCS-models-1.35.13.bin",
+      "bytes": 2041308,
+      "sha256": "e5b6ff8fc527af1fdcab89f29e16563e7d777d632d446deed5477374e231b45d",
+      "sources": [
+        "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.13-r2/reVCS-models-1.35.13.bin"
+      ]
+    },
+    {
+      "id": "pickups",
+      "version": "1.35.13",
+      "file": "reVCS-pickups-1.35.13.bin",
+      "bytes": 5488,
+      "sha256": "2e6e2946058db4ff76aab89eba304b69c835d2d322e327e2f1473df65c232190",
+      "sources": [
+        "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.13-r2/reVCS-pickups-1.35.13.bin"
+      ]
+    },
+    {
+      "id": "project",
+      "version": "1.35.13",
+      "file": "reVCS-project-1.35.13.bin",
+      "bytes": 93457158,
+      "sha256": "e798f554cd6974f3ef26b2e86b91e42eabd10697b9d8e9b5f58c7862e59216d3",
+      "sources": [
+        "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.13-r2/reVCS-project-1.35.13.bin"
+      ]
+    },
+    {
+      "id": "runtime",
+      "version": "1.35.13",
+      "file": "reVCS-runtime-1.35.13.bin",
+      "bytes": 53394246,
+      "sha256": "d8668b2e71630aef7c3a26f6e59cf14c727e6e186b1d21dab3e771d4e1315096",
+      "sources": [
+        "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.13-r2/reVCS-runtime-1.35.13.bin"
+      ]
+    },
+    {
+      "id": "textures",
+      "version": "1.35.13",
+      "file": "reVCS-textures-1.35.13.bin",
+      "bytes": 10147362,
+      "sha256": "45f1b1eb5f76479139e69757acff75a1f5885999032fc29077e00744927a3596",
+      "sources": [
+        "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.13-r2/reVCS-textures-1.35.13.bin"
+      ]
+    },
+    {
+      "id": "tools",
+      "version": "1.35.14",
+      "file": "reVCS-tools-1.35.14.bin",
+      "bytes": 19585735,
+      "sha256": "8ea19c4f35085ba6cf2a16871466e0f67cf1176bef783286356683234fa80f7e",
+      "sources": [
+        "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.14/reVCS-tools-1.35.14.bin"
+      ]
+    },
+    {
+      "id": "vehicles",
+      "version": "1.35.13",
+      "file": "reVCS-vehicles-1.35.13.bin",
+      "bytes": 5127,
+      "sha256": "28762f393bd1b8bcb289ed90bb19e91d50b8410b7c25ca76cdb541184f16597f",
+      "sources": [
+        "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.13-r2/reVCS-vehicles-1.35.13.bin"
+      ]
+    }
+  ],
+  "complete_offline_archive": "reVCS-Manager-1.35.14-Full.zip",
+  "previous_release_preserved": "v1.35.13-r2"
+}

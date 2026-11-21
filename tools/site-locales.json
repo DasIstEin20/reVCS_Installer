@@ -1060,5 +1060,17 @@
     "de": "Korrigierte Updates derselben Version, Import großer HUD-Texturen und das wiederhergestellte Frauenporträt. Die Produktversion bleibt 1.35.13; neue Installationen enthalten Update 8.10.",
     "fr": "Corrige les mises à jour de même version, l’import des grandes textures du HUD et restaure le portrait féminin. La version reste 1.35.13 ; une nouvelle installation inclut l’Update 8.10.",
     "es": "Corrige las actualizaciones de la misma versión, la importación de texturas grandes del HUD y restaura el retrato femenino. La versión sigue siendo 1.35.13; una instalación nueva incluye el Update 8.10."
+  },
+  "Direct original texture-pack import, exact-image deduplication, explicit variant selection, gang aggression/provocation editing and crash-report launch options. Fresh installation includes Update 8.11.": {
+    "pl": "Import oryginalnych paczek tekstur, łączenie identycznych obrazów, wybór wariantów, edycja agresji i prowokacji gangów oraz opcje raportowania awarii. Świeża instalacja zawiera Update 8.11.",
+    "de": "Direkter Import ursprünglicher Texturpakete, Erkennung identischer Bilder, Variantenwahl, Bearbeitung von Gang-Aggression und Provokation sowie Optionen für Absturzberichte. Neue Installationen enthalten Update 8.11.",
+    "fr": "Import direct des packs de textures originaux, détection des images identiques, choix des variantes, modification de l’agressivité et de la provocation des gangs et options de rapports de plantage. Une nouvelle installation inclut l’Update 8.11.",
+    "es": "Importación directa de paquetes de texturas originales, detección de imágenes idénticas, selección de variantes, edición de agresividad y provocación de bandas y opciones de informes de fallos. Una instalación nueva incluye el Update 8.11."
+  },
+  "After a fresh installation, apply the included Update 8.11 ZIP through Manager.": {
+    "pl": "Po nowej instalacji zastosuj dołączony ZIP Update 8.11 przez Managera.",
+    "de": "Nach einer Neuinstallation das enthaltene Update-8.11-ZIP über den Manager anwenden.",
+    "fr": "Après une nouvelle installation, appliquez le ZIP Update 8.11 fourni via Manager.",
+    "es": "Tras una instalación nueva, aplica el ZIP Update 8.11 incluido desde Manager."
   }
 }

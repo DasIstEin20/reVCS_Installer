@@ -1,0 +1,15 @@
+reVCS Manager1.35.14
+
+Update Manager first, then apply reVCS-Update-8.11-Full.zip through Choose local
+ZIP update or the online offer. Keep installer.cfg and your user files.
+
+Fresh installation: run Manager from bootstrap or Full with your own supported
+PS2 ISO/extracted disc. The unchanged audited converter reconstructs Update8.10.
+After conversion, select the included8.11 Full update ZIP to reach Update8.11.
+The complete offline Full ZIP includes all13 matching BIN components and the
+game update. Its original game resources are source-dependent recipes/patches,
+reconstructed locally; no ready stock game media is bundled.
+
+Update ZIP replaces Manager only. CopyPaste includes the two revised core/tools
+components for offline updating. Bootstrap downloads matching components online.
+The existing installed local Manager is not replaced as part of publication.

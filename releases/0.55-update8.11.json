@@ -1,0 +1,81 @@
+{
+  "schema": "revcs-paired-release/v1",
+  "tag": "v0.55-update8.11",
+  "release_id": 453547600,
+  "source_revision": "b42c9364bcd984ed1e075796d408d235a72f2965",
+  "feed": "manifests/version.xml",
+  "paired_release": "v1.35.14",
+  "source_code_in_update": false,
+  "assets": [
+    {
+      "name": "CHANGELOG_UPDATE_8_11_EN.txt",
+      "bytes": 1181,
+      "sha256": "9ba80bb952b64e4b7e317ff19fdbc041f215db8981e984d1f5850fa19dc5f183",
+      "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update8.11/CHANGELOG_UPDATE_8_11_EN.txt"
+    },
+    {
+      "name": "README_UPDATE_8_11_EN.txt",
+      "bytes": 931,
+      "sha256": "6b05ed7905e3c008dc5ba9d35371eb449378e6053f08781e45af84b1a7ae3361",
+      "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update8.11/README_UPDATE_8_11_EN.txt"
+    },
+    {
+      "name": "reVCS-Update-8.11-Full.zip",
+      "bytes": 74781975,
+      "sha256": "bf1a0b8aeb0a7b7a964743a0894b93131de6c4c6c02e154cb1888080efc96112",
+      "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update8.11/reVCS-Update-8.11-Full.zip"
+    },
+    {
+      "name": "SHA256SUMS-8.11.txt",
+      "bytes": 283,
+      "sha256": "3a45f979044f0dda825b8eb0b37ce7fc88309248e976f65911a3eb801b349334",
+      "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update8.11/SHA256SUMS-8.11.txt"
+    }
+  ],
+  "from_versions": [
+    "0.55 Alpha Update 8",
+    "0.55 Alpha Update 8.0",
+    "0.55 Alpha Update 8.1",
+    "0.55 Alpha Update 8.2",
+    "0.55 Alpha Update 8.3",
+    "0.55 Alpha Update 8.4",
+    "0.55 Alpha Update 8.5",
+    "0.55 Alpha Update 8.6",
+    "0.55 Alpha Update 8.7",
+    "0.55 Alpha Update 8.8",
+    "0.55 Alpha Update 8.9",
+    "0.55 Alpha Update 8.10"
+  ],
+  "minimum_manager": "1.35.14",
+  "backends": [
+    {
+      "architecture": "x64",
+      "backend": "d3d11",
+      "path": "F:\\reVCS\\temp\\revcs-codex\\Release811-20261121\\build\\x64-d3d11\\reVCS64.exe",
+      "sha256": "73b107c1ea446ffa4d12f446741f3ab1e37b12ab5e92b9ccf2ad0cad405b9a40",
+      "build_git_head": "c50d1090be5a04a57a3bb9f4c4c03cfd456d3528"
+    },
+    {
+      "architecture": "x64",
+      "backend": "d3d9",
+      "path": "F:\\reVCS\\temp\\revcs-codex\\Release811-20261121\\build\\x64-d3d9\\reVCS64.exe",
+      "sha256": "f76c50cbe5643b0310fa899114d55ce5df72b59ab67e9af310d5a5f3a593ea4b",
+      "build_git_head": "c50d1090be5a04a57a3bb9f4c4c03cfd456d3528"
+    },
+    {
+      "architecture": "x86",
+      "backend": "d3d9",
+      "path": "F:\\reVCS\\temp\\revcs-codex\\Release811-20261121\\build\\x86-d3d9\\reVCS.exe",
+      "sha256": "5addfd472ab1f9749bface5e479d742b8750098b5337aa7ee304d7de5241e165",
+      "build_git_head": "c50d1090be5a04a57a3bb9f4c4c03cfd456d3528"
+    },
+    {
+      "architecture": "x86",
+      "backend": "d3d11",
+      "path": "F:\\reVCS\\temp\\revcs-codex\\Release811-20261121\\build\\x86-d3d11\\reVCS.exe",
+      "sha256": "d41db34bc69e1e9c8e4e0dd8f27bfc2ecf83d6ad005218df35b39bd4d6d36c19",
+      "build_git_head": "c50d1090be5a04a57a3bb9f4c4c03cfd456d3528"
+    }
+  ],
+  "native_validation": "Reuse qualified gunner/glyph x64 checks; version metadata only. Actual cumulative EU/US language/font staging and old-worker rejection pass."
+}

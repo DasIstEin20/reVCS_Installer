@@ -1,10 +1,14 @@
 {
-  "version": "1.35.14",
-  "package_tag": "v1.35.14",
-  "bootstrap_bytes": 14151163,
+  "version": "1.35.15",
+  "package_tag": "v1.35.15",
+  "bootstrap_bytes": 14175962,
   "components": 13,
-  "game_version": "0.55 Alpha Update 8.11",
-  "game_update_tag": "v0.55-update8.11",
+  "game_version": "0.55 Alpha Update 9",
+  "game_update_tag": "v0.55-update9",
   "converter_base_game_version": "0.55 Alpha Update 8.10",
-  "full_offline_file": "reVCS-Manager-1.35.14-Full.zip"
+  "offline_update_file": "reVCS-Manager-1.35.15-CopyPaste.zip",
+  "required_game_update_chain": [
+    "Update8.11",
+    "Update9"
+  ]
 }

@@ -1,0 +1,7 @@
+reVCS Manager 1.35.15
+
+For an existing installation, close both applications and extract the CopyPaste ZIP into the game folder. It contains Manager plus its matching tools component. Keep installer.cfg and saves.
+The smaller Update ZIP replaces Manager only and downloads the tools component when needed. Internet access and published component URLs are required for that variant.
+Then use Choose local ZIP update to apply Update 9, starting from Update 8.11.
+For a fresh conversion use your own supported PS2 source and the existing converter packages. Apply Update 8.11, then Update 9; the feed retains this update chain.
+No ready-game Full installer kit is included in this delivery.

@@ -1072,5 +1072,53 @@
     "de": "Nach einer Neuinstallation das enthaltene Update-8.11-ZIP über den Manager anwenden.",
     "fr": "Après une nouvelle installation, appliquez le ZIP Update 8.11 fourni via Manager.",
     "es": "Tras una instalación nueva, aplica el ZIP Update 8.11 incluido desde Manager."
+  },
+  "All files and offline updates": {
+    "pl": "Wszystkie pliki i aktualizacje offline",
+    "de": "Alle Dateien und Offline-Updates",
+    "fr": "Tous les fichiers et mises à jour hors ligne",
+    "es": "Todos los archivos y actualizaciones sin conexión"
+  },
+  "Manager packages and the matching tools component.": {
+    "pl": "Pakiety Managera i zgodny komponent narzędzi.",
+    "de": "Manager-Pakete und die passende Werkzeugkomponente.",
+    "fr": "Paquets du Manager et composant outils correspondant.",
+    "es": "Paquetes de Manager y el componente de herramientas correspondiente."
+  },
+  "Manager offline update ZIP": {
+    "pl": "Aktualizacja Managera offline ZIP",
+    "de": "Manager-Offline-Update ZIP",
+    "fr": "Mise à jour hors ligne du Manager ZIP",
+    "es": "Actualización sin conexión de Manager ZIP"
+  },
+  "For existing installations: Manager and matching tools.": {
+    "pl": "Dla istniejących instalacji: Manager i zgodne narzędzia.",
+    "de": "Für vorhandene Installationen: Manager und passende Werkzeuge.",
+    "fr": "Pour les installations existantes : Manager et outils correspondants.",
+    "es": "Para instalaciones existentes: Manager y herramientas correspondientes."
+  },
+  "Game Update 9 ZIP": {
+    "pl": "Aktualizacja gry Update 9 ZIP",
+    "de": "Spiel-Update 9 ZIP",
+    "fr": "Mise à jour du jeu Update 9 ZIP",
+    "es": "Actualización del juego Update 9 ZIP"
+  },
+  "Requires Update 8.11 and Manager 1.35.15.": {
+    "pl": "Wymaga Update 8.11 i Managera 1.35.15.",
+    "de": "Erfordert Update 8.11 und Manager 1.35.15.",
+    "fr": "Nécessite Update 8.11 et Manager 1.35.15.",
+    "es": "Requiere Update 8.11 y Manager 1.35.15."
+  },
+  "Update Manager first. After a fresh conversion, use Check Game Updates to apply Update 8.11, then Update 9.": {
+    "pl": "Najpierw zaktualizuj Managera. Po nowej konwersji użyj Check Game Updates, aby zastosować Update 8.11, a następnie Update 9.",
+    "de": "Aktualisiere zuerst den Manager. Wende nach einer neuen Konvertierung über Check Game Updates zuerst Update 8.11 und dann Update 9 an.",
+    "fr": "Mettez le Manager à jour en premier. Après une nouvelle conversion, utilisez Check Game Updates pour appliquer Update 8.11, puis Update 9.",
+    "es": "Actualiza primero Manager. Después de una nueva conversión, usa Check Game Updates para aplicar Update 8.11 y después Update 9."
+  },
+  "After conversion, use Manager to apply Update 8.11, then Update 9. Launch native x64 Direct3D 11 or choose a compatibility renderer, then set your resolution and optional texture packs.": {
+    "pl": "Po konwersji zastosuj przez Managera Update 8.11, a następnie Update 9. Uruchom natywne x64 Direct3D 11 lub wybierz renderer zgodności, a potem ustaw rozdzielczość i opcjonalne paczki tekstur.",
+    "de": "Wende nach der Konvertierung im Manager zuerst Update 8.11 und dann Update 9 an. Starte natives x64 Direct3D 11 oder einen Kompatibilitätsrenderer und stelle Auflösung und optionale Texturpakete ein.",
+    "fr": "Après la conversion, appliquez Update 8.11 puis Update 9 via le Manager. Lancez Direct3D 11 natif x64 ou un moteur compatible, puis réglez la résolution et les packs de textures facultatifs.",
+    "es": "Tras la conversión, aplica Update 8.11 y después Update 9 mediante Manager. Inicia Direct3D 11 nativo x64 o un renderizador compatible y configura la resolución y los paquetes de texturas opcionales."
   }
 }

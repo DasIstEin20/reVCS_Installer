@@ -1,0 +1,11 @@
+reVCS Update 9 — installation
+
+1. Close the game and Manager. Extract reVCS-Manager-1.35.15-CopyPaste.zip into the existing installation, preserving installer.cfg and user files.
+2. Start the updated Manager and choose reVCS-Update-9-Full.zip using Choose local ZIP update.
+
+Requires a qualified 0.55 Alpha Update 8.11 installation. Install Update 8.11 first if needed. Keep your own supported PS2 source available for the existing converter.
+The game ZIP contains genuine source-bound resource deltas and must be applied by Manager. Do not extract it as a manual game overlay.
+Both x86/x64 and DX9/DX11 executables are included; root EXEs use DX11.
+Saves, user settings, selected texture packs and primary language are preserved. Persian is available in the language menu.
+Music selection supports existing and user-supplied tracks. Four private commercial menu samples are not distributed.
+This update contains our runtime, approved project additions and verified deltas, not a complete game. Source is delivered separately.

@@ -67,7 +67,7 @@
       </div>
       <a class="scroll-cue" href="#project"><span aria-hidden="true">↓</span> DIE GESCHICHTE GEHT WEITER</a>
     </section>
-    <div class="edition-strip"><div class="wrap"><span>DAS AKTUELLE KAPITEL</span><strong>ALPHA 0.55 <i>/</i> UPDATE 8.11</strong><span>VERSION MIT BULLET PHYSICS</span></div></div>
+    <div class="edition-strip"><div class="wrap"><span>DAS AKTUELLE KAPITEL</span><strong>ALPHA 0.55 <i>/</i> UPDATE 9</strong><span>VERSION MIT BULLET PHYSICS</span></div></div>
     <section class="section wrap project" id="project" aria-labelledby="project-title">
       <div class="section-heading reveal"><p class="eyebrow">01 / DAS PROJEKT</p><h2 id="project-title">Vice City Stories,<br><span>für den PC rekonstruiert.</span></h2></div>
       <div class="project-copy reveal"><p class="lead">Vertraute Straßen. Ein natives Windows-Projekt.</p><p>reVCS bringt Grand Theft Auto: Vice City Stories mithilfe von reVC und <a href="https://github.com/aap/librw">librw</a> auf Windows. Das Projekt rekonstruiert VCS-spezifische Spielsysteme und führt die ursprünglichen PS2-Skripte in einer eigenen SCM-VM aus.</p><p>Die aktuelle Version nutzt <a href="https://github.com/bulletphysics/bullet3">Bullet Physics</a> und enthält native x86- und x64-Programme. Das Projekt befindet sich noch in einer frühen Alpha: Gameplay, Grafik, Physik, Kompatibilität und Leistung entwickeln sich mit jedem Update weiter.</p><a class="text-link" href="https://github.com/DasIstEin20/reVCS_Installer" target="_blank" rel="noopener">Manager-Versionen &amp; Projektneuigkeiten <span aria-hidden="true">↗</span></a></div>
@@ -152,23 +152,89 @@
       <p class="video-help">Alle Videos werden auf YouTube bereitgestellt. Falls die Wiedergabe hier nicht verfügbar ist, wähle „Auf YouTube ansehen“.</p>
     </section>
     <section class="setup-section" aria-labelledby="setup-title"><div class="wrap setup-layout">
-      <div class="setup-copy reveal"><p class="eyebrow">WENIGER EINRICHTEN. MEHR VICE CITY.</p><h2 id="setup-title">Dein Weg<br><em>zurück.</em></h2><p>Ein Ort zum Installieren, Aktualisieren, Sichern deiner Spielstände und Starten des Spiels.</p><ul class="check-list"><li>Quick-Modus für das Wesentliche</li><li>Extended-Modus für mehr Kontrolle</li><li>Lokale Pakete und Offline-Installation</li><li>Optionaler Import von PCSX2-Texturpaketen</li></ul><a class="text-link" href="#download">Manager 1.35.14 Beta holen <span aria-hidden="true">↗</span></a></div>
+      <div class="setup-copy reveal"><p class="eyebrow">WENIGER EINRICHTEN. MEHR VICE CITY.</p><h2 id="setup-title">Dein Weg<br><em>zurück.</em></h2><p>Ein Ort zum Installieren, Aktualisieren, Sichern deiner Spielstände und Starten des Spiels.</p><ul class="check-list"><li>Quick-Modus für das Wesentliche</li><li>Extended-Modus für mehr Kontrolle</li><li>Lokale Pakete und Offline-Installation</li><li>Optionaler Import von PCSX2-Texturpaketen</li></ul><a class="text-link" href="#download">Manager 1.35.15 Beta holen <span aria-hidden="true">↗</span></a></div>
       <figure class="setup-preview reveal"><div class="preview-caption"><span class="status-dot" aria-hidden="true"></span> DIE TATSÄCHLICHE WINDOWS-APP <span>1.35.1</span></div><img src="../assets/setup-preview.png" alt="reVCS Manager mit Quick- und Extended-Modus, Installationssteuerung und Versionsinformationen." width="1346" height="886" loading="lazy"><figcaption>Die native Windows-Oberfläche des Managers.</figcaption></figure>
     </div></section>
     <section class="section wrap" id="how" aria-labelledby="how-title">
       <div class="section-heading reveal"><p class="eyebrow">03 / VON DER DISC AUF DEN DESKTOP</p><h2 id="how-title">Drei Schritte.<br><span>Dann bist du zu Hause.</span></h2></div>
-      <ol class="steps"><li class="reveal"><span class="step-number">01<span aria-hidden="true">↗</span></span><h3>Halte deine PS2-Kopie bereit.</h3><p>Halte deine eigene Vice City Stories-PS2-ISO oder den entpackten Disc-Ordner bereit. Behalte die Ordnerstruktur bei.</p></li><li class="reveal"><span class="step-number">02<span aria-hidden="true">↗</span></span><h3>Überlass Manager die Arbeit.</h3><p>Entpacke die Bootstrap-ZIP, starte Manager und wähle die Quelle sowie einen leeren Zielordner. Fehlende Konverter-Komponenten werden von GitHub geladen.</p></li><li class="reveal"><span class="step-number">03<span aria-hidden="true">↗</span></span><h3>Mach die Stadt zu deiner.</h3><p>Die Konvertierung installiert Update 8.11 direkt. Nutze natives x64 mit Direct3D 11 oder die x86-Kompatibilitätsversion mit Direct3D 9. Auflösung im Spiel einstellen; PCSX2-Pakete im Extended-Modus verwalten.</p></li></ol>
+      <ol class="steps"><li class="reveal"><span class="step-number">01<span aria-hidden="true">↗</span></span><h3>Halte deine PS2-Kopie bereit.</h3><p>Halte deine eigene Vice City Stories-PS2-ISO oder den entpackten Disc-Ordner bereit. Behalte die Ordnerstruktur bei.</p></li><li class="reveal"><span class="step-number">02<span aria-hidden="true">↗</span></span><h3>Überlass Manager die Arbeit.</h3><p>Entpacke die Bootstrap-ZIP, starte Manager und wähle die Quelle sowie einen leeren Zielordner. Fehlende Konverter-Komponenten werden von GitHub geladen.</p></li><li class="reveal"><span class="step-number">03<span aria-hidden="true">↗</span></span><h3>Mach die Stadt zu deiner.</h3><p>Wende nach der Konvertierung im Manager zuerst Update 8.11 und dann Update 9 an. Starte natives x64 Direct3D 11 oder einen Kompatibilitätsrenderer und stelle Auflösung und optionale Texturpakete ein.</p></li></ol>
       <p class="source-note reveal"><span aria-hidden="true">ⓘ</span> Quelldateien werden lokal gelesen und bleiben unverändert. Die Konvertierung prüft einzelne Ressourcen; eine abweichende Sprachdatei führt nicht automatisch zur Ablehnung der gesamten Disc.</p>
     </section>
     <section class="download-section" id="download" aria-labelledby="download-title"><div class="wrap download-layout">
-      <div class="reveal"><p class="eyebrow">04 / DEIN TICKET ZURÜCK</p><h2 id="download-title">Die Stadt<br><em>wartet.</em></h2><p>Lade zuerst das kleine Bootstrap-Paket.<br>Manager lädt die Konverter-Komponenten bei Bedarf.</p><p class="download-version">MANAGER 1.35.14 <span>·</span> ALPHA 0.55 UPDATE 8.11</p>
+      <div class="reveal"><p class="eyebrow">04 / DEIN TICKET ZURÜCK</p><h2 id="download-title">Die Stadt<br><em>wartet.</em></h2><p>Lade zuerst das kleine Bootstrap-Paket.<br>Manager lädt die Konverter-Komponenten bei Bedarf.</p><p class="download-version">MANAGER 1.35.15 <span>·</span> ALPHA 0.55 UPDATE 9</p>
         <aside class="free-notice" aria-label="Kostenlose Verteilung"><strong>reVCS ist vollständig kostenlos.</strong><p>reVCS ist ein kostenloses, inoffizielles Fanprojekt. Wenn jemand Geld für das Spiel oder seinen Installer verlangt hat, war das keine offizielle reVCS-Distribution.</p><p>Du musst deine eigenen PS2-Spieldateien bereitstellen.</p></aside></div>
       <div class="download-card reveal"><div class="download-card-top"><span class="download-icon" aria-hidden="true">↓</span><div><h3>reVCS Manager</h3><p>Windows 10 / 11 · 64-Bit-Installer</p></div><span class="badge">BETA</span></div>
-        <a class="button primary download-button" id="bootstrap-link" href="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.14/reVCS-Manager-1.35.14-bootstrap.zip">Bootstrap-ZIP herunterladen <span aria-hidden="true">↗</span></a>
+        <a class="button primary download-button" id="bootstrap-link" href="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.15/reVCS-Manager-1.35.15-bootstrap.zip">Bootstrap-ZIP herunterladen <span aria-hidden="true">↗</span></a>
         <p id="download-size" class="download-meta">Enthält Manager, seine Konfiguration und Download-Werkzeuge.</p>
-        <a class="download-row" href="https://github.com/DasIstEin20/reVCS_Installer/releases/tag/v1.35.14"><span>Alle Dateien &amp; Offline-Pakete<small>Lade die 13 BIN-Komponenten für ein vollständiges lokales Paket.</small></span><span aria-hidden="true">↗</span></a>
-        <a class="download-row" href="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.14/SHA256SUMS-1.35.14.txt"><span>Prüfsummen<small>SHA256-Werte der veröffentlichten Dateien.</small></span><span aria-hidden="true">↗</span></a>
-        <a class="download-row" href="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.14/reVCS-Manager-1.35.14-Full.zip"><span>Vollständiger Offline-Installer als ZIP<small>Manager und alle 13 passenden Komponenten. Eigenes PS2-ISO erforderlich.</small></span><span aria-hidden="true">↗</span></a><p class="download-help">Nach einer Neuinstallation das enthaltene Update-8.11-ZIP über den Manager anwenden.</p><details class="release-notes" lang="en"><summary>What changed in Update 8.11?</summary><pre>New in this resumed slice:
+        <a class="download-row" href="https://github.com/DasIstEin20/reVCS_Installer/releases/tag/v1.35.15"><span>Alle Dateien und Offline-Updates<small>Manager-Pakete und die passende Werkzeugkomponente.</small></span><span aria-hidden="true">↗</span></a>
+        <a class="download-row" href="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.15/SHA256SUMS-1.35.15.txt"><span>Prüfsummen<small>SHA256-Werte der veröffentlichten Dateien.</small></span><span aria-hidden="true">↗</span></a>
+        <a class="download-row" href="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.15/reVCS-Manager-1.35.15-CopyPaste.zip"><span>Manager-Offline-Update ZIP<small>Für vorhandene Installationen: Manager und passende Werkzeuge.</small></span><span aria-hidden="true">↗</span></a><a class="download-row" href="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update9/reVCS-Update-9-Full.zip"><span>Spiel-Update 9 ZIP<small>Erfordert Update 8.11 und Manager 1.35.15.</small></span><span aria-hidden="true">↗</span></a><p class="download-help">Aktualisiere zuerst den Manager. Wende nach einer neuen Konvertierung über Check Game Updates zuerst Update 8.11 und dann Update 9 an.</p><details class="release-notes" lang="en"><summary>What changed in Update 9?</summary><pre>reVCS 0.55 Alpha Update 9
+Changes since public Update 8.11
+
+Gameplay and vehicle behaviour
+- Improved NPC driving, traffic avoidance and recovery from blocked routes.
+- Improved vehicle steering, stopping behaviour and navigation, including boats.
+- Restored additional original VCS vehicle behaviour and wet-surface handling.
+- Corrected vehicle repair and protection cheats.
+- Improved unarmed combat, attack animations, footwork and hit reactions.
+- Improved weapon aiming, target selection and crosshair behaviour.
+
+HUD, map and interface
+- Reworked the HUD and added adjustable HUD scaling in reVCS Extras.
+- Improved health, armour, oxygen, wanted stars and ammunition displays.
+- Improved radar markers, GPS waypoints and pause-map navigation.
+- Added an optional map highlight for businesses under attack.
+- Restored the Domestobot camera and radar behaviour.
+- Improved menu navigation, statistics, fonts and interface artwork.
+
+Saves and controls
+- Added quicksave and quickload with customisable F5/F9 shortcuts.
+- Improved Continue and Load Game behaviour, including quicksave support.
+- Added the option to load the last quicksave after death or arrest.
+- Corrected time advancement when saving at safehouses.
+
+Audio and localisation
+- Added custom music selection for the main menu, loading screens and pause menu, including User Tracks.
+- Added Persian localisation and improved text rendering.
+- Added Vice City Stories trivia to loading screens.
+
+Graphics and effects
+- Improved HD texture-pack support and texture handling.
+- Restored additional blood, dirt, sand and water effects.
+- Improved headlights, shadows and motion blur.
+- Improved startup and initial cutscene loading.
+
+Settings and diagnostics
+- Consolidated game settings and input bindings into revcs.set.
+- Improved crash reporting and added compressed debug logs with system information.
+- Added automatic report rotation and privacy improvements. Reports are not uploaded automatically.
+- Added verification method.
+
+Release information
+- Updated Direct3D 9 and Direct3D 11 builds for x86 and x64. Direct3D 11 remains the default.
+- Requires Update 8.11 and reVCS Manager 1.35.15.
+- Game settings will be reset to defaults. Existing saves and progress are unaffected.
+- Original game resources are not included in this update.
+- Some vehicle physics, shadow and texture replacement issues remain. Experimental vehicle physics options remain opt-in.
+
+Persian localisation credits: Caspian Game, ChaKmePosHe and Mr.Security. PS2 and desktop adaptation by the reVCS project.
+</pre></details><details class="release-notes" lang="en"><summary>What changed in Manager 1.35.15?</summary><pre>reVCS Manager 1.35.15
+Changes since public Manager 1.35.14
+
+- Added Persian localisation support.
+- Updated the settings editor to support the new revcs.set format.
+- Improved EU/US save compatibility detection and related messages.
+- Added music selection for the main menu, loading screens and pause menu.
+- Improved texture-pack compatibility, preparation and resource handling.
+- Expanded Vice City and PCSX2 texture replacement support.
+- Improved installation and update handling while preserving selected languages and texture packs.
+- Improved progress reporting and installation workflow.
+- Added crash and debug report management and cleanup.
+- Updated crash reporting and debug logging options.
+- Updated the accompanying tools to version 1.35.15.
+- Added support for the Update 9 installation path, retaining the existing Update 8.10 to 8.11 upgrade path.
+- Added verification method.
+</pre></details><details class="release-notes" lang="en"><summary>What changed in Update 8.11?</summary><pre>New in this resumed slice:
 - Preserve Farewell to Arms attached gunner camera/state through control resets
   and target-button input; use the existing large centered first-person sight.
 - Add the supplied PC/XInput control glyphs for configured bindings, live help
@@ -197,7 +263,7 @@
       <details><summary>Kann ich ohne Internet installieren?</summary><p>Ja. Lade alle 13 BIN-Komponenten, die Bootstrap-ZIP und version.xml aus derselben Version. Entpacke die ZIP und lege die BIN-Dateien neben Manager ab. Aktiviere den Offline-Modus und wähle deine lokale PS2-Quelle.</p></details>
       <details><summary>Wie funktionieren Spiel- und Manager-Updates?</summary><p>Manager prüft beim Start auf Updates und bietet eigene Updates zuerst an. Download und Installation erfordern eine Bestätigung. Manuelle Prüfungen sind über Welcome → Check Game Updates oder Check Manager Updates möglich. Unter Extended → Advanced lassen sich Startprüfungen deaktivieren; Offline-Pakete bleiben verfügbar.</p></details>
       <details><summary>Sind Texturpakete enthalten?</summary><p>Nein. Optionale PCSX2-Ersatztexturen stellt der Nutzer selbst bereit. Wähle dein kompatibles ZIP- oder 7z-Paket im Extended-Modus.</p></details>
-      <details><summary>Ist das Spiel fertig?</summary><p>Nein. reVCS ist ein aktiv entwickeltes Alpha-Fanprojekt mit bekannten Einschränkungen und laufenden Community-Tests. Manager 1.35.14 verbessert Installer und Updater; Spiel-Update 8.11 ist separat verfügbar.</p></details>
+      <details><summary>Ist das Spiel fertig?</summary><p>Nein. reVCS ist ein aktiv entwickeltes Alpha-Fanprojekt mit bekannten Einschränkungen und laufenden Community-Tests. Manager 1.35.15 verbessert Installer und Updater; Spiel-Update 9 ist separat verfügbar.</p></details>
       <details><summary>Was gehört in einen Fehlerbericht?</summary><p>Beschreibe die Schritte, Spiel- und Manager-Version, Disc-Ausgabe und das erwartete Ergebnis. Füge das relevante Log und bei Bedarf eine kurze Aufnahme hinzu. Entferne persönliche Daten aus den Logs.</p><a class="text-link" href="https://github.com/DasIstEin20/reVCS_Installer/issues">Installer-Problem melden <span aria-hidden="true">↗</span></a></details>
     </div></section>
     <section class="section wrap credits-section" id="community" aria-labelledby="community-title">

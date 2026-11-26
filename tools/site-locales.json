@@ -1120,5 +1120,11 @@
     "de": "Wende nach der Konvertierung im Manager zuerst Update 8.11 und dann Update 9 an. Starte natives x64 Direct3D 11 oder einen Kompatibilitätsrenderer und stelle Auflösung und optionale Texturpakete ein.",
     "fr": "Après la conversion, appliquez Update 8.11 puis Update 9 via le Manager. Lancez Direct3D 11 natif x64 ou un moteur compatible, puis réglez la résolution et les packs de textures facultatifs.",
     "es": "Tras la conversión, aplica Update 8.11 y después Update 9 mediante Manager. Inicia Direct3D 11 nativo x64 o un renderizador compatible y configura la resolución y los paquetes de texturas opcionales."
+  },
+  "Requires Update 8.11 and Manager 1.35.16.": {
+    "pl": "Wymaga Update 8.11 i Managera 1.35.16.",
+    "de": "Erfordert Update 8.11 und Manager 1.35.16.",
+    "fr": "Nécessite Update 8.11 et Manager 1.35.16.",
+    "es": "Requiere Update 8.11 y Manager 1.35.16."
   }
 }

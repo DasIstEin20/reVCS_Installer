@@ -1,0 +1,31 @@
+reVCS Manager 1.35.16
+
+Windows 10/11, 64-bit. Use your own GTA Vice City Stories PS2 game files.
+
+Fresh installation: extract the bootstrap ZIP, keep its tools folder beside
+reVCS Manager.exe, then select your PS2 ISO or extracted disc folder and an empty
+destination. Missing converter components download from GitHub. Conversion uses
+the existing Update 8.10 base; apply Update 8.11 and Update 9 through Manager.
+
+Existing installation: close Manager and the game, then extract the CopyPaste
+ZIP into the installation folder. It includes Manager and matching Tools.
+The Update ZIP contains Manager only and downloads matching Tools when needed.
+The game update chain and existing game Update 9 release are unchanged.
+
+PS2 saves: use Saves > Import PS2 save or Export selected slot to PS2.
+Import accepts supported raw/PSU/CBS/MAX/NPO/PSV/ZIP saves. Choose a source slot
+when a container holds several saves. Occupied destination slots require consent
+and are backed up. Raw export targets an existing compatible PCSX2 folder card;
+whole memory-card images are not overwritten. PC settings remain separate.
+Some saved gameplay states remain unsupported. Clear custom PS2 map waypoints
+before import. The outer PSV cryptographic signature is not verified. NPO framing
+has synthetic/reference coverage; no real VCS NPO sample was available.
+
+Repair reviews replacements and preserves backed-up originals. Embedded fallback
+metadata is used only for exact supported version/region profiles; other missing-
+manifest cases are reported explicitly. Custom translations are preserved.
+Failure reports are local; use Show logs to locate the diagnostic ZIP.
+
+This Manager release does not install new gameplay EXEs. No full original game
+resources, disc images, saves or third-party texture packs are included.
+Previous releases and the older complete offline converter kit remain available.

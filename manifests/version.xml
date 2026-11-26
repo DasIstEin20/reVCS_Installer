@@ -35,8 +35,8 @@
       <package id="textures" version="1.35.13" file="reVCS-textures-1.35.13.bin" bytes="10147362" sha256="45f1b1eb5f76479139e69757acff75a1f5885999032fc29077e00744927a3596">
         <source url="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.13-r2/reVCS-textures-1.35.13.bin" />
       </package>
-      <package id="tools" version="1.35.15" file="reVCS-tools-1.35.15.bin" bytes="19742998" sha256="e9b3cf5ec2ea02c7e73cc89cafe5cc10bbae3160ceed377b1dcb4c21e985f11b">
-        <source url="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.15/reVCS-tools-1.35.15.bin" />
+      <package id="tools" version="1.35.16" file="reVCS-tools-1.35.16.bin" bytes="23865380" sha256="77248e4d0ee4ffa9b92dbe4c43638d4c885591c86ee1f16a68440a4a2aa72b6f">
+        <source url="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.16/reVCS-tools-1.35.16.bin" />
       </package>
       <package id="vehicles" version="1.35.13" file="reVCS-vehicles-1.35.13.bin" bytes="5127" sha256="28762f393bd1b8bcb289ed90bb19e91d50b8410b7c25ca76cdb541184f16597f">
         <source url="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.13-r2/reVCS-vehicles-1.35.13.bin" />
@@ -54,7 +54,7 @@
       </update>
     </updates>
   </game>
-  <installer version="1.35.15" file="reVCS-Manager-1.35.15.exe" bytes="12518400" sha256="8a4548ab9d9ae4a46a0b6d720708e367cdaed4ecb54da3937be84f55b06b49eb" changelog="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.15/CHANGELOG_MANAGER_1_35_15_EN.txt">
-    <source url="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.15/reVCS-Manager-1.35.15.exe" />
+  <installer version="1.35.16" file="reVCS-Manager-1.35.16.exe" bytes="14039040" sha256="bdf1de88f8d584116d90c88aac9e27abf4ea0c53958691d0870a31dc1a148d38" changelog="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.16/CHANGELOG_MANAGER_1_35_16_EN.txt">
+    <source url="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.16/reVCS-Manager-1.35.16.exe" />
   </installer>
 </reVCSFeed>

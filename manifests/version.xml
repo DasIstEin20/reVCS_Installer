@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <reVCSFeed schema="2" channel="alpha" id="revcs-bullet-update8">
-  <game version="0.55 Alpha Update 9" layout="pc-v2-rvarch">
+  <game version="0.55 Alpha Update 9.1" layout="pc-v2-rvarch">
     <packages>
       <package id="animations" version="1.35.13" file="reVCS-animations-1.35.13.bin" bytes="1325206" sha256="fba50ac52f2375a418abbdfc84e2b7f3287ce4c82a5d84c92aca2b008933824e">
         <source url="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v1.35.13-r2/reVCS-animations-1.35.13.bin" />
@@ -51,6 +51,10 @@
       <update id="Update9" version="9.0.0" file="reVCS-Update-9-Full.zip" bytes="24823009" sha256="a2411487bfd704923a915bee042b548e638e44a540c1164b564cb892336e0ceb" changelog="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update9/CHANGELOG_UPDATE_9_EN.txt" from="0.55 Alpha Update 8.11" to="0.55 Alpha Update 9">
         <source url="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update9/reVCS-Update-9-Full.zip" />
         <requires-update id="Update8.11" />
+      </update>
+      <update id="Update9.1" version="9.1.0" file="reVCS-Update-9.1-Full.zip" bytes="64282228" sha256="57f4f4436d2bc796ab9311fc7ec254220ca2f7c1a286e9d69b511aa9c9878b46" changelog="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update9.1/CHANGELOG_UPDATE.txt" from="0.55 Alpha Update 9" to="0.55 Alpha Update 9.1">
+        <source url="https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update9.1/reVCS-Update-9.1-Full.zip" />
+        <requires-update id="Update9" />
       </update>
     </updates>
   </game>

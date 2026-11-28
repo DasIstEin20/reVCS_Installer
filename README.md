@@ -8,17 +8,17 @@ Install **reVCS Alpha 0.55** using your own Vice City Stories PS2 ISO or extract
 
 **Manager 1.35.16** — [Release notes](releases/CHANGELOG-1.35.16.md)
 
-**Update 9** — [Release notes](releases/CHANGELOG-9.md) · [Game update](https://github.com/DasIstEin20/reVCS_Installer/releases/tag/v0.55-update9)
+**Update 9.1** — [Release notes](releases/CHANGELOG-9.1.md) · [Game update](https://github.com/DasIstEin20/reVCS_Installer/releases/tag/v0.55-update9.1)
 
 Requires **Windows 10 or 11, 64-bit**, and your own PS2 game files.
 
 1. Download and extract the bootstrap ZIP into a writable folder.
 2. Run `reVCS Manager.exe` and keep its included `tools` folder beside it.
 3. Choose your PS2 ISO or extracted disc folder and a new or empty destination.
-4. Fresh conversion uses the existing Update 8.10 converter. Use Check Game Updates to apply Update 8.11, then Update 9.
+4. Fresh conversion uses the existing Update 8.10 converter. Use Check Game Updates to apply Update 8.11, then Update 9, then Update 9.1.
 5. Launch native x64 Direct3D 11, or choose an available compatibility renderer.
 
-For an **existing installation**, update Manager to 1.35.16 first. The CopyPaste ZIP includes Manager and its matching tools component for offline updating. Apply Update 8.11 before Update 9; the feed retains both steps. Older 8/8.0-8.10 installations can reach 8.11 through its existing cumulative update.
+For an **existing installation**, update Manager to 1.35.16 first. The CopyPaste ZIP includes Manager and its matching tools component for offline updating. Apply Update 8.11, Update 9, then Update 9.1; the feed retains all three steps. Older 8/8.0-8.10 installations can reach 8.11 through its existing cumulative update.
 
 The current release does not contain a new complete offline converter kit. The [previous 1.35.14 Full kit](https://github.com/DasIstEin20/reVCS_Installer/releases/tag/v1.35.14) remains available as an older conversion base; update Manager and apply the game update chain afterwards. A CopyPaste ZIP updates an existing installation and is not a complete fresh-install kit.
 

@@ -12,7 +12,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 SITE = ROOT / 'site'
 URL = 'https://dasistein20.github.io/reVCS_Installer/'
-LANGUAGES = ('pl', 'de', 'fr', 'es')
+LANGUAGES = ('pl', 'de', 'fr', 'es', 'tr')
 STRINGS = json.loads((Path(__file__).parent / 'site-locales.json').read_text(encoding='utf-8'))
 
 
@@ -57,7 +57,7 @@ class LocalizedPage(HTMLParser):
                 values['aria-current'] = 'page'
         for name in ('src', 'href'):
             value = values.get(name, '')
-            if value.startswith('assets/') or value in ('styles.css', 'app.js'):
+            if value.startswith('assets/') or value.split('?', 1)[0] in ('styles.css', 'app.js'):
                 values[name] = '../' + value
         self.output.append('<' + tag + ''.join(
             ' ' + name + ('' if value is None else '="' + html.escape(value, quote=True) + '"')
@@ -75,7 +75,7 @@ class LocalizedPage(HTMLParser):
         if self.stack[-1:] == ['summary'] and data.strip() == 'EN':
             data = data.replace('EN', self.language.upper())
         elif 'blockquote' in self.stack and data == '”':
-            data = {'pl': '”', 'de': '“', 'fr': ' »', 'es': '»'}[self.language]
+            data = {'pl': '”', 'de': '“', 'fr': ' »', 'es': '»', 'tr': '”'}[self.language]
         else:
             data = self.translate(data)
         self.output.append(html.escape(data, quote=False))

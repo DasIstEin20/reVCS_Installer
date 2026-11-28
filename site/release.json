@@ -3,12 +3,13 @@
   "package_tag": "v1.35.16",
   "bootstrap_bytes": 14572012,
   "components": 13,
-  "game_version": "0.55 Alpha Update 9",
-  "game_update_tag": "v0.55-update9",
+  "game_version": "0.55 Alpha Update 9.1",
+  "game_update_tag": "v0.55-update9.1",
   "converter_base_game_version": "0.55 Alpha Update 8.10",
   "offline_update_file": "reVCS-Manager-1.35.16-CopyPaste.zip",
   "required_game_update_chain": [
     "Update8.11",
-    "Update9"
+    "Update9",
+    "Update9.1"
   ]
 }

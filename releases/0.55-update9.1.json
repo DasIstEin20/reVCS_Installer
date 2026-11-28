@@ -1,0 +1,94 @@
+{
+  "schema": "revcs-paired-release/v1",
+  "tag": "v0.55-update9.1",
+  "release_id": 461289052,
+  "source_revision": "8be15caa34f99f02f16aa29256a3c8349db04606",
+  "feed": "manifests/version.xml",
+  "paired_release": "v1.35.16",
+  "source_code_in_update": false,
+  "from_versions": [
+    "0.55 Alpha Update 9"
+  ],
+  "minimum_manager": "1.35.16",
+  "backends": [
+    {
+      "path": "renderers/d3d11/x64/reVCS64.exe",
+      "architecture": "x64",
+      "backend": "d3d11",
+      "bytes": 9597952,
+      "sha256": "b605fa3b7d1fe9fa9c2519425cc436fafa40c8776321cd6541376250898ea200"
+    },
+    {
+      "path": "renderers/d3d9/x64/reVCS64.exe",
+      "architecture": "x64",
+      "backend": "d3d9",
+      "bytes": 9599488,
+      "sha256": "7705617e067e1c26cfbfab916e40bf95cdc41ba3a7b76b5cef7a629f46f858f7"
+    },
+    {
+      "path": "renderers/d3d11/x86/reVCS.exe",
+      "architecture": "x86",
+      "backend": "d3d11",
+      "bytes": 8167424,
+      "sha256": "ff3d9390739a15af202ae4ab01ae2a636709fdaa3fad2b606c675fafb86f6166"
+    },
+    {
+      "path": "renderers/d3d9/x86/reVCS.exe",
+      "architecture": "x86",
+      "backend": "d3d9",
+      "bytes": 8172032,
+      "sha256": "d5839943b001ecfead3e1b5ae43197a85b553cf85c6e1fce2556a439a6bc15a2"
+    }
+  ],
+  "native_validation": "Qualified x64 R14 engine checks reused; fresh version build, exact payload/source-delta reconstruction and actual Manager apply verified. No x86 or full mission test claim.",
+  "assets": [
+    {
+      "name": "reVCS-Update-9.1-Full.zip",
+      "bytes": 64282228,
+      "sha256": "57f4f4436d2bc796ab9311fc7ec254220ca2f7c1a286e9d69b511aa9c9878b46",
+      "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update9.1/reVCS-Update-9.1-Full.zip"
+    },
+    {
+      "name": "CHANGELOG_UPDATE.txt",
+      "bytes": 1880,
+      "sha256": "897a0cc97a93db394deae6226aa7269e362c0bb91cd1b763d9d1e75960e270c8",
+      "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update9.1/CHANGELOG_UPDATE.txt"
+    },
+    {
+      "name": "README_UPDATE.txt",
+      "bytes": 1119,
+      "sha256": "b3b3de1a14159aeac8cc81a950ae1678a82de2efa90627a97efc236b76af9836",
+      "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update9.1/README_UPDATE.txt"
+    },
+    {
+      "name": "version.xml",
+      "bytes": 6685,
+      "sha256": "2383472dec11fe4312c2f82db869773bc38fb9d30677f1694b5f57b685c180aa",
+      "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update9.1/version.xml"
+    },
+    {
+      "name": "SHA256SUMS-9.1.txt",
+      "bytes": 345,
+      "sha256": "98229404b8dc57570a2680b498d01ae519fcaa5e91dc75ad4ae9626d34fe2413",
+      "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update9.1/SHA256SUMS-9.1.txt"
+    },
+    {
+      "name": "revcs-release-public-key.json",
+      "bytes": 600,
+      "sha256": "cb0e326ed079be4349429766d16a7dcbfde23e20e442563eec98e0af6780793f",
+      "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update9.1/revcs-release-public-key.json"
+    },
+    {
+      "name": "revcs-update9-files.fido2.json",
+      "bytes": 1196,
+      "sha256": "23ced16b227cfe3d148921916b779603af5f78747aea8e1941b3903840e46b25",
+      "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update9.1/revcs-update9-files.fido2.json"
+    },
+    {
+      "name": "revcs-update9-files.json",
+      "bytes": 1057,
+      "sha256": "721d49c451469ad1d37b7b618a520ee5166af89f0a13d1a1517724cf96bd2566",
+      "url": "https://github.com/DasIstEin20/reVCS_Installer/releases/download/v0.55-update9.1/revcs-update9-files.json"
+    }
+  ]
+}

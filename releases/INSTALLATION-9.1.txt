@@ -1,0 +1,20 @@
+reVCS Update 9.1 - installation
+
+Close the game. Use reVCS Manager 1.35.16 or newer and Check Game Updates,
+or Choose local ZIP update with reVCS-Update-9.1-Full.zip.
+
+Requires an installed 0.55 Alpha Update 9 (9.0). For a fresh conversion,
+apply Update 8.11, then Update 9, then Update 9.1 through Manager.
+This ZIP contains source-dependent resource deltas. Do not extract it as a
+manual game overlay. It is not a complete game or fresh-install converter.
+
+Includes x86/x64 and Direct3D 9/11; root EXEs use Direct3D 11.
+Your saves, settings, selected texture packs and language are preserved.
+The later REVCS INTRO video and Greetings_From farewell artwork are included
+as user-approved recreated presentation replacements, together with supplied
+PlayStation glyph artwork. Original game resources are patched from your
+existing installation. Private commercial menu music samples are not distributed.
+
+Validation reuses completed x64 development checks for the matching engine
+code, with fresh build identity, package integrity and update-apply checks.
+Full mission and aiming playthroughs remain community testing.
